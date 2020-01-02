@@ -1,7 +1,19 @@
 ############################
-# 1. Copy & Paste ke terminal mikrotik
-# 2. Buat mangel untuk routing ke ISP tertentu
-# /ip firewall mangle add action=mark-routing chain=prerouting comment=Game dst-address-list=game new-routing-mark=ISP_TUJUAN passthrough=no
+/system note
+set note="      _  _  _     _      _\
+    \n    _[+][+][+]_  [+]    [+]\
+    \n   [+]       [+] [+]   [+]\
+    \n   [+]           [+]  [+]\
+    \n   [+]           [+][+]\
+    \n   [+]        _  [+]  [+]\
+    \n   [+]_  _  _[+] [+]   [+]\
+    \n     [+][+][+]   [+]    [+]\
+    \n   ________________________\
+    \n   ++++ Mas iChand KW  ++++\
+    \n   ++++ 0821 2076 6622 ++++\
+    \n   ++ fb.com/ichandkusuma +\
+    \n "
+
 ############################
 /ip firewall address-list
 add address=210.22.192.0/18 comment="China Unicom IP network" list=game
