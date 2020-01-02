@@ -16,6 +16,8 @@ set note="      _  _  _     _      _\
 
 ############################
 /ip firewall address-list
+add list=game address="1.2.3.4"
+rem [find list="game"]
 add address=210.22.192.0/18 comment="China Unicom IP network" list=game
 add address=161.202.0.0/19 comment="SoftLayer Technologies, Inc." list=game
 add address=119.28.0.0/16 comment="Tencent cloud computing (Beijing) Co., Ltd." list=game
