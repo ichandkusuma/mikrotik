@@ -130,3 +130,6 @@ e.crashlytics.com
 pingback.giphy.com
 sp.adpushonline.com
 tracking.intl.miui.com
+global.video.intl.xiaomi.com
+orion.iad.appboy.com
+
