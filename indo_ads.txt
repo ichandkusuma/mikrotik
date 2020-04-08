@@ -123,3 +123,10 @@ globalapi.ad.xiaomi.com
 h-adashx.ut.taobao.com
 sdkconfig.ad.intl.xiaomi.com
 ws.tapjoyads.com
+abroad-adv.360os.com
+api.v-mate.mobi
+crash-reporting.yy.com
+e.crashlytics.com
+pingback.giphy.com
+sp.adpushonline.com
+tracking.intl.miui.com
