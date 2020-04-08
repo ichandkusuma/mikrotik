@@ -23,12 +23,14 @@ acdn.adnxs.com
 acs.telkom.net
 ad.360yield.com
 ad.as.amanad.adtdp.com
+ad.crwdcntrl.net
 ad.doubleclick.net
 ad.garenanow.com
 ad.rfp.fout.jp
 ad.sen-sdk.com
 ad.turn.com
 ad2.apx.appier.net
+ad-api.ehawk.com
 adapi.icocofun.com
 adash.man.aliyuncs.com
 adashx4sg.ut.taobao.com
@@ -37,9 +39,12 @@ adc3-launch.adcolony.com
 adcfg.intowow.com
 adcs.rqmob.com
 ade.googlesyndication.com
+ad-mediation.tuanguwen.com
 admoustache.go2affise.com
 adn.insight.ucweb.com
 adnetwork.adasiaholdings.com
+adolymp.g2afse.com
+ads.adxadserv.com
 ads.api.vungle.com
 ads.baca.co.id
 ads.bulldogcpi.com
@@ -51,6 +56,7 @@ ads.stickyadstv.com
 ads.tapdaq.com
 ads.vidoomy.com
 ads8.kompasads.com
+ads-bi.zenkube.com
 adserver-us.adtech.advertising.com
 adservice.google.co.id
 adservice.google.com
@@ -63,6 +69,7 @@ advshield.goforandroid.com
 adx.lsosad.com
 adx.snipermob.com
 adx-id.ads.heytapmobi.com
+adx-id.ads.oppomobile.com
 adx-in.ads.oppomobile.com
 ai.adtarget.tech
 analytics.ad.daum.net
@@ -75,6 +82,7 @@ api.admobi360.com
 api.ads.go2reach.com
 api.adsnative123.com
 api.c.avazunativeads.com
+api.googleadsapi.com
 api.reachads.com
 api.v-mate.mobi
 api2.branch.io
@@ -83,6 +91,7 @@ app.adjust.com
 app.adstracking.io
 app-api-e-ddfabc345112.adenjoybox.com
 apps.ad.snappea.com
+asia-adlog.vivoglobal.com
 bdapi-id.ads.heytapmobi.com
 bdapi-id-ads.realmemobile.com
 bdapi-in.ads.oppomobile.com
@@ -93,8 +102,10 @@ c2.popads.net
 cdn.adx1.com
 cdn2.teads.tv
 cdn77-pic.xnxx-cdn.com
+cdn-creatives-akamai-prd.unityads.unity3d.com
 cl-data-id.ads.heytapmobi.com
 cl-data-id.ads.heytapmobile.com
+click.advertnative.com
 click.baburnadir.com
 click.gowadogo.com
 clk.apxadtracking.net
@@ -102,6 +113,7 @@ cm.adkmob.com
 code.beaverads.com
 conf.lsosad.com
 config.unityads.unity3d.com
+core.royalads.net
 crashlogs.whatsapp.net
 crash-reporting.yy.com
 data.mistat.intl.xiaomi.com
@@ -112,6 +124,7 @@ diagnosis.ad.intl.xiaomi.com
 dmp.adform.net
 dsp.adfarm1.adition.com
 dsp-adcreative.mobshark.net
+dt.adsafeprotected.com
 e.crashlytics.com
 events3alt.adcolony.com
 fota4.adups.cn
@@ -123,6 +136,7 @@ gstaticadssl.l.google.com
 h-adashx.ut.taobao.com
 h-adashx4sg.ut.taobao.com
 helpgrid1.ksmobile.com
+httpkafka.unityads.unity3d.com
 ib.adnxs.com
 ids.ad.gt
 images.ibizads.com
@@ -134,12 +148,14 @@ in-adreq.vivoglobal.com
 init.supersonicads.com
 iotapi.adups.com
 match.adsrvr.org
+n.ads1-adnow.com
 net.salmonads.com
 orion.iad.appboy.com
 outcome-ssp.supersonicads.com
 pad-v3.presage.io
 pagead2.googlesyndication.com
 pingback.giphy.com
+pixel.advertising.com
 pixel.tapad.com
 pixels.ad.gt
 plugin.ucads.ucweb.com
@@ -149,6 +165,7 @@ pubads.g.doubleclick.net
 publpush.com
 push.adsconverts.com
 pushads.biz
+px.adhigh.net
 r.teads.tv
 reports.crashlytics.com
 rosenberg.appmetrica.yandex.net
@@ -167,6 +184,7 @@ settings.crashlytics.com
 sp.adpushonline.com
 ssp.adskom.com
 st.beaverads.com
+static.adsafeprotected.com
 static.doubleclick.net
 stats.g.doubleclick.net
 stg-data-id.ads.heytapmobi.com
@@ -175,8 +193,10 @@ t.teads.tv
 tagan.adlightning.com
 tr9ck.bruceleadx2.com
 track.adstack.co
+track.gowithads.com
 tracking.intl.miui.com
 tracking.yohoads.com
+v.adsrvr.org
 wd.adcolony.com
 welcome.indihome.co.id
 ws.tapjoyads.com
@@ -185,16 +205,5 @@ xyads.fuse-cloud.com
 y.one.impact-ad.jp
 z.moatads.com
 zeus.ad.intl.xiaomi.com
-asia-adlog.vivoglobal.com
-n.ads1-adnow.com
-px.adhigh.net
-v.adsrvr.org
-ad.crwdcntrl.net
-adolymp.g2afse.com
-adx-id.ads.oppomobile.com
-cdn-creatives-akamai-prd.unityads.unity3d.com
-click.advertnative.com
-core.royalads.net
-httpkafka.unityads.unity3d.com
-track.gowithads.com
+
 
