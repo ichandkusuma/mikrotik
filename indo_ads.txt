@@ -100,3 +100,17 @@ t.teads.tv
 www.googleadservices.com
 z.moatads.com
 zeus.ad.intl.xiaomi.com
+ad.garenanow.com
+adcs.rqmob.com
+ads.api.vungle.com
+aoyou.idealads.net
+api.ads.go2reach.com
+app.adjust.com
+apps.ad.snappea.com
+click.baburnadir.com
+click.gowadogo.com
+conf.lsosad.com
+pad-v3.presage.io
+sdk-android.ad.smaato.net
+track.adstack.co
+xyads.fuse-cloud.com
