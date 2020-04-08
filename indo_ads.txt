@@ -114,3 +114,12 @@ pad-v3.presage.io
 sdk-android.ad.smaato.net
 track.adstack.co
 xyads.fuse-cloud.com
+adashx4sg.ut.taobao.com
+app.adstracking.io
+c1.popads.net
+c2.popads.net
+clk.apxadtracking.net
+globalapi.ad.xiaomi.com
+h-adashx.ut.taobao.com
+sdkconfig.ad.intl.xiaomi.com
+ws.tapjoyads.com
