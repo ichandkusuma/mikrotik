@@ -132,4 +132,16 @@ sp.adpushonline.com
 tracking.intl.miui.com
 global.video.intl.xiaomi.com
 orion.iad.appboy.com
-
+abc51.adtelligent.com
+ad.as.amanad.adtdp.com
+adc3-launch.adcolony.com
+ads.bulldogcpi.com
+adx.snipermob.com
+api.ad.snappea.com
+api.admobi360.com
+dsp.adfarm1.adition.com
+events3alt.adcolony.com
+h-adashx4sg.ut.taobao.com
+sdk.adspruce.com
+tagan.adlightning.com
+wd.adcolony.com
