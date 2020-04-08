@@ -185,3 +185,7 @@ xyads.fuse-cloud.com
 y.one.impact-ad.jp
 z.moatads.com
 zeus.ad.intl.xiaomi.com
+asia-adlog.vivoglobal.com
+n.ads1-adnow.com
+px.adhigh.net
+v.adsrvr.org
