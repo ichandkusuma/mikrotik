@@ -205,5 +205,16 @@ xyads.fuse-cloud.com
 y.one.impact-ad.jp
 z.moatads.com
 zeus.ad.intl.xiaomi.com
+abc23.adtelligent.com
+abroad.apilocate.amap.com
+admaster.union.ucweb.com
+ap-adcs.rqmob.com
+c.adskeeper.co.uk
+cdn.special-offers.online
+l3.aaxads.com
+n.adxxx.info
+s-img.adskeeper.co.uk
+static.adxadserv.com
+www.salmonads.com
 
 
