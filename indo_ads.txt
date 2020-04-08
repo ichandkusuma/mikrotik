@@ -145,3 +145,14 @@ h-adashx4sg.ut.taobao.com
 sdk.adspruce.com
 tagan.adlightning.com
 wd.adcolony.com
+a.sportradarserving.com
+ad.rfp.fout.jp
+ad.turn.com
+adnetwork.adasiaholdings.com
+api.reachads.com
+bk.r-ad.ne.jp
+c1.adform.net
+fota4.adups.cn
+ids.ad.gt
+pixels.ad.gt
+sync-dsp.ad-m.asia
