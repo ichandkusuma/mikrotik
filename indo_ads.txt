@@ -156,3 +156,15 @@ fota4.adups.cn
 ids.ad.gt
 pixels.ad.gt
 sync-dsp.ad-m.asia
+abc22.adtelligent.com
+adn.insight.ucweb.com
+advshield.goforandroid.com
+ai.adtarget.tech
+app-api-e-ddfabc345112.adenjoybox.com
+cdn.adx1.com
+cm.adkmob.com
+diagnosis.ad.intl.xiaomi.com
+iotapi.adups.com
+net.salmonads.com
+rtb-usw.mfadsrvr.com
+sdkconfig.ad.xiaomi.com
