@@ -189,4 +189,12 @@ asia-adlog.vivoglobal.com
 n.ads1-adnow.com
 px.adhigh.net
 v.adsrvr.org
+ad.crwdcntrl.net
+adolymp.g2afse.com
+adx-id.ads.oppomobile.com
+cdn-creatives-akamai-prd.unityads.unity3d.com
+click.advertnative.com
+core.royalads.net
+httpkafka.unityads.unity3d.com
+track.gowithads.com
 
