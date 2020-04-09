@@ -1,0 +1,23 @@
+# 
+# Internet Sehat  (Pi-Hole)
+# 
+# Last Update: 10/04/2020 01:34:18 GMT+7
+# 
+# Project website: https://kakiteng.com 
+# 
+
+# ======================================================================================================
+
+hd-porno-tube.com
+mazolporn.com
+video-hw.xnxx-cdn.com
+www.xnxx.com
+www.xvideos.com
+xxxvideo-tube.ru
+www.dinoxxx.com
+www.hotxxxgaysex.com
+www.mosthairysex.com
+www.onlyxxxmovies.com
+www.pornblackporn.com
+www.pornoreino.com
+
