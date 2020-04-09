@@ -1,4 +1,3 @@
-############################
 /system note
 set note="      _  _  _     _      _\
     \n    _[+][+][+]_  [+]    [+]\
@@ -12,9 +11,11 @@ set note="      _  _  _     _      _\
     \n   ++++ Mas iChand KW  ++++\
     \n   ++++ 0821 2076 6622 ++++\
     \n   ++ fb.com/ichandkusuma +\
+    \n \r\
+    \n    \
     \n "
-
 ############################
+
 /ip firewall address-list
 add list=game address="1.2.3.4"
 rem [find list="game"]
