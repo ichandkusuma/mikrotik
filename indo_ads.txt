@@ -3,8 +3,6 @@
 # 
 # Last Update: 09/04/2020 12:06:58 GMT+7
 # 
-# This is the extended version, also contains domains without subdomains.
-# 
 # Project website: https://kakiteng.com 
 # 
 
