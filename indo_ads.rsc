@@ -9,8 +9,7 @@
 
 # Sesuaikan IP_LOKAL_CLIENT dengan address List Lokal Anda #
 
-/ip firewall nat
-add action=redirect chain=dstnat comment="Belokkan DNS" dst-address-list=!IP_LOKAL_CLIENT dst-port=53 protocol=udp src-address-list=IP_LOKAL_CLIENT to-ports=53
+#/ip firewall nat add action=redirect chain=dstnat comment="Belokkan DNS" dst-address-list=!IP_LOKAL_CLIENT dst-port=53 protocol=udp src-address-list=IP_LOKAL_CLIENT to-ports=53
 
 /ip dns static
 add address=127.0.0.1 ttl=30s name=0-eu-west-1-awesomeads-166321764.eu-west-1.elb.amazonaws.com
