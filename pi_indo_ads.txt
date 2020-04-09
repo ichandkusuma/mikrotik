@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 10/04/2020 02:21:45 GMT+7
+# Last Update: 10/04/2020 02:24:45 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -539,7 +539,6 @@ service.adxoo.com
 servyourads.com
 settings.crashlytics.com
 settleads.gotrackier.com
-sexsohot.com
 sg2-bid.adsrvr.org
 sgp.smartadserver.com
 show.revopush.com
