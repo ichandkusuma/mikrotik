@@ -58,7 +58,6 @@ ad.myinstashot.com
 ad.period-calendar.com
 ad.rfp.fout.jp
 ad.sen-sdk.com
-adx-tk.rayjump.com
 ad.turn.com
 ad.turn.com.akadns.net
 ad-1263261047.us-east-1.elb.amazonaws.com
@@ -202,6 +201,7 @@ adx-id.ads.oppomobile.com
 adx-id-ads-694765279.ap-southeast-1.elb.amazonaws.com
 adx-id-ads-heytapmobi-com-gw-876093184.ap-southeast-1.elb.amazonaws.com
 adx-in.ads.oppomobile.com
+adx-tk.rayjump.com
 afflow.btadsmedia.com
 ai.adtarget.tech
 aksgplb01.adskom.com
@@ -280,8 +280,8 @@ cfs.u-ad.info
 cfs2.uzone.id
 cl-data-id.ads.heytapmobi.com
 cl-data-id.ads.heytapmobile.com
-"cl-data-id-ads-heytapmobi-com-gw-1125794531.ap-southeast-1.elb.amazonaws.com"
-"cl-data-id-ads-heytapmobile-com-2069016997.ap-southeast-1.elb.amazonaws.com"
+cl-data-id-ads-heytapmobi-com-gw-1125794531.ap-southeast-1.elb.amazonaws.com
+cl-data-id-ads-heytapmobile-com-2069016997.ap-southeast-1.elb.amazonaws.com
 cl-data-in.ads.heytapmobi.com
 click.adopexchange.com
 click.advertnative.com
@@ -532,6 +532,7 @@ track.adstack.co
 track.brucelead.com
 track.gowithads.com
 track-apac.adformnet.akadns.net
+tracker.rqmob.com
 tracking.bayofads.com
 tracking.intl.miui.com
 tracking.yohoads.com
@@ -576,3 +577,4 @@ xyads.fuse-cloud.com
 y.one.impact-ad.jp
 z.moatads.com
 zeus.ad.intl.xiaomi.com
+
