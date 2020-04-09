@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 10/04/2020 01:39:45 GMT+7
+# Last Update: 10/04/2020 01:54:45 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -612,3 +612,10 @@ the-sexy-tube.com
 tracker.rqmob.com
 trk.georgepush.com
 us1.evadavdsp.pro
+ck.jads.co
+clickmob.c0c.xyz
+mc.yandex.ru
+s.1ts18.top
+show.revopush.com
+yandex.com
+
