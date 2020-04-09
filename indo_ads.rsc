@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Mikrotik)
 # 
-# Last Update: 09/04/2020 12:06:58 GMT+7
+# Last Update: 09/04/2020 13:09:58 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -9,225 +9,571 @@
 # ======================================================================================================
 
 /ip dns static
-add address=127.0.0.1 ttl=30s name=a.sportradarserving.com
-add address=127.0.0.1 ttl=30s name=a.teads.tv
-add address=127.0.0.1 ttl=30s name=aax-fe-sin.amazon-adsystem.com
-add address=127.0.0.1 ttl=30s name=aax-us.amazon-adsystem.com
-add address=127.0.0.1 ttl=30s name=abc13.adtelligent.com
-add address=127.0.0.1 ttl=30s name=abc22.adtelligent.com
-add address=127.0.0.1 ttl=30s name=abc23.adtelligent.com
-add address=127.0.0.1 ttl=30s name=abc5.adtelligent.com
-add address=127.0.0.1 ttl=30s name=abc51.adtelligent.com
-add address=127.0.0.1 ttl=30s name=abc9.adtelligent.com
-add address=127.0.0.1 ttl=30s name=abroad.apilocate.amap.com
-add address=127.0.0.1 ttl=30s name=abroad-ad.kingsoft-office-service.com
-add address=127.0.0.1 ttl=30s name=abroad-adv.360os.com
-add address=127.0.0.1 ttl=30s name=accounts.doubleclick.net
-add address=127.0.0.1 ttl=30s name=acdn.adnxs.com
-add address=127.0.0.1 ttl=30s name=acs.maribacaberita.com
-add address=127.0.0.1 ttl=30s name=acs.telkom.net
-add address=127.0.0.1 ttl=30s name=ad.360yield.com
-add address=127.0.0.1 ttl=30s name=ad.as.amanad.adtdp.com
-add address=127.0.0.1 ttl=30s name=ad.crwdcntrl.net
-add address=127.0.0.1 ttl=30s name=ad.doubleclick.net
-add address=127.0.0.1 ttl=30s name=ad.garenanow.com
-add address=127.0.0.1 ttl=30s name=ad.rfp.fout.jp
-add address=127.0.0.1 ttl=30s name=ad.sen-sdk.com
-add address=127.0.0.1 ttl=30s name=ad.turn.com
-add address=127.0.0.1 ttl=30s name=ad2.apx.appier.net
-add address=127.0.0.1 ttl=30s name=ad-api.ehawk.com
-add address=127.0.0.1 ttl=30s name=adapi.icocofun.com
-add address=127.0.0.1 ttl=30s name=adash.man.aliyuncs.com
-add address=127.0.0.1 ttl=30s name=adashx4sg.ut.taobao.com
-add address=127.0.0.1 ttl=30s name=adasiatagmanager.appspot.com
-add address=127.0.0.1 ttl=30s name=adc3-launch.adcolony.com
-add address=127.0.0.1 ttl=30s name=adcfg.intowow.com
-add address=127.0.0.1 ttl=30s name=adcs.rqmob.com
-add address=127.0.0.1 ttl=30s name=ade.googlesyndication.com
-add address=127.0.0.1 ttl=30s name=admaster.union.ucweb.com
-add address=127.0.0.1 ttl=30s name=ad-mediation.tuanguwen.com
-add address=127.0.0.1 ttl=30s name=admoustache.go2affise.com
-add address=127.0.0.1 ttl=30s name=adn.insight.ucweb.com
-add address=127.0.0.1 ttl=30s name=adnetwork.adasiaholdings.com
-add address=127.0.0.1 ttl=30s name=adolymp.g2afse.com
-add address=127.0.0.1 ttl=30s name=ads.adxadserv.com
-add address=127.0.0.1 ttl=30s name=ads.api.vungle.com
-add address=127.0.0.1 ttl=30s name=ads.avct.cloud
-add address=127.0.0.1 ttl=30s name=ads.baca.co.id
-add address=127.0.0.1 ttl=30s name=ads.bulldogcpi.com
-add address=127.0.0.1 ttl=30s name=ads.gridtechno.com
-add address=127.0.0.1 ttl=30s name=ads.inmobi.com
-add address=127.0.0.1 ttl=30s name=ads.mopub.com
-add address=127.0.0.1 ttl=30s name=ads.nexage.com
-add address=127.0.0.1 ttl=30s name=ads.pubmatic.com
-add address=127.0.0.1 ttl=30s name=ads.stickyadstv.com
-add address=127.0.0.1 ttl=30s name=ads.tapdaq.com
-add address=127.0.0.1 ttl=30s name=ads.vidoomy.com
-add address=127.0.0.1 ttl=30s name=ads8.kompasads.com
-add address=127.0.0.1 ttl=30s name=ads-bi.zenkube.com
-add address=127.0.0.1 ttl=30s name=adserver-us.adtech.advertising.com
-add address=127.0.0.1 ttl=30s name=adservice.google.co.id
-add address=127.0.0.1 ttl=30s name=adservice.google.com
-add address=127.0.0.1 ttl=30s name=adsimg.kompas.com
-add address=127.0.0.1 ttl=30s name=adsmetadata.startappservice.com
-add address=127.0.0.1 ttl=30s name=adsserver.download
-add address=127.0.0.1 ttl=30s name=adv.sec.intl.miui.com
-add address=127.0.0.1 ttl=30s name=adv.sec.miui.com
-add address=127.0.0.1 ttl=30s name=advshield.goforandroid.com
-add address=127.0.0.1 ttl=30s name=adx.lsosad.com
-add address=127.0.0.1 ttl=30s name=adx.snipermob.com
-add address=127.0.0.1 ttl=30s name=adx-id.ads.heytapmobi.com
-add address=127.0.0.1 ttl=30s name=adx-id.ads.oppomobile.com
-add address=127.0.0.1 ttl=30s name=adx-in.ads.oppomobile.com
-add address=127.0.0.1 ttl=30s name=ai.adtarget.tech
-add address=127.0.0.1 ttl=30s name=analytics.ad.daum.net
-add address=127.0.0.1 ttl=30s name=aoyou.idealads.net
-add address=127.0.0.1 ttl=30s name=ap-adcs.rqmob.com
-add address=127.0.0.1 ttl=30s name=api.ad.intl.xiaomi.com
-add address=127.0.0.1 ttl=30s name=api.ad.leomaster.com
-add address=127.0.0.1 ttl=30s name=api.ad.snappea.com
-add address=127.0.0.1 ttl=30s name=api.ad.xiaomi.com
-add address=127.0.0.1 ttl=30s name=api.admobi360.com
-add address=127.0.0.1 ttl=30s name=api.ads.go2reach.com
-add address=127.0.0.1 ttl=30s name=api.adsnative123.com
-add address=127.0.0.1 ttl=30s name=api.c.avazunativeads.com
-add address=127.0.0.1 ttl=30s name=api.googleadsapi.com
-add address=127.0.0.1 ttl=30s name=api.reachads.com
-add address=127.0.0.1 ttl=30s name=api.v-mate.mobi
-add address=127.0.0.1 ttl=30s name=api2.branch.io
-add address=127.0.0.1 ttl=30s name=apiv2.moengage.com
-add address=127.0.0.1 ttl=30s name=app.adjust.com
-add address=127.0.0.1 ttl=30s name=app.adstracking.io
-add address=127.0.0.1 ttl=30s name=app-api-e-ddfabc345112.adenjoybox.com
-add address=127.0.0.1 ttl=30s name=apps.ad.snappea.com
-add address=127.0.0.1 ttl=30s name=asia-adlog.vivoglobal.com
-add address=127.0.0.1 ttl=30s name=bdapi-id.ads.heytapmobi.com
-add address=127.0.0.1 ttl=30s name=bdapi-id-ads.realmemobile.com
-add address=127.0.0.1 ttl=30s name=bdapi-in.ads.oppomobile.com
-add address=127.0.0.1 ttl=30s name=bk.r-ad.ne.jp
-add address=127.0.0.1 ttl=30s name=c.aaxads.com
-add address=127.0.0.1 ttl=30s name=c.adskeeper.co.uk
-add address=127.0.0.1 ttl=30s name=c1.adform.net
-add address=127.0.0.1 ttl=30s name=c1.popads.net
-add address=127.0.0.1 ttl=30s name=c2.popads.net
-add address=127.0.0.1 ttl=30s name=cdn.adx1.com
-add address=127.0.0.1 ttl=30s name=cdn.push.house
-add address=127.0.0.1 ttl=30s name=cdn.special-offers.online
-add address=127.0.0.1 ttl=30s name=cdn2.teads.tv
-add address=127.0.0.1 ttl=30s name=cdn77-pic.xnxx-cdn.com
-add address=127.0.0.1 ttl=30s name=cdn-creatives-akamai-prd.unityads.unity3d.com
-add address=127.0.0.1 ttl=30s name=cl-data-id.ads.heytapmobi.com
-add address=127.0.0.1 ttl=30s name=cl-data-id.ads.heytapmobile.com
-add address=127.0.0.1 ttl=30s name=click.advertnative.com
-add address=127.0.0.1 ttl=30s name=click.baburnadir.com
-add address=127.0.0.1 ttl=30s name=click.gowadogo.com
-add address=127.0.0.1 ttl=30s name=clk.apxadtracking.net
-add address=127.0.0.1 ttl=30s name=cm.adkmob.com
-add address=127.0.0.1 ttl=30s name=code.beaverads.com
-add address=127.0.0.1 ttl=30s name=conf.lsosad.com
-add address=127.0.0.1 ttl=30s name=config.unityads.unity3d.com
-add address=127.0.0.1 ttl=30s name=core.royalads.net
-add address=127.0.0.1 ttl=30s name=crashlogs.whatsapp.net
-add address=127.0.0.1 ttl=30s name=crash-reporting.yy.com
-add address=127.0.0.1 ttl=30s name=data.mistat.intl.xiaomi.com
-add address=127.0.0.1 ttl=30s name=data-cl-id-ads.realmemobile.com
-add address=127.0.0.1 ttl=30s name=data-id.ads.oppomobile.com
-add address=127.0.0.1 ttl=30s name=data-id-ads.realmemobile.com
-add address=127.0.0.1 ttl=30s name=data-in.ads.oppomobile.com
-add address=127.0.0.1 ttl=30s name=diagnosis.ad.intl.xiaomi.com
-add address=127.0.0.1 ttl=30s name=dmp.adform.net
-add address=127.0.0.1 ttl=30s name=dsp.adfarm1.adition.com
-add address=127.0.0.1 ttl=30s name=dsp-adcreative.mobshark.net
-add address=127.0.0.1 ttl=30s name=dt.adsafeprotected.com
-add address=127.0.0.1 ttl=30s name=e.crashlytics.com
-add address=127.0.0.1 ttl=30s name=events3alt.adcolony.com
-add address=127.0.0.1 ttl=30s name=fota4.adups.cn
-add address=127.0.0.1 ttl=30s name=global.video.intl.xiaomi.com
-add address=127.0.0.1 ttl=30s name=globalapi.ad.xiaomi.com
-add address=127.0.0.1 ttl=30s name=googleads.g.doubleclick.net
-add address=127.0.0.1 ttl=30s name=graph.instagram.com
-add address=127.0.0.1 ttl=30s name=gstaticadssl.l.google.com
-add address=127.0.0.1 ttl=30s name=h-adashx.ut.taobao.com
-add address=127.0.0.1 ttl=30s name=h-adashx4sg.ut.taobao.com
-add address=127.0.0.1 ttl=30s name=hbopenbid.pubmatic.com
-add address=127.0.0.1 ttl=30s name=helpgrid1.ksmobile.com
-add address=127.0.0.1 ttl=30s name=httpkafka.unityads.unity3d.com
-add address=127.0.0.1 ttl=30s name=ib.adnxs.com
-add address=127.0.0.1 ttl=30s name=ids.ad.gt
-add address=127.0.0.1 ttl=30s name=images.ibizads.com
-add address=127.0.0.1 ttl=30s name=img.beaverads.com
-add address=127.0.0.1 ttl=30s name=img-hw.xnxx-cdn.com
-add address=127.0.0.1 ttl=30s name=img-hw.xvideos-cdn.com
-add address=127.0.0.1 ttl=30s name=img-l3.xnxx-cdn.com
-add address=127.0.0.1 ttl=30s name=in-adreq.vivoglobal.com
-add address=127.0.0.1 ttl=30s name=init.supersonicads.com
-add address=127.0.0.1 ttl=30s name=iotapi.adups.com
-add address=127.0.0.1 ttl=30s name=l3.aaxads.com
-add address=127.0.0.1 ttl=30s name=match.adsrvr.org
-add address=127.0.0.1 ttl=30s name=mob.adwhirl.com
-add address=127.0.0.1 ttl=30s name=n.ads1-adnow.com
-add address=127.0.0.1 ttl=30s name=n.adxxx.info
-add address=127.0.0.1 ttl=30s name=net.salmonads.com
-add address=127.0.0.1 ttl=30s name=orion.iad.appboy.com
-add address=127.0.0.1 ttl=30s name=outcome-ssp.supersonicads.com
-add address=127.0.0.1 ttl=30s name=pad-v3.presage.io
-add address=127.0.0.1 ttl=30s name=pagead2.googlesyndication.com
-add address=127.0.0.1 ttl=30s name=pingback.giphy.com
-add address=127.0.0.1 ttl=30s name=pixel.advertising.com
-add address=127.0.0.1 ttl=30s name=pixel.tapad.com
-add address=127.0.0.1 ttl=30s name=pixels.ad.gt
-add address=127.0.0.1 ttl=30s name=plugin.ucads.ucweb.com
-add address=127.0.0.1 ttl=30s name=pm-gateway.supersonicads.com
-add address=127.0.0.1 ttl=30s name=prebid.adnxs.com
-add address=127.0.0.1 ttl=30s name=pubads.g.doubleclick.net
-add address=127.0.0.1 ttl=30s name=publpush.com
-add address=127.0.0.1 ttl=30s name=push.adsconverts.com
-add address=127.0.0.1 ttl=30s name=push.maribacaberita.com
-add address=127.0.0.1 ttl=30s name=pushads.biz
-add address=127.0.0.1 ttl=30s name=pushnginx.news-host.pw
-add address=127.0.0.1 ttl=30s name=px.adhigh.net
-add address=127.0.0.1 ttl=30s name=r.teads.tv
-add address=127.0.0.1 ttl=30s name=reports.crashlytics.com
-add address=127.0.0.1 ttl=30s name=rosenberg.appmetrica.yandex.net
-add address=127.0.0.1 ttl=30s name=rtb-usw.mfadsrvr.com
-add address=127.0.0.1 ttl=30s name=sdk.adspruce.com
-add address=127.0.0.1 ttl=30s name=sdk.adtiming.com
-add address=127.0.0.1 ttl=30s name=sdk.hansel.io
-add address=127.0.0.1 ttl=30s name=sdk-android.ad.smaato.net
-add address=127.0.0.1 ttl=30s name=sdkconfig.ad.intl.xiaomi.com
-add address=127.0.0.1 ttl=30s name=sdkconfig.ad.xiaomi.com
-add address=127.0.0.1 ttl=30s name=secure.adnxs.com
-add address=127.0.0.1 ttl=30s name=securepubads.g.doubleclick.net
-add address=127.0.0.1 ttl=30s name=serve.mondiad.net
-add address=127.0.0.1 ttl=30s name=service.adxoo.com
-add address=127.0.0.1 ttl=30s name=settings.crashlytics.com
-add address=127.0.0.1 ttl=30s name=s-img.adskeeper.co.uk
-add address=127.0.0.1 ttl=30s name=sp.adpushonline.com
-add address=127.0.0.1 ttl=30s name=ssp.adskom.com
-add address=127.0.0.1 ttl=30s name=st.beaverads.com
-add address=127.0.0.1 ttl=30s name=static.adsafeprotected.com
-add address=127.0.0.1 ttl=30s name=static.adxadserv.com
-add address=127.0.0.1 ttl=30s name=static.doubleclick.net
-add address=127.0.0.1 ttl=30s name=stats.g.doubleclick.net
-add address=127.0.0.1 ttl=30s name=stg-data-id.ads.heytapmobi.com
-add address=127.0.0.1 ttl=30s name=sync-dsp.ad-m.asia
-add address=127.0.0.1 ttl=30s name=t.teads.tv
-add address=127.0.0.1 ttl=30s name=tagan.adlightning.com
-add address=127.0.0.1 ttl=30s name=tpc.googlesyndication.com
-add address=127.0.0.1 ttl=30s name=tr9ck.bruceleadx2.com
-add address=127.0.0.1 ttl=30s name=track.adstack.co
-add address=127.0.0.1 ttl=30s name=track.gowithads.com
-add address=127.0.0.1 ttl=30s name=tracking.intl.miui.com
-add address=127.0.0.1 ttl=30s name=tracking.yohoads.com
-add address=127.0.0.1 ttl=30s name=unconf.adkmob.com
-add address=127.0.0.1 ttl=30s name=v.adsrvr.org
-add address=127.0.0.1 ttl=30s name=wd.adcolony.com
-add address=127.0.0.1 ttl=30s name=welcome.indihome.co.id
-add address=127.0.0.1 ttl=30s name=ws.tapjoyads.com
-add address=127.0.0.1 ttl=30s name=ww1097.smartadserver.com
-add address=127.0.0.1 ttl=30s name=www.googleadservices.com
-add address=127.0.0.1 ttl=30s name=www.salmonads.com
-add address=127.0.0.1 ttl=30s name=xyads.fuse-cloud.com
-add address=127.0.0.1 ttl=30s name=y.one.impact-ad.jp
-add address=127.0.0.1 ttl=30s name=z.moatads.com
-add address=127.0.0.1 ttl=30s name=zeus.ad.intl.xiaomi.com
+add address=127.0.0.1 name=0-eu-west-1-awesomeads-166321764.eu-west-1.elb.amazonaws.com
+add address=127.0.0.1 name=1.n.adsco.re
+add address=127.0.0.1 name=1.s.adsco.re
+add address=127.0.0.1 name=12dc71b7cb820f2a.com
+add address=127.0.0.1 name=1plusads.affise.com
+add address=127.0.0.1 name=242.17-67-87.adsl-dyn.isp.belgacom.be
+add address=127.0.0.1 name=3x2.myfastcdn.com
+add address=127.0.0.1 name=6.adsco.re
+add address=127.0.0.1 name=87-205-224-41.adsl.inetia.pl
+add address=127.0.0.1 name=93-138-176-222.adsl.net.t-com.hr
+add address=127.0.0.1 name=990b424f659e4e27.com
+add address=127.0.0.1 name=a.admp.io
+add address=127.0.0.1 name=a.sportradarserving.com
+add address=127.0.0.1 name=a.teads.tv
+add address=127.0.0.1 name=aax-eu.amazon-adsystem.com
+add address=127.0.0.1 name=aax-fe.amazon-adsystem.com
+add address=127.0.0.1 name=aax-fe-sin.amazon-adsystem.com
+add address=127.0.0.1 name=aax-us.amazon-adsystem.com
+add address=127.0.0.1 name=aax-us-east.amazon-adsystem.com
+add address=127.0.0.1 name=aax-us-pdx.amazon-adsystem.com
+add address=127.0.0.1 name=abc1.adtelligent.com
+add address=127.0.0.1 name=abc13.adtelligent.com
+add address=127.0.0.1 name=abc22.adtelligent.com
+add address=127.0.0.1 name=abc23.adtelligent.com
+add address=127.0.0.1 name=abc5.adtelligent.com
+add address=127.0.0.1 name=abc51.adtelligent.com
+add address=127.0.0.1 name=abc9.adtelligent.com
+add address=127.0.0.1 name=abroad.apilocate.amap.com
+add address=127.0.0.1 name=abroad-ad.kingsoft-office-service.com
+add address=127.0.0.1 name=abroad-adv.360os.com
+add address=127.0.0.1 name=accounts.doubleclick.net
+add address=127.0.0.1 name=acdn.adnxs.com
+add address=127.0.0.1 name=acs.maribacaberita.com
+add address=127.0.0.1 name=acs.telkom.net
+add address=127.0.0.1 name=ad.360yield.com
+add address=127.0.0.1 name=ad.adapter.kaffnet.com
+add address=127.0.0.1 name=ad.as.amanad.adtdp.com
+add address=127.0.0.1 name=ad.castad.co.kr
+add address=127.0.0.1 name=ad.click.kaffnet.com
+add address=127.0.0.1 name=ad.crwdcntrl.net
+add address=127.0.0.1 name=ad.doubleclick.net
+add address=127.0.0.1 name=ad.garenanow.com
+add address=127.0.0.1 name=ad.impactify.io
+add address=127.0.0.1 name=ad.lionmobi.com
+add address=127.0.0.1 name=ad.mail.ru
+add address=127.0.0.1 name=ad.moboclick09.com
+add address=127.0.0.1 name=ad.myinstashot.com
+add address=127.0.0.1 name=ad.period-calendar.com
+add address=127.0.0.1 name=ad.rfp.fout.jp
+add address=127.0.0.1 name=ad.sen-sdk.com
+add address=127.0.0.1 name=ad.turn.com
+add address=127.0.0.1 name=ad.turn.com.akadns.net
+add address=127.0.0.1 name=ad-1263261047.us-east-1.elb.amazonaws.com
+add address=127.0.0.1 name=ad2.apx.appier.net
+add address=127.0.0.1 name=ad-api.ehawk.com
+add address=127.0.0.1 name=adapi.icocofun.com
+add address=127.0.0.1 name=adash.man.aliyuncs.com
+add address=127.0.0.1 name=adashx4sg.ut.taobao.com
+add address=127.0.0.1 name=adasiatagmanager.appspot.com
+add address=127.0.0.1 name=adc3-launch.adcolony.com
+add address=127.0.0.1 name=adcfg.intowow.com
+add address=127.0.0.1 name=adclick.g.doubleclick.net
+add address=127.0.0.1 name=adcrate-solutions.go2affise.com
+add address=127.0.0.1 name=adcs.rqmob.com
+add address=127.0.0.1 name=addelivery-engine-api.voodoo-ads.io
+add address=127.0.0.1 name=ade.googlesyndication.com
+add address=127.0.0.1 name=ad-eu.p.otm-r.com
+add address=127.0.0.1 name=admaster.union.ucweb.com
+add address=127.0.0.1 name=ad-maven.xml.ak-is2.net
+add address=127.0.0.1 name=ad-mediation.tuanguwen.com
+add address=127.0.0.1 name=admile.offerstrack.net
+add address=127.0.0.1 name=admoustache.go2affise.com
+add address=127.0.0.1 name=adn.insight.ucweb.com
+add address=127.0.0.1 name=adnetwork.adasiaholdings.com
+add address=127.0.0.1 name=adn-tktracking-singapore-592916062.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com
+add address=127.0.0.1 name=adolymp.g2afse.com
+add address=127.0.0.1 name=adright.xml.ak-is2.net
+add address=127.0.0.1 name=ads.adxadserv.com
+add address=127.0.0.1 name=ads.aerserv.com
+add address=127.0.0.1 name=ads.anonymox.net
+add address=127.0.0.1 name=ads.api.vungle.com
+add address=127.0.0.1 name=ads.aralego.com
+add address=127.0.0.1 name=ads.as.criteo.com
+add address=127.0.0.1 name=ads.avct.cloud
+add address=127.0.0.1 name=ads.baca.co.id
+add address=127.0.0.1 name=ads.billy21.com
+add address=127.0.0.1 name=ads.bulldogcpi.com
+add address=127.0.0.1 name=ads.cc
+add address=127.0.0.1 name=ads.celtra.com
+add address=127.0.0.1 name=ads.d.wetopfun.com
+add address=127.0.0.1 name=ads.deliverimp.com
+add address=127.0.0.1 name=ads.dofunapps.com
+add address=127.0.0.1 name=ads.global.mobcastlead.com
+add address=127.0.0.1 name=ads.google.com
+add address=127.0.0.1 name=ads.gridtechno.com
+add address=127.0.0.1 name=ads.heyzap.com
+add address=127.0.0.1 name=ads.inmobi.com
+add address=127.0.0.1 name=ads.krmobi.com
+add address=127.0.0.1 name=ads.lfstmedia.com
+add address=127.0.0.1 name=ads.mobring.co
+add address=127.0.0.1 name=ads.mopub.com
+add address=127.0.0.1 name=ads.mp.mydas.mobi
+add address=127.0.0.1 name=ads.nexage.com
+add address=127.0.0.1 name=ads.playground.xyz
+add address=127.0.0.1 name=ads.pubmatic.com
+add address=127.0.0.1 name=ads.rekmob.com
+add address=127.0.0.1 name=ads.roblox.com
+add address=127.0.0.1 name=ads.snipermob.com
+add address=127.0.0.1 name=ads.stickyadstv.com
+add address=127.0.0.1 name=ads.tapdaq.com
+add address=127.0.0.1 name=ads.tapdaq.com.cdn.cloudflare.net
+add address=127.0.0.1 name=ads.traffichunt.com
+add address=127.0.0.1 name=ads.trafficjunky.net
+add address=127.0.0.1 name=ads.twitter.com
+add address=127.0.0.1 name=ads.vidoomy.com
+add address=127.0.0.1 name=ads.viralize.tv
+add address=127.0.0.1 name=ads1.api.topcontentss.com
+add address=127.0.0.1 name=ads2.adtelligent.com
+add address=127.0.0.1 name=ads2.uptobox.com
+add address=127.0.0.1 name=ads3.adtelligent.com
+add address=127.0.0.1 name=ads30.adcolony.com
+add address=127.0.0.1 name=ads4.adtelligent.com
+add address=127.0.0.1 name=ads5.adtelligent.com
+add address=127.0.0.1 name=ads54.adtelligent.com
+add address=127.0.0.1 name=ads5-noneu.truecaller.com
+add address=127.0.0.1 name=ads8.kompasads.com
+add address=127.0.0.1 name=ads-816899299.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=adsafe-vast.getpublica.com
+add address=127.0.0.1 name=adsapp.affise.com
+add address=127.0.0.1 name=ads-bi.zenkube.com
+add address=127.0.0.1 name=ads-bid.l.doubleclick.net
+add address=127.0.0.1 name=ads-bidder-api.twitter.com
+add address=127.0.0.1 name=ads-brand-postback.unityads.unity3d.com
+add address=127.0.0.1 name=adsco.re
+add address=127.0.0.1 name=ads-dataf-elb-518053343.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=ads-dot-o7apps.appspot.com
+add address=127.0.0.1 name=adsd-sync.amanad.adtdp.com
+add address=127.0.0.1 name=ads-east1-132899269.us-east-1.elb.amazonaws.com
+add address=127.0.0.1 name=adseed.xsuad.com
+add address=127.0.0.1 name=adserver.adreactor.com
+add address=127.0.0.1 name=adserver.poskotanews.com
+add address=127.0.0.1 name=adserver.unityads.unity3d.com
+add address=127.0.0.1 name=adserver-87373007.us-east-2.elb.amazonaws.com
+add address=127.0.0.1 name=adserver-prod-1937829349.us-east-2.elb.amazonaws.com
+add address=127.0.0.1 name=adserver-us.adtech.advertising.com
+add address=127.0.0.1 name=adserver-use1-ext-prod-a-2127645952.us-east-1.elb.amazonaws.com
+add address=127.0.0.1 name=adserver-vpc-alb-0-649637586.ap-northeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=adserver-vpc-alb-1-769379334.ap-northeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=adserver-vpc-alb-2-1884982011.ap-northeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=adserver-vpc-alb-3-1256976712.ap-northeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=adservice.google.co.id
+add address=127.0.0.1 name=adservice.google.com
+add address=127.0.0.1 name=adserving.herokuapp.com
+add address=127.0.0.1 name=adserving.live
+add address=127.0.0.1 name=ads-game-configuration.unityads.unity3d.com
+add address=127.0.0.1 name=ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+add address=127.0.0.1 name=adsimg.kompas.com
+add address=127.0.0.1 name=adsimg.kompas.com.edgesuite.net
+add address=127.0.0.1 name=adsimg-kompascom-1349122490.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=adskpak.com
+add address=127.0.0.1 name=adsl-098-075-096-250.sip.dab.bellsouth.net
+add address=127.0.0.1 name=adsl-69-225-94-86.dsl.skt2ca.pacbell.net
+add address=127.0.0.1 name=adsl-70-128-212-107.dsl.tulsok.swbell.net
+add address=127.0.0.1 name=adsl-74-161-179-58.mia.bellsouth.net
+add address=127.0.0.1 name=adsl-75-41-138-185.dsl.euclwi.sbcglobal.net
+add address=127.0.0.1 name=adsl-99-126-66-157.dsl.akrnoh.sbcglobal.net
+add address=127.0.0.1 name=adsl-99-151-244-184.dsl.irvnca.sbcglobal.net
+add address=127.0.0.1 name=adsl-99-26-160-44.dsl.sfldmi.sbcglobal.net
+add address=127.0.0.1 name=adslot.ufotosoft.com
+add address=127.0.0.1 name=adsmediation.king.com
+add address=127.0.0.1 name=adsmetadata.startappservice.com
+add address=127.0.0.1 name=adsmobis.affise.com
+add address=127.0.0.1 name=adspade.g2afse.com
+add address=127.0.0.1 name=adsperfection.affise.com
+add address=127.0.0.1 name=ads-prod.wikomobile.com
+add address=127.0.0.1 name=adsserver.download
+add address=127.0.0.1 name=adstacks.gotrackier.com
+add address=127.0.0.1 name=adsterra.com
+add address=127.0.0.1 name=adsunflower.com
+add address=127.0.0.1 name=adv.sec.intl.miui.com
+add address=127.0.0.1 name=adv.sec.miui.com
+add address=127.0.0.1 name=adv.zkmobi.com
+add address=127.0.0.1 name=advertisers.admedia.com
+add address=127.0.0.1 name=advertsun.club
+add address=127.0.0.1 name=advshield.goforandroid.com
+add address=127.0.0.1 name=adx.lsosad.com
+add address=127.0.0.1 name=adx.snipermob.com
+add address=127.0.0.1 name=adx-id.ads.heytapmobi.com
+add address=127.0.0.1 name=adx-id.ads.oppomobile.com
+add address=127.0.0.1 name=adx-id-ads-694765279.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=adx-id-ads-heytapmobi-com-gw-876093184.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=adx-in.ads.oppomobile.com
+add address=127.0.0.1 name=afflow.btadsmedia.com
+add address=127.0.0.1 name=ai.adtarget.tech
+add address=127.0.0.1 name=aksgplb01.adskom.com
+add address=127.0.0.1 name=alb-adshonor-access-prod-1958741476.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=alb-ads-ping-prod-385143662.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=amidt.adsafeprotected.com
+add address=127.0.0.1 name=anads.co
+add address=127.0.0.1 name=analytics.ad.daum.net
+add address=127.0.0.1 name=analytics.ad.g.daum.net
+add address=127.0.0.1 name=androidads20.adcolony.com
+add address=127.0.0.1 name=androidads23.adcolony.com
+add address=127.0.0.1 name=a-origin.teads.tv
+add address=127.0.0.1 name=aoyou.idealads.net
+add address=127.0.0.1 name=ap.adups.com
+add address=127.0.0.1 name=ap-adcs.rqmob.com
+add address=127.0.0.1 name=api.ad.intl.xiaomi.com
+add address=127.0.0.1 name=api.ad.leomaster.com
+add address=127.0.0.1 name=api.ad.smaato.net
+add address=127.0.0.1 name=api.ad.snappea.com
+add address=127.0.0.1 name=api.ad.xiaomi.com
+add address=127.0.0.1 name=api.adjust.com
+add address=127.0.0.1 name=api.admobi360.com
+add address=127.0.0.1 name=api.ads.go2reach.com
+add address=127.0.0.1 name=api.adsnative123.com
+add address=127.0.0.1 name=api.c.avazunativeads.com
+add address=127.0.0.1 name=api.googleadsapi.com
+add address=127.0.0.1 name=api.reachads.com
+add address=127.0.0.1 name=api.salmonads.com
+add address=127.0.0.1 name=api.v-mate.mobi
+add address=127.0.0.1 name=api2.branch.io
+add address=127.0.0.1 name=apiv2.moengage.com
+add address=127.0.0.1 name=app.adjust.com
+add address=127.0.0.1 name=app.adstracking.io
+add address=127.0.0.1 name=app.adsunflower.cn
+add address=127.0.0.1 name=app-api-e-ddfabc345112.adenjoybox.com
+add address=127.0.0.1 name=appclick.rqmob.com
+add address=127.0.0.1 name=appinstall.click
+add address=127.0.0.1 name=apps.ad.snappea.com
+add address=127.0.0.1 name=appswitch.adups.cn
+add address=127.0.0.1 name=ase.adserver.snapads.com
+add address=127.0.0.1 name=asia-adlog.vivoglobal.com
+add address=127.0.0.1 name=aw.dw.impact-ad.jp
+add address=127.0.0.1 name=b.admedia.com
+add address=127.0.0.1 name=badskies.com
+add address=127.0.0.1 name=banners.mellowads.com
+add address=127.0.0.1 name=bayofads.affise.com
+add address=127.0.0.1 name=bdapi-id.ads.heytapmobi.com
+add address=127.0.0.1 name=bdapi-id-ads.realmemobile.com
+add address=127.0.0.1 name=bdapi-id-ads-65359264.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=bdapi-id-ads-heytapmobi-com-gw-201576737.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=bdapi-in.ads.oppomobile.com
+add address=127.0.0.1 name=bigdata.adsunflower.com
+add address=127.0.0.1 name=bk.r-ad.ne.jp
+add address=127.0.0.1 name=boffoads.xml.ak-is2.net
+add address=127.0.0.1 name=boostads.go2affise.com
+add address=127.0.0.1 name=bp.adkmob.com
+add address=127.0.0.1 name=c.aaxads.com
+add address=127.0.0.1 name=c.adsco.re
+add address=127.0.0.1 name=c.adskeeper.co.uk
+add address=127.0.0.1 name=c1.adform.net
+add address=127.0.0.1 name=c1.popads.net
+add address=127.0.0.1 name=c2.popads.net
+add address=127.0.0.1 name=c2popadsad.popads.netdna-cdn.com
+add address=127.0.0.1 name=campaign.kdaffiliates.com
+add address=127.0.0.1 name=carbonads.bsa.netdna-cdn.com
+add address=127.0.0.1 name=cdn.adx1.com
+add address=127.0.0.1 name=cdn.push.house
+add address=127.0.0.1 name=cdn.special-offers.online
+add address=127.0.0.1 name=cdn2.teads.tv
+add address=127.0.0.1 name=cdn4-buysellads-net.bsa.netdna-cdn.com
+add address=127.0.0.1 name=cdn77-pic.xnxx-cdn.com
+add address=127.0.0.1 name=cdn-adspot.tfgco.com
+add address=127.0.0.1 name=cdn-creatives-akamai-prd.unityads.unity3d.com
+add address=127.0.0.1 name=cf.iadsdk.apple.com
+add address=127.0.0.1 name=cfs.u-ad.info
+add address=127.0.0.1 name=cfs2.uzone.id
+add address=127.0.0.1 name=cl-data-id.ads.heytapmobi.com
+add address=127.0.0.1 name=cl-data-id.ads.heytapmobile.com
+add address=127.0.0.1 name="cl-data-id-ads-heytapmobi-com-gw-1125794531.ap-southeast-1.elb.amazonaws.com"
+add address=127.0.0.1 name="cl-data-id-ads-heytapmobile-com-2069016997.ap-southeast-1.elb.amazonaws.com"
+add address=127.0.0.1 name=cl-data-in.ads.heytapmobi.com
+add address=127.0.0.1 name=click.adopexchange.com
+add address=127.0.0.1 name=click.advertnative.com
+add address=127.0.0.1 name=click.appadservices.com
+add address=127.0.0.1 name=click.baburnadir.com
+add address=127.0.0.1 name=click.clickmara.com
+add address=127.0.0.1 name=click.diyomisoft.net
+add address=127.0.0.1 name=click.gowadogo.com
+add address=127.0.0.1 name=click.kanmobi.net
+add address=127.0.0.1 name=clicks.mbid.io
+add address=127.0.0.1 name=clicks.rtad.io
+add address=127.0.0.1 name=clk.apxadtracking.net
+add address=127.0.0.1 name=clk.myiads.com
+add address=127.0.0.1 name=cm.adkmob.com
+add address=127.0.0.1 name=code.beaverads.com
+add address=127.0.0.1 name=conf.lsosad.com
+add address=127.0.0.1 name=config.ad.snappea.com
+add address=127.0.0.1 name=config.unityads.unity3d.com
+add address=127.0.0.1 name=control-ads-bbm-com.control.kochava.com
+add address=127.0.0.1 name=core.royalads.net
+add address=127.0.0.1 name=cpm-ad.com
+add address=127.0.0.1 name=crashlogs.whatsapp.net
+add address=127.0.0.1 name=crash-reporting.yy.com
+add address=127.0.0.1 name=cr-p16.ladsp.jp
+add address=127.0.0.1 name=cr-p3.ladsp.jp
+add address=127.0.0.1 name=cr-pall.ladsp.com
+add address=127.0.0.1 name=cs156.adn.rhocdn.net
+add address=127.0.0.1 name=cs477.adn.etacdn.net
+add address=127.0.0.1 name=cs550162656.adn.psicdn.net
+add address=127.0.0.1 name=cs648.adn.phicdn.net
+add address=127.0.0.1 name=daldt.adsafeprotected.com
+add address=127.0.0.1 name=dart.l.doubleclick.net
+add address=127.0.0.1 name=data.mistat.intl.xiaomi.com
+add address=127.0.0.1 name=data-cl-f-ads-614737041.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=data-cl-id-ads.realmemobile.com
+add address=127.0.0.1 name=data-cl-id-ads-1590812182.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=data-id.ads.oppomobile.com
+add address=127.0.0.1 name=data-id-ads.realmemobile.com
+add address=127.0.0.1 name=data-id-ads-633674268.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=data-id-ads-realme-2101466531.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=data-in.ads.oppomobile.com
+add address=127.0.0.1 name=dgafgadsgkjg.top
+add address=127.0.0.1 name=diagnosis.ad.intl.xiaomi.com
+add address=127.0.0.1 name=dmp.adform.net
+add address=127.0.0.1 name=dsp.adfarm1.adition.com
+add address=127.0.0.1 name=dsp-adcreative.mobshark.net
+add address=127.0.0.1 name=dt.adsafeprotected.com
+add address=127.0.0.1 name=e.crashlytics.com
+add address=127.0.0.1 name=ecs-ads-alb-o73bvse2a68q-1582783096.us-west-2.elb.amazonaws.com
+add address=127.0.0.1 name=engine.adsupply.com
+add address=127.0.0.1 name=eqx.smartadserver.com
+add address=127.0.0.1 name=etgxntsrh246.l.adsco.re
+add address=127.0.0.1 name=events3alt.adcolony.com
+add address=127.0.0.1 name=exoticads.com
+add address=127.0.0.1 name=explorads.xml.ak-is2.net
+add address=127.0.0.1 name=fi.uufoxbusad.com
+add address=127.0.0.1 name=fkserver.adfanking.com
+add address=127.0.0.1 name=fls-na.amazon-adsystem.com
+add address=127.0.0.1 name=folder.adsunflower.com
+add address=127.0.0.1 name=folder.skybluead.com
+add address=127.0.0.1 name=foreign.adscfg.togothermany.cn
+add address=127.0.0.1 name=fota4.adups.cn
+add address=127.0.0.1 name=fota5.adups.com
+add address=127.0.0.1 name=fota5p.adups.com
+add address=127.0.0.1 name=front-logs.voodoo-ads.io
+add address=127.0.0.1 name=gads55000.pubmatic.com
+add address=127.0.0.1 name=gadspms.com
+add address=127.0.0.1 name=geocdn.unityads.unity3d.com
+add address=127.0.0.1 name=geoworker.ayads.co
+add address=127.0.0.1 name=gj.track.ucdns.uc.cn
+add address=127.0.0.1 name=global.video.intl.xiaomi.com
+add address=127.0.0.1 name=global.ymtracking.com
+add address=127.0.0.1 name=globalapi.ad.xiaomi.com
+add address=127.0.0.1 name=global-www.adform.net
+add address=127.0.0.1 name=gofriendsadsnetwork.xyz
+add address=127.0.0.1 name=googleads.g.doubleclick.net
+add address=127.0.0.1 name=graph.instagram.com
+add address=127.0.0.1 name=gstaticadssl.l.google.com
+add address=127.0.0.1 name=guc-api.sonic-us.supersonicads.com
+add address=127.0.0.1 name=gwrtdp-tn690bfadt-drop.aotclouds.net
+add address=127.0.0.1 name=h-adashx.ut.taobao.com
+add address=127.0.0.1 name=h-adashx4sg.ut.taobao.com
+add address=127.0.0.1 name=hbopenbid.pubmatic.com
+add address=127.0.0.1 name=helpgrid1.ksmobile.com
+add address=127.0.0.1 name=httpkafka.unityads.unity3d.com
+add address=127.0.0.1 name=iadsdk.apple.com.edgekey.net
+add address=127.0.0.1 name=ib.adnxs.com
+add address=127.0.0.1 name=ib.anycast.adnxs.com
+add address=127.0.0.1 name=ids.ad.gt
+add address=127.0.0.1 name=image.mybestclick.net
+add address=127.0.0.1 name=images.ibizads.com
+add address=127.0.0.1 name=img.beaverads.com
+add address=127.0.0.1 name=img-hw.xnxx-cdn.com
+add address=127.0.0.1 name=img-hw.xvideos-cdn.com
+add address=127.0.0.1 name=img-l3.xnxx-cdn.com
+add address=127.0.0.1 name=in-adreq.vivoglobal.com
+add address=127.0.0.1 name=ingameads.gameloft.com
+add address=127.0.0.1 name=init.supersonicads.com
+add address=127.0.0.1 name=inter1ads.com
+add address=127.0.0.1 name=inv-nets-lbsg.admixer.net
+add address=127.0.0.1 name=iotapi.adups.com
+add address=127.0.0.1 name=ip54572ee5.direct-adsl.nl
+add address=127.0.0.1 name=is-gateway.supersonicads.com
+add address=127.0.0.1 name=itx4.smartadserver.com
+add address=127.0.0.1 name=itx5.smartadserver.com
+add address=127.0.0.1 name=jadserve.postrelease.com.akadns.net
+add address=127.0.0.1 name=jp1-bid-hap.adsrvr.org
+add address=127.0.0.1 name=js.ad-score.com
+add address=127.0.0.1 name=js.hsadspixel.net
+add address=127.0.0.1 name=jsc.adskeeper.co.uk
+add address=127.0.0.1 name=l.adsbk.com
+add address=127.0.0.1 name=l3.aaxads.com
+add address=127.0.0.1 name=ladsdown.com
+add address=127.0.0.1 name=leaddaway.g2afse.com
+add address=127.0.0.1 name=mads.amazon.com
+add address=127.0.0.1 name=madsats.com
+add address=127.0.0.1 name=match.adsby.bidtheatre.com
+add address=127.0.0.1 name=match.adsrvr.org
+add address=127.0.0.1 name=media.adstatic.com.i.belugacdn.com
+add address=127.0.0.1 name=mercusuar.uzone.id
+add address=127.0.0.1 name=mob.adwhirl.com
+add address=127.0.0.1 name=mobilecontent.smartlinkads.com
+add address=127.0.0.1 name=n.ads1-adnow.com
+add address=127.0.0.1 name=n.ads3-adnow.com
+add address=127.0.0.1 name=n.adxxx.info
+add address=127.0.0.1 name=n.pc1ads.com
+add address=127.0.0.1 name=n.pc2ads.com
+add address=127.0.0.1 name=n.pc5ads.com
+add address=127.0.0.1 name=n135adserv.com
+add address=127.0.0.1 name=na61-na62.wagbridge.advertisement.tanx.com.gds.alibabadns.com
+add address=127.0.0.1 name=na61-na62-st3.wagbridge.advertisement.tanx.com.gds.alibabadns.com
+add address=127.0.0.1 name=net.salmonads.com
+add address=127.0.0.1 name=newoctads.com
+add address=127.0.0.1 name=news-abroad.vivo.com
+add address=127.0.0.1 name=newsupdatefind.info
+add address=127.0.0.1 name=newworld-ext-lb.adaptiveads.com
+add address=127.0.0.1 name=nginx-auction-prd-gcp.adsx.unityads.unity3d.com
+add address=127.0.0.1 name=nipid-adsapi.azurewebsites.net
+add address=127.0.0.1 name=nyidt.adsafeprotected.com
+add address=127.0.0.1 name=offer.careyads.com
+add address=127.0.0.1 name=onclickads.net
+add address=127.0.0.1 name=orion.iad.appboy.com
+add address=127.0.0.1 name=oss-ad.comscore.akadns.net
+add address=127.0.0.1 name=outcome.supersonicads.com
+add address=127.0.0.1 name=outcome-cdn.supersonicads.com
+add address=127.0.0.1 name=outcome-ssp.supersonicads.com
+add address=127.0.0.1 name=ow-gateway.supersonicads.com
+add address=127.0.0.1 name=p.aaxads.com
+add address=127.0.0.1 name=p.adsymptotic.com
+add address=127.0.0.1 name=padsatz.com
+add address=127.0.0.1 name=pad-v3.presage.io
+add address=127.0.0.1 name=pagead.l.doubleclick.net
+add address=127.0.0.1 name=pagead2.googlesyndication.com
+add address=127.0.0.1 name=pagead46.l.doubleclick.net
+add address=127.0.0.1 name=partnerad.l.doubleclick.net
+add address=127.0.0.1 name=perf.cdnads.com
+add address=127.0.0.1 name=pingback.giphy.com
+add address=127.0.0.1 name=pixel.advertising.com
+add address=127.0.0.1 name=pixel.tapad.com
+add address=127.0.0.1 name=pixels.ad.gt
+add address=127.0.0.1 name=pixel-tracking.sonic-us.supersonicads.com
+add address=127.0.0.1 name=plugin.ucads.ucweb.com
+add address=127.0.0.1 name=pm-gateway.supersonicads.com
+add address=127.0.0.1 name=pool5.moatads.com
+add address=127.0.0.1 name=popcash.libertymediaadss.netdna-cdn.com
+add address=127.0.0.1 name=popcash.net
+add address=127.0.0.1 name=prebid.adnxs.com
+add address=127.0.0.1 name=prod-adsforce-openresty-adv-905369396.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 name=propellerads.com
+add address=127.0.0.1 name=pubads.g.doubleclick.net
+add address=127.0.0.1 name=public-webservice.apdc3n.adpushup.com
+add address=127.0.0.1 name=publisher-event.ads.prd.ie.internal.unity3d.com
+add address=127.0.0.1 name=publpush.com
+add address=127.0.0.1 name=pubpress.net
+add address=127.0.0.1 name=push.adsconverts.com
+add address=127.0.0.1 name=push.maribacaberita.com
+add address=127.0.0.1 name=push2.notify-service.com
+add address=127.0.0.1 name=pushads.biz
+add address=127.0.0.1 name=pushads.detik.com
+add address=127.0.0.1 name=pushnginx.news-host.pw
+add address=127.0.0.1 name=pushpush.net
+add address=127.0.0.1 name=px.adhigh.net
+add address=127.0.0.1 name=px.ads.linkedin.com
+add address=127.0.0.1 name=qt.slb.adflash.cn
+add address=127.0.0.1 name=r.adport.io
+add address=127.0.0.1 name=r.teads.tv
+add address=127.0.0.1 name=redirect.appleads-trk.com
+add address=127.0.0.1 name=redirectpopads.com
+add address=127.0.0.1 name=reports.crashlytics.com
+add address=127.0.0.1 name=rosenberg.appmetrica.yandex.net
+add address=127.0.0.1 name=rq.requestads.com
+add address=127.0.0.1 name=rtb-csync-eqx.smartadserver.com
+add address=127.0.0.1 name=rtb-csync-itx4.smartadserver.com
+add address=127.0.0.1 name=rtb-usw.mfadsrvr.com
+add address=127.0.0.1 name=rv-gateway.supersonicads.com
+add address=127.0.0.1 name=s.adslinkup.com
+add address=127.0.0.1 name=s.amazon-adsystem.com
+add address=127.0.0.1 name=s.pubmine.com
+add address=127.0.0.1 name=sac.ayads.co
+add address=127.0.0.1 name=s-cs.send.microad.jp
+add address=127.0.0.1 name=sdk.adspruce.com
+add address=127.0.0.1 name=sdk.adtiming.com
+add address=127.0.0.1 name=sdk.hansel.io
+add address=127.0.0.1 name=sdk.iadtrack.com
+add address=127.0.0.1 name=sdk.loveota.com-ca15463c.baiduads.com
+add address=127.0.0.1 name=sdk-android.ad.smaato.net
+add address=127.0.0.1 name=sdkconfig.ad.intl.xiaomi.com
+add address=127.0.0.1 name=sdkconfig.ad.xiaomi.com
+add address=127.0.0.1 name=secure.adnxs.com
+add address=127.0.0.1 name=securepubads.g.doubleclick.net
+add address=127.0.0.1 name=serve.mondiad.net
+add address=127.0.0.1 name=serve.popads.net
+add address=127.0.0.1 name=service.adxoo.com
+add address=127.0.0.1 name=servyourads.com
+add address=127.0.0.1 name=settings.crashlytics.com
+add address=127.0.0.1 name=settleads.gotrackier.com
+add address=127.0.0.1 name=sg2-bid.adsrvr.org
+add address=127.0.0.1 name=sgp.smartadserver.com
+add address=127.0.0.1 name=showads-sg.pubmatic.com
+add address=127.0.0.1 name=s-img.adskeeper.co.uk
+add address=127.0.0.1 name=s-img.mgid.com
+add address=127.0.0.1 name=sjedt.adsafeprotected.com
+add address=127.0.0.1 name=sp.adpushonline.com
+add address=127.0.0.1 name=ssdk.adkmob.com
+add address=127.0.0.1 name=ssp.adskom.com
+add address=127.0.0.1 name=st.beaverads.com
+add address=127.0.0.1 name=static.ads.apusapps.com
+add address=127.0.0.1 name=static.adsafeprotected.com
+add address=127.0.0.1 name=static.ads-twitter.com
+add address=127.0.0.1 name=static.adxadserv.com
+add address=127.0.0.1 name=static.doubleclick.net
+add address=127.0.0.1 name=static-doubleclick-net.l.google.com
+add address=127.0.0.1 name=stats.g.doubleclick.net
+add address=127.0.0.1 name=stats.l.doubleclick.net
+add address=127.0.0.1 name=stg-data-id.ads.heytapmobi.com
+add address=127.0.0.1 name=supply.decenterads.com
+add address=127.0.0.1 name=sync3.adsniper.ru
+add address=127.0.0.1 name=sync-dsp.ad-m.asia
+add address=127.0.0.1 name=t.rebornads.com
+add address=127.0.0.1 name=t.teads.tv
+add address=127.0.0.1 name=tagan.adlightning.com
+add address=127.0.0.1 name=timelyads.hotrk0.com
+add address=127.0.0.1 name=topdealad.xml.ak-is2.net
+add address=127.0.0.1 name=tpc.googlesyndication.com
+add address=127.0.0.1 name=tr9ck.bruceleadx2.com
+add address=127.0.0.1 name=track.adsplay.in
+add address=127.0.0.1 name=track.adstack.co
+add address=127.0.0.1 name=track.brucelead.com
+add address=127.0.0.1 name=track.gowithads.com
+add address=127.0.0.1 name=track-apac.adformnet.akadns.net
+add address=127.0.0.1 name=tracking.bayofads.com
+add address=127.0.0.1 name=tracking.intl.miui.com
+add address=127.0.0.1 name=tracking.yohoads.com
+add address=127.0.0.1 name=tr-asia.adsmoloco.com
+add address=127.0.0.1 name=trk.xapads.com
+add address=127.0.0.1 name=u-ad.com
+add address=127.0.0.1 name=u-ad.info
+add address=127.0.0.1 name=ulc3fq6eqm4b.l.adsco.re
+add address=127.0.0.1 name=um3.eqads.com
+add address=127.0.0.1 name=unconf.adkmob.com
+add address=127.0.0.1 name=us.a.30ads.com
+add address=127.0.0.1 name=usc.adserver.snapads.com
+add address=127.0.0.1 name=use-tor.adsrvr.org
+add address=127.0.0.1 name=use-va1.adsrvr.org
+add address=127.0.0.1 name=uzone.id
+add address=127.0.0.1 name=v.adsrvr.org
+add address=127.0.0.1 name=v.amazon-adsystem.com
+add address=127.0.0.1 name=v3.mercusuar.uzone.id
+add address=127.0.0.1 name=v3-mercusuar.info
+add address=127.0.0.1 name=wd.adcolony.com
+add address=127.0.0.1 name=wd.adcolony.xyz
+add address=127.0.0.1 name=worker23.advertnative.com
+add address=127.0.0.1 name=worker3.advertnative.com
+add address=127.0.0.1 name=worker4.advertnative.com
+add address=127.0.0.1 name=ws.tapjoyads.com
+add address=127.0.0.1 name=ww1097.smartadserver.com
+add address=127.0.0.1 name=ww2060-itx4.smartadserver.com
+add address=127.0.0.1 name=ww2060-sgp.smartadserver.com
+add address=127.0.0.1 name=wwclickads.club
+add address=127.0.0.1 name=www.adskeeper.co.uk
+add address=127.0.0.1 name=www.adsv123.com
+add address=127.0.0.1 name=www.adtival.network
+add address=127.0.0.1 name=www.freeadso.com
+add address=127.0.0.1 name=www.googleadservices.com
+add address=127.0.0.1 name=www.maxonclick.com
+add address=127.0.0.1 name=www.salmonads.com
+add address=127.0.0.1 name=www.uzone.id
+add address=127.0.0.1 name=xapads.go2affise.com
+add address=127.0.0.1 name=xapads.rtb.ak-is2.net
+add address=127.0.0.1 name=xapads.rtb-useast.ak-is2.net
+add address=127.0.0.1 name=xyads.fuse-cloud.com
+add address=127.0.0.1 name=y.one.impact-ad.jp
+add address=127.0.0.1 name=z.moatads.com
+add address=127.0.0.1 name=zeus.ad.intl.xiaomi.com
+
