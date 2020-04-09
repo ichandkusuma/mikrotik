@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Mikrotik)
 # 
-# Last Update: 10/04/2020 02:22:58 GMT+7
+# Last Update: 10/04/2020 02:24:58 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -543,7 +543,6 @@ add address=127.0.0.1 ttl=30s name=service.adxoo.com
 add address=127.0.0.1 ttl=30s name=servyourads.com
 add address=127.0.0.1 ttl=30s name=settings.crashlytics.com
 add address=127.0.0.1 ttl=30s name=settleads.gotrackier.com
-add address=127.0.0.1 ttl=30s name=sexsohot.com
 add address=127.0.0.1 ttl=30s name=sg2-bid.adsrvr.org
 add address=127.0.0.1 ttl=30s name=sgp.smartadserver.com
 add address=127.0.0.1 ttl=30s name=show.revopush.com
