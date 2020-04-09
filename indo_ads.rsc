@@ -59,6 +59,7 @@ add address=127.0.0.1 name=ad.myinstashot.com ttl=30s
 add address=127.0.0.1 name=ad.period-calendar.com ttl=30s
 add address=127.0.0.1 name=ad.rfp.fout.jp ttl=30s
 add address=127.0.0.1 name=ad.sen-sdk.com ttl=30s
+add address=127.0.0.1 name=adx-tk.rayjump.com ttl=30s
 add address=127.0.0.1 name=ad.turn.com ttl=30s
 add address=127.0.0.1 name=ad.turn.com.akadns.net ttl=30s
 add address=127.0.0.1 name=ad-1263261047.us-east-1.elb.amazonaws.com ttl=30s
