@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Mikrotik)
 # 
-# Last Update: 10/04/2020 02:05:58 GMT+7
+# Last Update: 10/04/2020 02:22:58 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -9,7 +9,7 @@
 
 # Sesuaikan IP_LOKAL_CLIENT dengan address List Lokal Anda #
 
-#/ip firewall nat add action=redirect chain=dstnat comment="Belokkan DNS" dst-address-list=!IP_LOKAL_CLIENT dst-port=53 protocol=udp src-address-list=IP_LOKAL_CLIENT to-ports=53
+/ip firewall nat add action=redirect chain=dstnat comment="Belokkan DNS" dst-address-list=!IP_LOKAL_CLIENT dst-port=53 protocol=udp src-address-list=IP_LOKAL_CLIENT to-ports=53
 
 /ip dns static
 add address=127.0.0.1 ttl=30s name=0-eu-west-1-awesomeads-166321764.eu-west-1.elb.amazonaws.com
@@ -289,7 +289,9 @@ add address=127.0.0.1 ttl=30s name=c2popadsad.popads.netdna-cdn.com
 add address=127.0.0.1 ttl=30s name=campaign.kdaffiliates.com
 add address=127.0.0.1 ttl=30s name=carbonads.bsa.netdna-cdn.com
 add address=127.0.0.1 ttl=30s name=cdn.adx1.com
+add address=127.0.0.1 ttl=30s name=cdn.appnext.com
 add address=127.0.0.1 ttl=30s name=cdn.push.house
+add address=127.0.0.1 ttl=30s name=cdn.pushmart.net
 add address=127.0.0.1 ttl=30s name=cdn.special-offers.online
 add address=127.0.0.1 ttl=30s name=cdn2.teads.tv
 add address=127.0.0.1 ttl=30s name=cdn4-buysellads-net.bsa.netdna-cdn.com
@@ -327,6 +329,7 @@ add address=127.0.0.1 ttl=30s name=config.ad.snappea.com
 add address=127.0.0.1 ttl=30s name=config.unityads.unity3d.com
 add address=127.0.0.1 ttl=30s name=control-ads-bbm-com.control.kochava.com
 add address=127.0.0.1 ttl=30s name=core.royalads.net
+add address=127.0.0.1 ttl=30s name=counter.yadro.ru
 add address=127.0.0.1 ttl=30s name=cpm-ad.com
 add address=127.0.0.1 ttl=30s name=crashlogs.whatsapp.net
 add address=127.0.0.1 ttl=30s name=crash-reporting.yy.com
@@ -363,6 +366,7 @@ add address=127.0.0.1 ttl=30s name=etgxntsrh246.l.adsco.re
 add address=127.0.0.1 ttl=30s name=events3alt.adcolony.com
 add address=127.0.0.1 ttl=30s name=exoticads.com
 add address=127.0.0.1 ttl=30s name=explorads.xml.ak-is2.net
+add address=127.0.0.1 ttl=30s name=feed.pushmart.net
 add address=127.0.0.1 ttl=30s name=fi.uufoxbusad.com
 add address=127.0.0.1 ttl=30s name=fkserver.adfanking.com
 add address=127.0.0.1 ttl=30s name=fls-na.amazon-adsystem.com
@@ -483,6 +487,7 @@ add address=127.0.0.1 ttl=30s name=popcash.libertymediaadss.netdna-cdn.com
 add address=127.0.0.1 ttl=30s name=popcash.net
 add address=127.0.0.1 ttl=30s name=prebid.adnxs.com
 add address=127.0.0.1 ttl=30s name=prod-adsforce-openresty-adv-905369396.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 ttl=30s name=promo-bc.com
 add address=127.0.0.1 ttl=30s name=propellerads.com
 add address=127.0.0.1 ttl=30s name=pubads.g.doubleclick.net
 add address=127.0.0.1 ttl=30s name=public-webservice.apdc3n.adpushup.com
@@ -538,10 +543,12 @@ add address=127.0.0.1 ttl=30s name=service.adxoo.com
 add address=127.0.0.1 ttl=30s name=servyourads.com
 add address=127.0.0.1 ttl=30s name=settings.crashlytics.com
 add address=127.0.0.1 ttl=30s name=settleads.gotrackier.com
+add address=127.0.0.1 ttl=30s name=sexsohot.com
 add address=127.0.0.1 ttl=30s name=sg2-bid.adsrvr.org
 add address=127.0.0.1 ttl=30s name=sgp.smartadserver.com
 add address=127.0.0.1 ttl=30s name=show.revopush.com
 add address=127.0.0.1 ttl=30s name=showads-sg.pubmatic.com
+add address=127.0.0.1 ttl=30s name=si.appnext.com
 add address=127.0.0.1 ttl=30s name=s-img.adskeeper.co.uk
 add address=127.0.0.1 ttl=30s name=s-img.mgid.com
 add address=127.0.0.1 ttl=30s name=sjedt.adsafeprotected.com
@@ -621,11 +628,11 @@ add address=127.0.0.1 ttl=30s name=www.uzone.id
 add address=127.0.0.1 ttl=30s name=xapads.go2affise.com
 add address=127.0.0.1 ttl=30s name=xapads.rtb.ak-is2.net
 add address=127.0.0.1 ttl=30s name=xapads.rtb-useast.ak-is2.net
+add address=127.0.0.1 ttl=30s name=xapi.juicyads.com
 add address=127.0.0.1 ttl=30s name=xyads.fuse-cloud.com
 add address=127.0.0.1 ttl=30s name=y.one.impact-ad.jp
 add address=127.0.0.1 ttl=30s name=yandex.com
 add address=127.0.0.1 ttl=30s name=yandex.st
 add address=127.0.0.1 ttl=30s name=z.moatads.com
 add address=127.0.0.1 ttl=30s name=zeus.ad.intl.xiaomi.com
-
 
