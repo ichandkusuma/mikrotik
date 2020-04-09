@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 09/04/2020 15:42:18 GMT+7
+# Last Update: 10/04/2020 01:35:45 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -577,4 +577,48 @@ xyads.fuse-cloud.com
 y.one.impact-ad.jp
 z.moatads.com
 zeus.ad.intl.xiaomi.com
-
+9197271.fls.doubleclick.net
+9227947.fls.doubleclick.net
+9229036.fls.doubleclick.net
+a.adtng.com
+a.tracker.svsw.xyz
+abroad-dw-online.ksord.com
+ad.yf9889.com
+adashx.m.taobao.com
+adn-apac.admixer.co.kr
+adrta.com
+ads.superawesome.tv
+aff-report.lbesecapi.com
+ali-stats.jpush.cn
+android.bugly.qq.com
+api.bqtabc.adflash.cn
+api.rqmob.com
+bid.g.doubleclick.net
+chikiporn.com
+chikiporn1.vanessadelriomovies.com
+data-cl-f.ads.oppomobile.com
+dlied1.qq.com
+go.coralsands.xyz
+googleads4.g.doubleclick.net
+id.push.heytapmobi.com
+intldlgs.qq.com
+ipds.adrta.com
+mc.admetrica.ru
+napubgm.broker.tplay.qq.com
+nawzryhwatm.broker.tplay.qq.com
+pingma.qq.com
+pubserver2.bizport.cn
+pushimg.com
+pushservice.info
+receiver.sg.tdm.qq.com
+report.appmetrica.yandex.net
+rs.pushservice.xyz
+st.adxxx.info
+static-l3.xvideos-cdn.com
+the-sexy-tube.com
+tpns.qq.com
+tracker.rqmob.com
+trk.georgepush.com
+us1.evadavdsp.pro
+vmp.qq.com
+www.qq.com
