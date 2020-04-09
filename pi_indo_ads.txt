@@ -58,6 +58,7 @@ ad.myinstashot.com
 ad.period-calendar.com
 ad.rfp.fout.jp
 ad.sen-sdk.com
+adx-tk.rayjump.com
 ad.turn.com
 ad.turn.com.akadns.net
 ad-1263261047.us-east-1.elb.amazonaws.com
