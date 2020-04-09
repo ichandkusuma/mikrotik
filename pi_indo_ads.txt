@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 10/04/2020 02:02:45 GMT+7
+# Last Update: 10/04/2020 02:21:45 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -285,7 +285,9 @@ c2popadsad.popads.netdna-cdn.com
 campaign.kdaffiliates.com
 carbonads.bsa.netdna-cdn.com
 cdn.adx1.com
+cdn.appnext.com
 cdn.push.house
+cdn.pushmart.net
 cdn.special-offers.online
 cdn2.teads.tv
 cdn4-buysellads-net.bsa.netdna-cdn.com
@@ -323,6 +325,7 @@ config.ad.snappea.com
 config.unityads.unity3d.com
 control-ads-bbm-com.control.kochava.com
 core.royalads.net
+counter.yadro.ru
 cpm-ad.com
 crashlogs.whatsapp.net
 crash-reporting.yy.com
@@ -359,6 +362,7 @@ etgxntsrh246.l.adsco.re
 events3alt.adcolony.com
 exoticads.com
 explorads.xml.ak-is2.net
+feed.pushmart.net
 fi.uufoxbusad.com
 fkserver.adfanking.com
 fls-na.amazon-adsystem.com
@@ -479,6 +483,7 @@ popcash.libertymediaadss.netdna-cdn.com
 popcash.net
 prebid.adnxs.com
 prod-adsforce-openresty-adv-905369396.ap-southeast-1.elb.amazonaws.com
+promo-bc.com
 propellerads.com
 pubads.g.doubleclick.net
 public-webservice.apdc3n.adpushup.com
@@ -534,10 +539,12 @@ service.adxoo.com
 servyourads.com
 settings.crashlytics.com
 settleads.gotrackier.com
+sexsohot.com
 sg2-bid.adsrvr.org
 sgp.smartadserver.com
 show.revopush.com
 showads-sg.pubmatic.com
+si.appnext.com
 s-img.adskeeper.co.uk
 s-img.mgid.com
 sjedt.adsafeprotected.com
@@ -617,6 +624,7 @@ www.uzone.id
 xapads.go2affise.com
 xapads.rtb.ak-is2.net
 xapads.rtb-useast.ak-is2.net
+xapi.juicyads.com
 xyads.fuse-cloud.com
 y.one.impact-ad.jp
 yandex.com
