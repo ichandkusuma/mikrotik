@@ -1,12 +1,13 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 10/04/2020 21:26:53 GMT+7
+# Last Update: 11/04/2020 00:56:48 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
 
 # ======================================================================================================
+
 
 0-eu-west-1-awesomeads-166321764.eu-west-1.elb.amazonaws.com
 1.n.adsco.re
@@ -14,6 +15,7 @@
 12dc71b7cb820f2a.com
 1plusads.affise.com
 242.17-67-87.adsl-dyn.isp.belgacom.be
+3.kxc-news2.club
 3x2.myfastcdn.com
 6.adsco.re
 87-205-224-41.adsl.inetia.pl
@@ -182,6 +184,7 @@ adserver-vpc-alb-1-769379334.ap-northeast-1.elb.amazonaws.com
 adserver-vpc-alb-2-1884982011.ap-northeast-1.elb.amazonaws.com
 adserver-vpc-alb-3-1256976712.ap-northeast-1.elb.amazonaws.com
 adservice.google.co.id
+adservice.google.co.in
 adservice.google.com
 adserving.herokuapp.com
 adserving.live
@@ -254,6 +257,8 @@ api.adsnative123.com
 api.bqtabc.adflash.cn
 api.c.avazunativeads.com
 api.googleadsapi.com
+api.newsfeed.intl.miui.com
+api.pxlad.io
 api.reachads.com
 api.rqmob.com
 api.salmonads.com
@@ -379,6 +384,7 @@ dsp.adfarm1.adition.com
 dsp-adcreative.mobshark.net
 dt.adsafeprotected.com
 e.crashlytics.com
+e3.adpushup.com
 ecs-ads-alb-o73bvse2a68q-1582783096.us-west-2.elb.amazonaws.com
 engine.adsupply.com
 eqx.smartadserver.com
@@ -425,6 +431,7 @@ ib.anycast.adnxs.com
 id.push.heytapmobi.com
 ids.ad.gt
 image.mybestclick.net
+image6.pubmatic.com
 images.ibizads.com
 img.adtiming.com
 img.beaverads.com
@@ -474,6 +481,7 @@ n.pc5ads.com
 n135adserv.com
 na61-na62.wagbridge.advertisement.tanx.com.gds.alibabadns.com
 na61-na62-st3.wagbridge.advertisement.tanx.com.gds.alibabadns.com
+native.propellerclick.com
 nep.advangelists.com
 net.salmonads.com
 newoctads.com
@@ -511,6 +519,7 @@ pm-gateway.supersonicads.com
 pool5.moatads.com
 popcash.libertymediaadss.netdna-cdn.com
 popcash.net
+poweredby.jads.co
 prebid.adnxs.com
 prod-adsforce-openresty-adv-905369396.ap-southeast-1.elb.amazonaws.com
 promo-bc.com
@@ -526,6 +535,7 @@ push.maribacaberita.com
 push2.notify-service.com
 pushads.biz
 pushads.detik.com
+pushance.com
 pushimg.com
 pushnginx.news-host.pw
 pushpush.net
@@ -644,6 +654,7 @@ v3-mercusuar.info
 vast.adxoo.com
 wd.adcolony.com
 wd.adcolony.xyz
+webview.unityads.unity3d.com
 worker23.advertnative.com
 worker3.advertnative.com
 worker4.advertnative.com
@@ -652,6 +663,7 @@ ww1097.smartadserver.com
 ww2060-itx4.smartadserver.com
 ww2060-sgp.smartadserver.com
 wwclickads.club
+wwclicktm.club
 www.adskeeper.co.uk
 www.adsv123.com
 www.adtival.network
