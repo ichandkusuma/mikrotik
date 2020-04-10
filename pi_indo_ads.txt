@@ -1,14 +1,22 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 10/04/2020 16:50:23 GMT+7
+# Last Update: 10/04/2020 18:30:23 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
 
 # ======================================================================================================
 
-
+adsaccount.appcpi.net
+cdn.carbonads.com
+js.adsrvr.org
+q.adrta.com
+rtb.mfadsrvr.com
+search.adcaffe.com
+slimepuls-d40ad.firebaseio.com
+tracking.xapads.com
+xml.ad-maven.com
 0-eu-west-1-awesomeads-166321764.eu-west-1.elb.amazonaws.com
 1.n.adsco.re
 1.s.adsco.re
