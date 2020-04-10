@@ -1,26 +1,14 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 10/04/2020 14:43:23 GMT+7
+# Last Update: 10/04/2020 16:50:23 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
 
 # ======================================================================================================
 
-adtrack.appcpi.net
-asia-static-p.vivoglobal.com
-auction.unityads.unity3d.com
-banner-gateway.supersonicads.com
-blacurlik.com
-cm.adgrx.com
-d.adroll.com
-deloplen.com
-img.adtiming.com
-nep.advangelists.com
-serconmp.com
-topflownews.com
-vast.adxoo.com
+
 0-eu-west-1-awesomeads-166321764.eu-west-1.elb.amazonaws.com
 1.n.adsco.re
 1.s.adsco.re
@@ -70,6 +58,7 @@ ad.crwdcntrl.net
 ad.doubleclick.net
 ad.garenanow.com
 ad.impactify.io
+ad.jixie.io
 ad.lionmobi.com
 ad.mail.ru
 ad.moboclick09.com
@@ -85,6 +74,7 @@ ad2.apx.appier.net
 ad-api.ehawk.com
 adapi.icocofun.com
 adash.man.aliyuncs.com
+adashbc.ut.taobao.com
 adashx.m.taobao.com
 adashx4sg.ut.taobao.com
 adasiatagmanager.appspot.com
@@ -96,6 +86,7 @@ adcs.rqmob.com
 addelivery-engine-api.voodoo-ads.io
 ade.googlesyndication.com
 ad-eu.p.otm-r.com
+adlog.flurry.com
 admaster.union.ucweb.com
 ad-maven.xml.ak-is2.net
 ad-mediation.tuanguwen.com
@@ -121,6 +112,7 @@ ads.billy21.com
 ads.bulldogcpi.com
 ads.cc
 ads.celtra.com
+ads.cloudgames.com
 ads.d.wetopfun.com
 ads.deliverimp.com
 ads.dofunapps.com
@@ -153,6 +145,7 @@ ads1.api.topcontentss.com
 ads2.adtelligent.com
 ads2.uptobox.com
 ads3.adtelligent.com
+ads3.fingersoft.net
 ads30.adcolony.com
 ads4.adtelligent.com
 ads5.adtelligent.com
@@ -212,6 +205,7 @@ adsserver.download
 adstacks.gotrackier.com
 adsterra.com
 adsunflower.com
+adtrack.appcpi.net
 adv.sec.intl.miui.com
 adv.sec.miui.com
 adv.zkmobi.com
@@ -270,11 +264,15 @@ appinstall.click
 apps.ad.snappea.com
 appswitch.adups.cn
 ase.adserver.snapads.com
+asia.adform.net
 asia.stat.moxiu.net
 asia-adlog.vivoglobal.com
+asia-static-p.vivoglobal.com
+auction.unityads.unity3d.com
 aw.dw.impact-ad.jp
 b.admedia.com
 badskies.com
+banner-gateway.supersonicads.com
 banners.mellowads.com
 bayofads.affise.com
 bdapi-id.ads.heytapmobi.com
@@ -283,8 +281,10 @@ bdapi-id-ads-65359264.ap-southeast-1.elb.amazonaws.com
 bdapi-id-ads-heytapmobi-com-gw-201576737.ap-southeast-1.elb.amazonaws.com
 bdapi-in.ads.oppomobile.com
 bid.g.doubleclick.net
+bigdata.adfuture.cn
 bigdata.adsunflower.com
 bk.r-ad.ne.jp
+blacurlik.com
 boffoads.xml.ak-is2.net
 boostads.go2affise.com
 bp.adkmob.com
@@ -331,6 +331,7 @@ clicks.mbid.io
 clicks.rtad.io
 clk.apxadtracking.net
 clk.myiads.com
+cm.adgrx.com
 cm.adkmob.com
 code.beaverads.com
 conf.lsosad.com
@@ -349,6 +350,7 @@ cs156.adn.rhocdn.net
 cs477.adn.etacdn.net
 cs550162656.adn.psicdn.net
 cs648.adn.phicdn.net
+d.adroll.com
 daldt.adsafeprotected.com
 dart.l.doubleclick.net
 data.mistat.intl.xiaomi.com
@@ -361,6 +363,7 @@ data-id-ads.realmemobile.com
 data-id-ads-633674268.ap-southeast-1.elb.amazonaws.com
 data-id-ads-realme-2101466531.ap-southeast-1.elb.amazonaws.com
 data-in.ads.oppomobile.com
+deloplen.com
 dgafgadsgkjg.top
 diagnosis.ad.intl.xiaomi.com
 dmp.adform.net
@@ -415,6 +418,7 @@ id.push.heytapmobi.com
 ids.ad.gt
 image.mybestclick.net
 images.ibizads.com
+img.adtiming.com
 img.beaverads.com
 img-hw.xnxx-cdn.com
 img-hw.xvideos-cdn.com
@@ -446,6 +450,7 @@ match.adsrvr.org
 mc.admetrica.ru
 mc.yandex.com
 mc.yandex.ru
+mcdp-sadc1.outbrain.com
 media.adstatic.com.i.belugacdn.com
 mercusuar.uzone.id
 mob.adwhirl.com
@@ -459,6 +464,7 @@ n.pc5ads.com
 n135adserv.com
 na61-na62.wagbridge.advertisement.tanx.com.gds.alibabadns.com
 na61-na62-st3.wagbridge.advertisement.tanx.com.gds.alibabadns.com
+nep.advangelists.com
 net.salmonads.com
 newoctads.com
 news-abroad.vivo.com
@@ -482,6 +488,7 @@ pad-v3.presage.io
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
+partner.googleadservices.com
 partnerad.l.doubleclick.net
 perf.cdnads.com
 pingback.giphy.com
@@ -546,6 +553,7 @@ sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 secure.adnxs.com
 securepubads.g.doubleclick.net
+serconmp.com
 serve.mondiad.net
 serve.popads.net
 service.adxoo.com
@@ -585,6 +593,7 @@ tagan.adlightning.com
 the-sexy-tube.com
 timelyads.hotrk0.com
 topdealad.xml.ak-is2.net
+topflownews.com
 tpc.googlesyndication.com
 tr9ck.bruceleadx2.com
 track.adsplay.in
@@ -602,6 +611,7 @@ trk.georgepush.com
 trk.xapads.com
 u-ad.com
 u-ad.info
+ucads-cdn.ucweb.com
 ulc3fq6eqm4b.l.adsco.re
 um3.eqads.com
 unconf.adkmob.com
@@ -615,6 +625,7 @@ v.adsrvr.org
 v.amazon-adsystem.com
 v3.mercusuar.uzone.id
 v3-mercusuar.info
+vast.adxoo.com
 wd.adcolony.com
 wd.adcolony.xyz
 worker23.advertnative.com
