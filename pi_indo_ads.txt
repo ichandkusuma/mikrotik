@@ -1,22 +1,13 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 10/04/2020 18:30:23 GMT+7
+# Last Update: 10/04/2020 21:26:53 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
 
 # ======================================================================================================
 
-adsaccount.appcpi.net
-cdn.carbonads.com
-js.adsrvr.org
-q.adrta.com
-rtb.mfadsrvr.com
-search.adcaffe.com
-slimepuls-d40ad.firebaseio.com
-tracking.xapads.com
-xml.ad-maven.com
 0-eu-west-1-awesomeads-166321764.eu-west-1.elb.amazonaws.com
 1.n.adsco.re
 1.s.adsco.re
@@ -30,8 +21,10 @@ xml.ad-maven.com
 9227947.fls.doubleclick.net
 9229036.fls.doubleclick.net
 93-138-176-222.adsl.net.t-com.hr
+9469210.fls.doubleclick.net
 990b424f659e4e27.com
 a.admp.io
+a.adobviewe.club
 a.adtng.com
 a.sportradarserving.com
 a.teads.tv
@@ -76,6 +69,7 @@ ad.rfp.fout.jp
 ad.sen-sdk.com
 ad.turn.com
 ad.turn.com.akadns.net
+ad.weplayer.cc
 ad.yf9889.com
 ad-1263261047.us-east-1.elb.amazonaws.com
 ad2.apx.appier.net
@@ -105,6 +99,7 @@ adn-apac.admixer.co.kr
 adnetwork.adasiaholdings.com
 adn-tktracking-singapore-592916062.ap-southeast-1.elb.amazonaws.com
 adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com
+adobviewe.club
 adolymp.g2afse.com
 adright.xml.ak-is2.net
 adrta.com
@@ -115,6 +110,7 @@ ads.api.vungle.com
 ads.aralego.com
 ads.as.criteo.com
 ads.avct.cloud
+ads.avocet.io
 ads.baca.co.id
 ads.billy21.com
 ads.bulldogcpi.com
@@ -161,6 +157,7 @@ ads54.adtelligent.com
 ads5-noneu.truecaller.com
 ads8.kompasads.com
 ads-816899299.ap-southeast-1.elb.amazonaws.com
+adsaccount.appcpi.net
 adsafe-vast.getpublica.com
 adsapp.affise.com
 ads-bi.zenkube.com
@@ -297,6 +294,7 @@ boffoads.xml.ak-is2.net
 boostads.go2affise.com
 bp.adkmob.com
 c.aaxads.com
+c.adobviewe.club
 c.adsco.re
 c.adskeeper.co.uk
 c1.adform.net
@@ -307,6 +305,7 @@ campaign.kdaffiliates.com
 carbonads.bsa.netdna-cdn.com
 cdn.adx1.com
 cdn.appnext.com
+cdn.carbonads.com
 cdn.push.house
 cdn.pushmart.net
 cdn.special-offers.online
@@ -341,6 +340,7 @@ clk.apxadtracking.net
 clk.myiads.com
 cm.adgrx.com
 cm.adkmob.com
+cm.g.doubleclick.net
 code.beaverads.com
 conf.lsosad.com
 config.ad.snappea.com
@@ -445,6 +445,7 @@ itx5.smartadserver.com
 jadserve.postrelease.com.akadns.net
 jp1-bid-hap.adsrvr.org
 js.ad-score.com
+js.adsrvr.org
 js.hsadspixel.net
 jsc.adskeeper.co.uk
 l.adsbk.com
@@ -452,6 +453,7 @@ l3.aaxads.com
 ladsdown.com
 leaddaway.g2afse.com
 mads.amazon.com
+mads.amazon-adsystem.com
 madsats.com
 match.adsby.bidtheatre.com
 match.adsrvr.org
@@ -530,6 +532,7 @@ pushpush.net
 pushservice.info
 px.adhigh.net
 px.ads.linkedin.com
+q.adrta.com
 qt.slb.adflash.cn
 quadrupleclick.com
 r.adport.io
@@ -541,6 +544,7 @@ reports.crashlytics.com
 rosenberg.appmetrica.yandex.net
 rq.requestads.com
 rs.pushservice.xyz
+rtb.mfadsrvr.com
 rtb-csync-eqx.smartadserver.com
 rtb-csync-itx4.smartadserver.com
 rtb-usw.mfadsrvr.com
@@ -549,6 +553,7 @@ s.1ts18.top
 s.adslinkup.com
 s.amazon-adsystem.com
 s.pubmine.com
+s.youtube.com
 sac.ayads.co
 s-cs.send.microad.jp
 sdk.adspruce.com
@@ -559,6 +564,7 @@ sdk.loveota.com-ca15463c.baiduads.com
 sdk-android.ad.smaato.net
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
+search.adcaffe.com
 secure.adnxs.com
 securepubads.g.doubleclick.net
 serconmp.com
@@ -576,6 +582,7 @@ si.appnext.com
 s-img.adskeeper.co.uk
 s-img.mgid.com
 sjedt.adsafeprotected.com
+slimepuls-d40ad.firebaseio.com
 sp.adpushonline.com
 ssdk.adkmob.com
 ssp.adskom.com
@@ -613,6 +620,7 @@ tracker.rqmob.com
 tracker.rqmob.com
 tracking.bayofads.com
 tracking.intl.miui.com
+tracking.xapads.com
 tracking.yohoads.com
 tr-asia.adsmoloco.com
 trk.georgepush.com
@@ -656,6 +664,7 @@ xapads.go2affise.com
 xapads.rtb.ak-is2.net
 xapads.rtb-useast.ak-is2.net
 xapi.juicyads.com
+xml.ad-maven.com
 xyads.fuse-cloud.com
 y.one.impact-ad.jp
 yandex.com
