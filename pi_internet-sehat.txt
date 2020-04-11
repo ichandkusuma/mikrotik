@@ -1,7 +1,7 @@
 # 
 # Internet Sehat  (Pi-Hole)
 # 
-# Last Update: 12/04/2020 00:19:18 GMT+7
+# Last Update: 12/04/2020 00:22:18 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
