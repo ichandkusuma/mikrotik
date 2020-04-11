@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Mikrotik)
 # 
-# Last Update: 11/04/2020 12:24:10 GMT+7
+# Last Update: 11/04/2020 12:58:31 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -242,6 +242,10 @@ add address=127.0.0.1 ttl=30s name=amidt.adsafeprotected.com
 add address=127.0.0.1 ttl=30s name=anads.co
 add address=127.0.0.1 ttl=30s name=analytics.ad.daum.net
 add address=127.0.0.1 ttl=30s name=analytics.ad.g.daum.net
+add address=127.0.0.1 ttl=30s name=analytics.archive.org
+add address=127.0.0.1 ttl=30s name=analytics.twitter.com
+add address=127.0.0.1 ttl=30s name=analytics.yahoo.com
+add address=127.0.0.1 ttl=30s name=analytics.yola.net
 add address=127.0.0.1 ttl=30s name=androidads20.adcolony.com
 add address=127.0.0.1 ttl=30s name=androidads23.adcolony.com
 add address=127.0.0.1 ttl=30s name=a-origin.teads.tv
@@ -366,6 +370,7 @@ add address=127.0.0.1 ttl=30s name=cs156.adn.rhocdn.net
 add address=127.0.0.1 ttl=30s name=cs477.adn.etacdn.net
 add address=127.0.0.1 ttl=30s name=cs550162656.adn.psicdn.net
 add address=127.0.0.1 ttl=30s name=cs648.adn.phicdn.net
+add address=127.0.0.1 ttl=30s name=csi.gstatic.com
 add address=127.0.0.1 ttl=30s name=d.adroll.com
 add address=127.0.0.1 ttl=30s name=daldt.adsafeprotected.com
 add address=127.0.0.1 ttl=30s name=dart.l.doubleclick.net
@@ -409,6 +414,8 @@ add address=127.0.0.1 ttl=30s name=fota5p.adups.com
 add address=127.0.0.1 ttl=30s name=front-logs.voodoo-ads.io
 add address=127.0.0.1 ttl=30s name=gads55000.pubmatic.com
 add address=127.0.0.1 ttl=30s name=gadspms.com
+add address=127.0.0.1 ttl=30s name=ganon.yahoo.com
+add address=127.0.0.1 ttl=30s name=geo.yahoo.com
 add address=127.0.0.1 ttl=30s name=geocdn.unityads.unity3d.com
 add address=127.0.0.1 ttl=30s name=geoworker.ayads.co
 add address=127.0.0.1 ttl=30s name=gj.track.ucdns.uc.cn
@@ -460,6 +467,7 @@ add address=127.0.0.1 ttl=30s name=js.ad-score.com
 add address=127.0.0.1 ttl=30s name=js.adsrvr.org
 add address=127.0.0.1 ttl=30s name=js.hsadspixel.net
 add address=127.0.0.1 ttl=30s name=jsc.adskeeper.co.uk
+add address=127.0.0.1 ttl=30s name=ktracker.kumparan.com
 add address=127.0.0.1 ttl=30s name=l.adsbk.com
 add address=127.0.0.1 ttl=30s name=l3.aaxads.com
 add address=127.0.0.1 ttl=30s name=ladsdown.com
@@ -516,7 +524,10 @@ add address=127.0.0.1 ttl=30s name=partnerad.l.doubleclick.net
 add address=127.0.0.1 ttl=30s name=perf.cdnads.com
 add address=127.0.0.1 ttl=30s name=pingback.giphy.com
 add address=127.0.0.1 ttl=30s name=pixel.advertising.com
+add address=127.0.0.1 ttl=30s name=pixel.facebook.com
 add address=127.0.0.1 ttl=30s name=pixel.tapad.com
+add address=127.0.0.1 ttl=30s name=pixel.wp.com
+add address=127.0.0.1 ttl=30s name=pixel.yola.com
 add address=127.0.0.1 ttl=30s name=pixels.ad.gt
 add address=127.0.0.1 ttl=30s name=pixel-tracking.sonic-us.supersonicads.com
 add address=127.0.0.1 ttl=30s name=plugin.ucads.ucweb.com
@@ -571,6 +582,7 @@ add address=127.0.0.1 ttl=30s name=s.amazon-adsystem.com
 add address=127.0.0.1 ttl=30s name=s.pubmine.com
 add address=127.0.0.1 ttl=30s name=s.youtube.com
 add address=127.0.0.1 ttl=30s name=sac.ayads.co
+add address=127.0.0.1 ttl=30s name=scribe.twitter.com
 add address=127.0.0.1 ttl=30s name=s-cs.send.microad.jp
 add address=127.0.0.1 ttl=30s name=sdk.adspruce.com
 add address=127.0.0.1 ttl=30s name=sdk.adtiming.com
@@ -619,6 +631,8 @@ add address=127.0.0.1 ttl=30s name=stg-data-id.ads.heytapmobi.com
 add address=127.0.0.1 ttl=30s name=supply.decenterads.com
 add address=127.0.0.1 ttl=30s name=sync3.adsniper.ru
 add address=127.0.0.1 ttl=30s name=sync-dsp.ad-m.asia
+add address=127.0.0.1 ttl=30s name=t.appsflyer.com
+add address=127.0.0.1 ttl=30s name=t.freelancer.com
 add address=127.0.0.1 ttl=30s name=t.rebornads.com
 add address=127.0.0.1 ttl=30s name=t.teads.tv
 add address=127.0.0.1 ttl=30s name=tagan.adlightning.com
@@ -660,6 +674,7 @@ add address=127.0.0.1 ttl=30s name=v.amazon-adsystem.com
 add address=127.0.0.1 ttl=30s name=v3.mercusuar.uzone.id
 add address=127.0.0.1 ttl=30s name=v3-mercusuar.info
 add address=127.0.0.1 ttl=30s name=vast.adxoo.com
+add address=127.0.0.1 ttl=30s name=video-stats.video.google.com
 add address=127.0.0.1 ttl=30s name=wd.adcolony.com
 add address=127.0.0.1 ttl=30s name=wd.adcolony.xyz
 add address=127.0.0.1 ttl=30s name=webview.unityads.unity3d.com
