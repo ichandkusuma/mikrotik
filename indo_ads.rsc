@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Mikrotik)
 # 
-# Last Update: 11/04/2020 12:58:31 GMT+7
+# Last Update: 11/04/2020 13:08:35 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -243,11 +243,13 @@ add address=127.0.0.1 ttl=30s name=anads.co
 add address=127.0.0.1 ttl=30s name=analytics.ad.daum.net
 add address=127.0.0.1 ttl=30s name=analytics.ad.g.daum.net
 add address=127.0.0.1 ttl=30s name=analytics.archive.org
+add address=127.0.0.1 ttl=30s name=analytics.tiktok.com
 add address=127.0.0.1 ttl=30s name=analytics.twitter.com
 add address=127.0.0.1 ttl=30s name=analytics.yahoo.com
 add address=127.0.0.1 ttl=30s name=analytics.yola.net
 add address=127.0.0.1 ttl=30s name=androidads20.adcolony.com
 add address=127.0.0.1 ttl=30s name=androidads23.adcolony.com
+add address=127.0.0.1 ttl=30s name=anti-bot.baidu.com
 add address=127.0.0.1 ttl=30s name=a-origin.teads.tv
 add address=127.0.0.1 ttl=30s name=aoyou.idealads.net
 add address=127.0.0.1 ttl=30s name=ap.adups.com
@@ -285,6 +287,7 @@ add address=127.0.0.1 ttl=30s name=asia.adform.net
 add address=127.0.0.1 ttl=30s name=asia.stat.moxiu.net
 add address=127.0.0.1 ttl=30s name=asia-adlog.vivoglobal.com
 add address=127.0.0.1 ttl=30s name=asia-static-p.vivoglobal.com
+add address=127.0.0.1 ttl=30s name=attributiontrackingga.googlecode.com
 add address=127.0.0.1 ttl=30s name=auction.unityads.unity3d.com
 add address=127.0.0.1 ttl=30s name=aw.dw.impact-ad.jp
 add address=127.0.0.1 ttl=30s name=b.admedia.com
@@ -305,6 +308,7 @@ add address=127.0.0.1 ttl=30s name=blacurlik.com
 add address=127.0.0.1 ttl=30s name=boffoads.xml.ak-is2.net
 add address=127.0.0.1 ttl=30s name=boostads.go2affise.com
 add address=127.0.0.1 ttl=30s name=bp.adkmob.com
+add address=127.0.0.1 ttl=30s name=bzclk.baidu.com
 add address=127.0.0.1 ttl=30s name=c.aaxads.com
 add address=127.0.0.1 ttl=30s name=c.adobviewe.club
 add address=127.0.0.1 ttl=30s name=c.adsco.re
@@ -392,8 +396,10 @@ add address=127.0.0.1 ttl=30s name=dmp.adform.net
 add address=127.0.0.1 ttl=30s name=dsp.adfarm1.adition.com
 add address=127.0.0.1 ttl=30s name=dsp-adcreative.mobshark.net
 add address=127.0.0.1 ttl=30s name=dt.adsafeprotected.com
+add address=127.0.0.1 ttl=30s name=dup.baidustatic.com
 add address=127.0.0.1 ttl=30s name=e.crashlytics.com
 add address=127.0.0.1 ttl=30s name=e3.adpushup.com
+add address=127.0.0.1 ttl=30s name=eclick.baidu.com
 add address=127.0.0.1 ttl=30s name=ecs-ads-alb-o73bvse2a68q-1582783096.us-west-2.elb.amazonaws.com
 add address=127.0.0.1 ttl=30s name=engine.adsupply.com
 add address=127.0.0.1 ttl=30s name=eqx.smartadserver.com
@@ -403,6 +409,7 @@ add address=127.0.0.1 ttl=30s name=exoticads.com
 add address=127.0.0.1 ttl=30s name=explorads.xml.ak-is2.net
 add address=127.0.0.1 ttl=30s name=feed.pushmart.net
 add address=127.0.0.1 ttl=30s name=fi.uufoxbusad.com
+add address=127.0.0.1 ttl=30s name=firebaselogging.googleapis.com
 add address=127.0.0.1 ttl=30s name=fkserver.adfanking.com
 add address=127.0.0.1 ttl=30s name=fls-na.amazon-adsystem.com
 add address=127.0.0.1 ttl=30s name=folder.adsunflower.com
@@ -449,6 +456,7 @@ add address=127.0.0.1 ttl=30s name=img.beaverads.com
 add address=127.0.0.1 ttl=30s name=img-hw.xnxx-cdn.com
 add address=127.0.0.1 ttl=30s name=img-hw.xvideos-cdn.com
 add address=127.0.0.1 ttl=30s name=img-l3.xnxx-cdn.com
+add address=127.0.0.1 ttl=30s name=imgstat.baidu.com
 add address=127.0.0.1 ttl=30s name=in-adreq.vivoglobal.com
 add address=127.0.0.1 ttl=30s name=infoflow.searcher.mobi
 add address=127.0.0.1 ttl=30s name=ingameads.gameloft.com
@@ -535,6 +543,7 @@ add address=127.0.0.1 ttl=30s name=pm-gateway.supersonicads.com
 add address=127.0.0.1 ttl=30s name=pool5.moatads.com
 add address=127.0.0.1 ttl=30s name=popcash.libertymediaadss.netdna-cdn.com
 add address=127.0.0.1 ttl=30s name=popcash.net
+add address=127.0.0.1 ttl=30s name=pos.baidu.com
 add address=127.0.0.1 ttl=30s name=poweredby.jads.co
 add address=127.0.0.1 ttl=30s name=prebid.adnxs.com
 add address=127.0.0.1 ttl=30s name=prod-adsforce-openresty-adv-905369396.ap-southeast-1.elb.amazonaws.com
@@ -582,6 +591,7 @@ add address=127.0.0.1 ttl=30s name=s.amazon-adsystem.com
 add address=127.0.0.1 ttl=30s name=s.pubmine.com
 add address=127.0.0.1 ttl=30s name=s.youtube.com
 add address=127.0.0.1 ttl=30s name=sac.ayads.co
+add address=127.0.0.1 ttl=30s name=sclick.baidu.com
 add address=127.0.0.1 ttl=30s name=scribe.twitter.com
 add address=127.0.0.1 ttl=30s name=s-cs.send.microad.jp
 add address=127.0.0.1 ttl=30s name=sdk.adspruce.com
@@ -674,10 +684,12 @@ add address=127.0.0.1 ttl=30s name=v.amazon-adsystem.com
 add address=127.0.0.1 ttl=30s name=v3.mercusuar.uzone.id
 add address=127.0.0.1 ttl=30s name=v3-mercusuar.info
 add address=127.0.0.1 ttl=30s name=vast.adxoo.com
+add address=127.0.0.1 ttl=30s name=video-ad-stats.googlesyndication.com
 add address=127.0.0.1 ttl=30s name=video-stats.video.google.com
 add address=127.0.0.1 ttl=30s name=wd.adcolony.com
 add address=127.0.0.1 ttl=30s name=wd.adcolony.xyz
 add address=127.0.0.1 ttl=30s name=webview.unityads.unity3d.com
+add address=127.0.0.1 ttl=30s name=wkctj.baidu.com
 add address=127.0.0.1 ttl=30s name=worker23.advertnative.com
 add address=127.0.0.1 ttl=30s name=worker3.advertnative.com
 add address=127.0.0.1 ttl=30s name=worker4.advertnative.com
