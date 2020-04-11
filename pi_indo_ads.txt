@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 11/04/2020 12:44:46 GMT+7
+# Last Update: 11/04/2020 12:56:46 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -239,6 +239,10 @@ amidt.adsafeprotected.com
 anads.co
 analytics.ad.daum.net
 analytics.ad.g.daum.net
+analytics.archive.org
+analytics.twitter.com
+analytics.yahoo.com
+analytics.yola.net
 androidads20.adcolony.com
 androidads23.adcolony.com
 a-origin.teads.tv
@@ -363,6 +367,7 @@ cs156.adn.rhocdn.net
 cs477.adn.etacdn.net
 cs550162656.adn.psicdn.net
 cs648.adn.phicdn.net
+csi.gstatic.com
 d.adroll.com
 daldt.adsafeprotected.com
 dart.l.doubleclick.net
@@ -406,6 +411,8 @@ fota5p.adups.com
 front-logs.voodoo-ads.io
 gads55000.pubmatic.com
 gadspms.com
+ganon.yahoo.com
+geo.yahoo.com
 geocdn.unityads.unity3d.com
 geoworker.ayads.co
 gj.track.ucdns.uc.cn
@@ -457,6 +464,7 @@ js.ad-score.com
 js.adsrvr.org
 js.hsadspixel.net
 jsc.adskeeper.co.uk
+ktracker.kumparan.com
 l.adsbk.com
 l3.aaxads.com
 ladsdown.com
@@ -513,7 +521,10 @@ partnerad.l.doubleclick.net
 perf.cdnads.com
 pingback.giphy.com
 pixel.advertising.com
+pixel.facebook.com
 pixel.tapad.com
+pixel.wp.com
+pixel.yola.com
 pixels.ad.gt
 pixel-tracking.sonic-us.supersonicads.com
 plugin.ucads.ucweb.com
@@ -568,6 +579,7 @@ s.amazon-adsystem.com
 s.pubmine.com
 s.youtube.com
 sac.ayads.co
+scribe.twitter.com
 s-cs.send.microad.jp
 sdk.adspruce.com
 sdk.adtiming.com
@@ -617,6 +629,7 @@ supply.decenterads.com
 sync3.adsniper.ru
 sync-dsp.ad-m.asia
 t.appsflyer.com
+t.freelancer.com
 t.rebornads.com
 t.teads.tv
 tagan.adlightning.com
@@ -658,6 +671,7 @@ v.amazon-adsystem.com
 v3.mercusuar.uzone.id
 v3-mercusuar.info
 vast.adxoo.com
+video-stats.video.google.com
 wd.adcolony.com
 wd.adcolony.xyz
 webview.unityads.unity3d.com
@@ -690,7 +704,5 @@ yandex.com
 yandex.st
 z.moatads.com
 zeus.ad.intl.xiaomi.com
-
-
 
 
