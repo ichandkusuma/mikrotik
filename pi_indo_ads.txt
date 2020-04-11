@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 11/04/2020 12:56:46 GMT+7
+# Last Update: 11/04/2020 13:06:46 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -240,11 +240,13 @@ anads.co
 analytics.ad.daum.net
 analytics.ad.g.daum.net
 analytics.archive.org
+analytics.tiktok.com
 analytics.twitter.com
 analytics.yahoo.com
 analytics.yola.net
 androidads20.adcolony.com
 androidads23.adcolony.com
+anti-bot.baidu.com
 a-origin.teads.tv
 aoyou.idealads.net
 ap.adups.com
@@ -282,6 +284,7 @@ asia.adform.net
 asia.stat.moxiu.net
 asia-adlog.vivoglobal.com
 asia-static-p.vivoglobal.com
+attributiontrackingga.googlecode.com
 auction.unityads.unity3d.com
 aw.dw.impact-ad.jp
 b.admedia.com
@@ -302,6 +305,7 @@ blacurlik.com
 boffoads.xml.ak-is2.net
 boostads.go2affise.com
 bp.adkmob.com
+bzclk.baidu.com
 c.aaxads.com
 c.adobviewe.club
 c.adsco.re
@@ -389,8 +393,10 @@ dmp.adform.net
 dsp.adfarm1.adition.com
 dsp-adcreative.mobshark.net
 dt.adsafeprotected.com
+dup.baidustatic.com
 e.crashlytics.com
 e3.adpushup.com
+eclick.baidu.com
 ecs-ads-alb-o73bvse2a68q-1582783096.us-west-2.elb.amazonaws.com
 engine.adsupply.com
 eqx.smartadserver.com
@@ -400,6 +406,7 @@ exoticads.com
 explorads.xml.ak-is2.net
 feed.pushmart.net
 fi.uufoxbusad.com
+firebaselogging.googleapis.com
 fkserver.adfanking.com
 fls-na.amazon-adsystem.com
 folder.adsunflower.com
@@ -446,6 +453,7 @@ img.beaverads.com
 img-hw.xnxx-cdn.com
 img-hw.xvideos-cdn.com
 img-l3.xnxx-cdn.com
+imgstat.baidu.com
 in-adreq.vivoglobal.com
 infoflow.searcher.mobi
 ingameads.gameloft.com
@@ -532,6 +540,7 @@ pm-gateway.supersonicads.com
 pool5.moatads.com
 popcash.libertymediaadss.netdna-cdn.com
 popcash.net
+pos.baidu.com
 poweredby.jads.co
 prebid.adnxs.com
 prod-adsforce-openresty-adv-905369396.ap-southeast-1.elb.amazonaws.com
@@ -579,6 +588,7 @@ s.amazon-adsystem.com
 s.pubmine.com
 s.youtube.com
 sac.ayads.co
+sclick.baidu.com
 scribe.twitter.com
 s-cs.send.microad.jp
 sdk.adspruce.com
@@ -671,10 +681,12 @@ v.amazon-adsystem.com
 v3.mercusuar.uzone.id
 v3-mercusuar.info
 vast.adxoo.com
+video-ad-stats.googlesyndication.com
 video-stats.video.google.com
 wd.adcolony.com
 wd.adcolony.xyz
 webview.unityads.unity3d.com
+wkctj.baidu.com
 worker23.advertnative.com
 worker3.advertnative.com
 worker4.advertnative.com
