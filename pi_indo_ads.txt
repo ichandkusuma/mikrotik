@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 11/04/2020 00:56:48 GMT+7
+# Last Update: 11/04/2020 12:22:46 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -366,6 +366,7 @@ cs648.adn.phicdn.net
 d.adroll.com
 daldt.adsafeprotected.com
 dart.l.doubleclick.net
+data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
 data-cl-f.ads.oppomobile.com
 data-cl-f-ads-614737041.ap-southeast-1.elb.amazonaws.com
@@ -439,6 +440,7 @@ img-hw.xnxx-cdn.com
 img-hw.xvideos-cdn.com
 img-l3.xnxx-cdn.com
 in-adreq.vivoglobal.com
+infoflow.searcher.mobi
 ingameads.gameloft.com
 init.supersonicads.com
 inter1ads.com
@@ -527,6 +529,7 @@ propellerads.com
 pubads.g.doubleclick.net
 public-webservice.apdc3n.adpushup.com
 publisher-event.ads.prd.ie.internal.unity3d.com
+publisher-r-useast-node-5.motionspots.com
 publpush.com
 pubpress.net
 pubserver2.bizport.cn
@@ -598,6 +601,7 @@ ssdk.adkmob.com
 ssp.adskom.com
 st.adxxx.info
 st.beaverads.com
+stat.tracker.svsw.xyz
 static.ads.apusapps.com
 static.adsafeprotected.com
 static.ads-twitter.com
@@ -625,6 +629,7 @@ track.adsplay.in
 track.adstack.co
 track.brucelead.com
 track.gowithads.com
+track.novabeyond.net
 track-apac.adformnet.akadns.net
 tracker.rqmob.com
 tracker.rqmob.com
@@ -670,6 +675,7 @@ www.adtival.network
 www.freeadso.com
 www.googleadservices.com
 www.maxonclick.com
+www.monyb.info
 www.salmonads.com
 www.uzone.id
 xapads.go2affise.com
@@ -683,6 +689,7 @@ yandex.com
 yandex.st
 z.moatads.com
 zeus.ad.intl.xiaomi.com
+
 
 
 
