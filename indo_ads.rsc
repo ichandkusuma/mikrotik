@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Mikrotik)
 # 
-# Last Update: 10/04/2020 16:52:58 GMT+7
+# Last Update: 11/04/2020 12:24:10 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -18,6 +18,7 @@ add address=127.0.0.1 ttl=30s name=1.s.adsco.re
 add address=127.0.0.1 ttl=30s name=12dc71b7cb820f2a.com
 add address=127.0.0.1 ttl=30s name=1plusads.affise.com
 add address=127.0.0.1 ttl=30s name=242.17-67-87.adsl-dyn.isp.belgacom.be
+add address=127.0.0.1 ttl=30s name=3.kxc-news2.club
 add address=127.0.0.1 ttl=30s name=3x2.myfastcdn.com
 add address=127.0.0.1 ttl=30s name=6.adsco.re
 add address=127.0.0.1 ttl=30s name=87-205-224-41.adsl.inetia.pl
@@ -25,8 +26,10 @@ add address=127.0.0.1 ttl=30s name=9197271.fls.doubleclick.net
 add address=127.0.0.1 ttl=30s name=9227947.fls.doubleclick.net
 add address=127.0.0.1 ttl=30s name=9229036.fls.doubleclick.net
 add address=127.0.0.1 ttl=30s name=93-138-176-222.adsl.net.t-com.hr
+add address=127.0.0.1 ttl=30s name=9469210.fls.doubleclick.net
 add address=127.0.0.1 ttl=30s name=990b424f659e4e27.com
 add address=127.0.0.1 ttl=30s name=a.admp.io
+add address=127.0.0.1 ttl=30s name=a.adobviewe.club
 add address=127.0.0.1 ttl=30s name=a.adtng.com
 add address=127.0.0.1 ttl=30s name=a.sportradarserving.com
 add address=127.0.0.1 ttl=30s name=a.teads.tv
@@ -71,6 +74,7 @@ add address=127.0.0.1 ttl=30s name=ad.rfp.fout.jp
 add address=127.0.0.1 ttl=30s name=ad.sen-sdk.com
 add address=127.0.0.1 ttl=30s name=ad.turn.com
 add address=127.0.0.1 ttl=30s name=ad.turn.com.akadns.net
+add address=127.0.0.1 ttl=30s name=ad.weplayer.cc
 add address=127.0.0.1 ttl=30s name=ad.yf9889.com
 add address=127.0.0.1 ttl=30s name=ad-1263261047.us-east-1.elb.amazonaws.com
 add address=127.0.0.1 ttl=30s name=ad2.apx.appier.net
@@ -100,6 +104,7 @@ add address=127.0.0.1 ttl=30s name=adn-apac.admixer.co.kr
 add address=127.0.0.1 ttl=30s name=adnetwork.adasiaholdings.com
 add address=127.0.0.1 ttl=30s name=adn-tktracking-singapore-592916062.ap-southeast-1.elb.amazonaws.com
 add address=127.0.0.1 ttl=30s name=adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com
+add address=127.0.0.1 ttl=30s name=adobviewe.club
 add address=127.0.0.1 ttl=30s name=adolymp.g2afse.com
 add address=127.0.0.1 ttl=30s name=adright.xml.ak-is2.net
 add address=127.0.0.1 ttl=30s name=adrta.com
@@ -110,6 +115,7 @@ add address=127.0.0.1 ttl=30s name=ads.api.vungle.com
 add address=127.0.0.1 ttl=30s name=ads.aralego.com
 add address=127.0.0.1 ttl=30s name=ads.as.criteo.com
 add address=127.0.0.1 ttl=30s name=ads.avct.cloud
+add address=127.0.0.1 ttl=30s name=ads.avocet.io
 add address=127.0.0.1 ttl=30s name=ads.baca.co.id
 add address=127.0.0.1 ttl=30s name=ads.billy21.com
 add address=127.0.0.1 ttl=30s name=ads.bulldogcpi.com
@@ -156,6 +162,7 @@ add address=127.0.0.1 ttl=30s name=ads54.adtelligent.com
 add address=127.0.0.1 ttl=30s name=ads5-noneu.truecaller.com
 add address=127.0.0.1 ttl=30s name=ads8.kompasads.com
 add address=127.0.0.1 ttl=30s name=ads-816899299.ap-southeast-1.elb.amazonaws.com
+add address=127.0.0.1 ttl=30s name=adsaccount.appcpi.net
 add address=127.0.0.1 ttl=30s name=adsafe-vast.getpublica.com
 add address=127.0.0.1 ttl=30s name=adsapp.affise.com
 add address=127.0.0.1 ttl=30s name=ads-bi.zenkube.com
@@ -180,6 +187,7 @@ add address=127.0.0.1 ttl=30s name=adserver-vpc-alb-1-769379334.ap-northeast-1.e
 add address=127.0.0.1 ttl=30s name=adserver-vpc-alb-2-1884982011.ap-northeast-1.elb.amazonaws.com
 add address=127.0.0.1 ttl=30s name=adserver-vpc-alb-3-1256976712.ap-northeast-1.elb.amazonaws.com
 add address=127.0.0.1 ttl=30s name=adservice.google.co.id
+add address=127.0.0.1 ttl=30s name=adservice.google.co.in
 add address=127.0.0.1 ttl=30s name=adservice.google.com
 add address=127.0.0.1 ttl=30s name=adserving.herokuapp.com
 add address=127.0.0.1 ttl=30s name=adserving.live
@@ -252,6 +260,8 @@ add address=127.0.0.1 ttl=30s name=api.adsnative123.com
 add address=127.0.0.1 ttl=30s name=api.bqtabc.adflash.cn
 add address=127.0.0.1 ttl=30s name=api.c.avazunativeads.com
 add address=127.0.0.1 ttl=30s name=api.googleadsapi.com
+add address=127.0.0.1 ttl=30s name=api.newsfeed.intl.miui.com
+add address=127.0.0.1 ttl=30s name=api.pxlad.io
 add address=127.0.0.1 ttl=30s name=api.reachads.com
 add address=127.0.0.1 ttl=30s name=api.rqmob.com
 add address=127.0.0.1 ttl=30s name=api.salmonads.com
@@ -292,6 +302,7 @@ add address=127.0.0.1 ttl=30s name=boffoads.xml.ak-is2.net
 add address=127.0.0.1 ttl=30s name=boostads.go2affise.com
 add address=127.0.0.1 ttl=30s name=bp.adkmob.com
 add address=127.0.0.1 ttl=30s name=c.aaxads.com
+add address=127.0.0.1 ttl=30s name=c.adobviewe.club
 add address=127.0.0.1 ttl=30s name=c.adsco.re
 add address=127.0.0.1 ttl=30s name=c.adskeeper.co.uk
 add address=127.0.0.1 ttl=30s name=c1.adform.net
@@ -302,6 +313,7 @@ add address=127.0.0.1 ttl=30s name=campaign.kdaffiliates.com
 add address=127.0.0.1 ttl=30s name=carbonads.bsa.netdna-cdn.com
 add address=127.0.0.1 ttl=30s name=cdn.adx1.com
 add address=127.0.0.1 ttl=30s name=cdn.appnext.com
+add address=127.0.0.1 ttl=30s name=cdn.carbonads.com
 add address=127.0.0.1 ttl=30s name=cdn.push.house
 add address=127.0.0.1 ttl=30s name=cdn.pushmart.net
 add address=127.0.0.1 ttl=30s name=cdn.special-offers.online
@@ -336,6 +348,7 @@ add address=127.0.0.1 ttl=30s name=clk.apxadtracking.net
 add address=127.0.0.1 ttl=30s name=clk.myiads.com
 add address=127.0.0.1 ttl=30s name=cm.adgrx.com
 add address=127.0.0.1 ttl=30s name=cm.adkmob.com
+add address=127.0.0.1 ttl=30s name=cm.g.doubleclick.net
 add address=127.0.0.1 ttl=30s name=code.beaverads.com
 add address=127.0.0.1 ttl=30s name=conf.lsosad.com
 add address=127.0.0.1 ttl=30s name=config.ad.snappea.com
@@ -356,6 +369,7 @@ add address=127.0.0.1 ttl=30s name=cs648.adn.phicdn.net
 add address=127.0.0.1 ttl=30s name=d.adroll.com
 add address=127.0.0.1 ttl=30s name=daldt.adsafeprotected.com
 add address=127.0.0.1 ttl=30s name=dart.l.doubleclick.net
+add address=127.0.0.1 ttl=30s name=data.mistat.india.xiaomi.com
 add address=127.0.0.1 ttl=30s name=data.mistat.intl.xiaomi.com
 add address=127.0.0.1 ttl=30s name=data-cl-f.ads.oppomobile.com
 add address=127.0.0.1 ttl=30s name=data-cl-f-ads-614737041.ap-southeast-1.elb.amazonaws.com
@@ -374,6 +388,7 @@ add address=127.0.0.1 ttl=30s name=dsp.adfarm1.adition.com
 add address=127.0.0.1 ttl=30s name=dsp-adcreative.mobshark.net
 add address=127.0.0.1 ttl=30s name=dt.adsafeprotected.com
 add address=127.0.0.1 ttl=30s name=e.crashlytics.com
+add address=127.0.0.1 ttl=30s name=e3.adpushup.com
 add address=127.0.0.1 ttl=30s name=ecs-ads-alb-o73bvse2a68q-1582783096.us-west-2.elb.amazonaws.com
 add address=127.0.0.1 ttl=30s name=engine.adsupply.com
 add address=127.0.0.1 ttl=30s name=eqx.smartadserver.com
@@ -420,6 +435,7 @@ add address=127.0.0.1 ttl=30s name=ib.anycast.adnxs.com
 add address=127.0.0.1 ttl=30s name=id.push.heytapmobi.com
 add address=127.0.0.1 ttl=30s name=ids.ad.gt
 add address=127.0.0.1 ttl=30s name=image.mybestclick.net
+add address=127.0.0.1 ttl=30s name=image6.pubmatic.com
 add address=127.0.0.1 ttl=30s name=images.ibizads.com
 add address=127.0.0.1 ttl=30s name=img.adtiming.com
 add address=127.0.0.1 ttl=30s name=img.beaverads.com
@@ -427,6 +443,7 @@ add address=127.0.0.1 ttl=30s name=img-hw.xnxx-cdn.com
 add address=127.0.0.1 ttl=30s name=img-hw.xvideos-cdn.com
 add address=127.0.0.1 ttl=30s name=img-l3.xnxx-cdn.com
 add address=127.0.0.1 ttl=30s name=in-adreq.vivoglobal.com
+add address=127.0.0.1 ttl=30s name=infoflow.searcher.mobi
 add address=127.0.0.1 ttl=30s name=ingameads.gameloft.com
 add address=127.0.0.1 ttl=30s name=init.supersonicads.com
 add address=127.0.0.1 ttl=30s name=inter1ads.com
@@ -440,6 +457,7 @@ add address=127.0.0.1 ttl=30s name=itx5.smartadserver.com
 add address=127.0.0.1 ttl=30s name=jadserve.postrelease.com.akadns.net
 add address=127.0.0.1 ttl=30s name=jp1-bid-hap.adsrvr.org
 add address=127.0.0.1 ttl=30s name=js.ad-score.com
+add address=127.0.0.1 ttl=30s name=js.adsrvr.org
 add address=127.0.0.1 ttl=30s name=js.hsadspixel.net
 add address=127.0.0.1 ttl=30s name=jsc.adskeeper.co.uk
 add address=127.0.0.1 ttl=30s name=l.adsbk.com
@@ -447,6 +465,7 @@ add address=127.0.0.1 ttl=30s name=l3.aaxads.com
 add address=127.0.0.1 ttl=30s name=ladsdown.com
 add address=127.0.0.1 ttl=30s name=leaddaway.g2afse.com
 add address=127.0.0.1 ttl=30s name=mads.amazon.com
+add address=127.0.0.1 ttl=30s name=mads.amazon-adsystem.com
 add address=127.0.0.1 ttl=30s name=madsats.com
 add address=127.0.0.1 ttl=30s name=match.adsby.bidtheatre.com
 add address=127.0.0.1 ttl=30s name=match.adsrvr.org
@@ -467,6 +486,7 @@ add address=127.0.0.1 ttl=30s name=n.pc5ads.com
 add address=127.0.0.1 ttl=30s name=n135adserv.com
 add address=127.0.0.1 ttl=30s name=na61-na62.wagbridge.advertisement.tanx.com.gds.alibabadns.com
 add address=127.0.0.1 ttl=30s name=na61-na62-st3.wagbridge.advertisement.tanx.com.gds.alibabadns.com
+add address=127.0.0.1 ttl=30s name=native.propellerclick.com
 add address=127.0.0.1 ttl=30s name=nep.advangelists.com
 add address=127.0.0.1 ttl=30s name=net.salmonads.com
 add address=127.0.0.1 ttl=30s name=newoctads.com
@@ -504,6 +524,7 @@ add address=127.0.0.1 ttl=30s name=pm-gateway.supersonicads.com
 add address=127.0.0.1 ttl=30s name=pool5.moatads.com
 add address=127.0.0.1 ttl=30s name=popcash.libertymediaadss.netdna-cdn.com
 add address=127.0.0.1 ttl=30s name=popcash.net
+add address=127.0.0.1 ttl=30s name=poweredby.jads.co
 add address=127.0.0.1 ttl=30s name=prebid.adnxs.com
 add address=127.0.0.1 ttl=30s name=prod-adsforce-openresty-adv-905369396.ap-southeast-1.elb.amazonaws.com
 add address=127.0.0.1 ttl=30s name=promo-bc.com
@@ -511,6 +532,7 @@ add address=127.0.0.1 ttl=30s name=propellerads.com
 add address=127.0.0.1 ttl=30s name=pubads.g.doubleclick.net
 add address=127.0.0.1 ttl=30s name=public-webservice.apdc3n.adpushup.com
 add address=127.0.0.1 ttl=30s name=publisher-event.ads.prd.ie.internal.unity3d.com
+add address=127.0.0.1 ttl=30s name=publisher-r-useast-node-5.motionspots.com
 add address=127.0.0.1 ttl=30s name=publpush.com
 add address=127.0.0.1 ttl=30s name=pubpress.net
 add address=127.0.0.1 ttl=30s name=pubserver2.bizport.cn
@@ -519,12 +541,14 @@ add address=127.0.0.1 ttl=30s name=push.maribacaberita.com
 add address=127.0.0.1 ttl=30s name=push2.notify-service.com
 add address=127.0.0.1 ttl=30s name=pushads.biz
 add address=127.0.0.1 ttl=30s name=pushads.detik.com
+add address=127.0.0.1 ttl=30s name=pushance.com
 add address=127.0.0.1 ttl=30s name=pushimg.com
 add address=127.0.0.1 ttl=30s name=pushnginx.news-host.pw
 add address=127.0.0.1 ttl=30s name=pushpush.net
 add address=127.0.0.1 ttl=30s name=pushservice.info
 add address=127.0.0.1 ttl=30s name=px.adhigh.net
 add address=127.0.0.1 ttl=30s name=px.ads.linkedin.com
+add address=127.0.0.1 ttl=30s name=q.adrta.com
 add address=127.0.0.1 ttl=30s name=qt.slb.adflash.cn
 add address=127.0.0.1 ttl=30s name=quadrupleclick.com
 add address=127.0.0.1 ttl=30s name=r.adport.io
@@ -536,6 +560,7 @@ add address=127.0.0.1 ttl=30s name=reports.crashlytics.com
 add address=127.0.0.1 ttl=30s name=rosenberg.appmetrica.yandex.net
 add address=127.0.0.1 ttl=30s name=rq.requestads.com
 add address=127.0.0.1 ttl=30s name=rs.pushservice.xyz
+add address=127.0.0.1 ttl=30s name=rtb.mfadsrvr.com
 add address=127.0.0.1 ttl=30s name=rtb-csync-eqx.smartadserver.com
 add address=127.0.0.1 ttl=30s name=rtb-csync-itx4.smartadserver.com
 add address=127.0.0.1 ttl=30s name=rtb-usw.mfadsrvr.com
@@ -544,6 +569,7 @@ add address=127.0.0.1 ttl=30s name=s.1ts18.top
 add address=127.0.0.1 ttl=30s name=s.adslinkup.com
 add address=127.0.0.1 ttl=30s name=s.amazon-adsystem.com
 add address=127.0.0.1 ttl=30s name=s.pubmine.com
+add address=127.0.0.1 ttl=30s name=s.youtube.com
 add address=127.0.0.1 ttl=30s name=sac.ayads.co
 add address=127.0.0.1 ttl=30s name=s-cs.send.microad.jp
 add address=127.0.0.1 ttl=30s name=sdk.adspruce.com
@@ -554,6 +580,7 @@ add address=127.0.0.1 ttl=30s name=sdk.loveota.com-ca15463c.baiduads.com
 add address=127.0.0.1 ttl=30s name=sdk-android.ad.smaato.net
 add address=127.0.0.1 ttl=30s name=sdkconfig.ad.intl.xiaomi.com
 add address=127.0.0.1 ttl=30s name=sdkconfig.ad.xiaomi.com
+add address=127.0.0.1 ttl=30s name=search.adcaffe.com
 add address=127.0.0.1 ttl=30s name=secure.adnxs.com
 add address=127.0.0.1 ttl=30s name=securepubads.g.doubleclick.net
 add address=127.0.0.1 ttl=30s name=serconmp.com
@@ -571,11 +598,13 @@ add address=127.0.0.1 ttl=30s name=si.appnext.com
 add address=127.0.0.1 ttl=30s name=s-img.adskeeper.co.uk
 add address=127.0.0.1 ttl=30s name=s-img.mgid.com
 add address=127.0.0.1 ttl=30s name=sjedt.adsafeprotected.com
+add address=127.0.0.1 ttl=30s name=slimepuls-d40ad.firebaseio.com
 add address=127.0.0.1 ttl=30s name=sp.adpushonline.com
 add address=127.0.0.1 ttl=30s name=ssdk.adkmob.com
 add address=127.0.0.1 ttl=30s name=ssp.adskom.com
 add address=127.0.0.1 ttl=30s name=st.adxxx.info
 add address=127.0.0.1 ttl=30s name=st.beaverads.com
+add address=127.0.0.1 ttl=30s name=stat.tracker.svsw.xyz
 add address=127.0.0.1 ttl=30s name=static.ads.apusapps.com
 add address=127.0.0.1 ttl=30s name=static.adsafeprotected.com
 add address=127.0.0.1 ttl=30s name=static.ads-twitter.com
@@ -603,11 +632,13 @@ add address=127.0.0.1 ttl=30s name=track.adsplay.in
 add address=127.0.0.1 ttl=30s name=track.adstack.co
 add address=127.0.0.1 ttl=30s name=track.brucelead.com
 add address=127.0.0.1 ttl=30s name=track.gowithads.com
+add address=127.0.0.1 ttl=30s name=track.novabeyond.net
 add address=127.0.0.1 ttl=30s name=track-apac.adformnet.akadns.net
 add address=127.0.0.1 ttl=30s name=tracker.rqmob.com
 add address=127.0.0.1 ttl=30s name=tracker.rqmob.com
 add address=127.0.0.1 ttl=30s name=tracking.bayofads.com
 add address=127.0.0.1 ttl=30s name=tracking.intl.miui.com
+add address=127.0.0.1 ttl=30s name=tracking.xapads.com
 add address=127.0.0.1 ttl=30s name=tracking.yohoads.com
 add address=127.0.0.1 ttl=30s name=tr-asia.adsmoloco.com
 add address=127.0.0.1 ttl=30s name=trk.georgepush.com
@@ -631,6 +662,7 @@ add address=127.0.0.1 ttl=30s name=v3-mercusuar.info
 add address=127.0.0.1 ttl=30s name=vast.adxoo.com
 add address=127.0.0.1 ttl=30s name=wd.adcolony.com
 add address=127.0.0.1 ttl=30s name=wd.adcolony.xyz
+add address=127.0.0.1 ttl=30s name=webview.unityads.unity3d.com
 add address=127.0.0.1 ttl=30s name=worker23.advertnative.com
 add address=127.0.0.1 ttl=30s name=worker3.advertnative.com
 add address=127.0.0.1 ttl=30s name=worker4.advertnative.com
@@ -639,18 +671,21 @@ add address=127.0.0.1 ttl=30s name=ww1097.smartadserver.com
 add address=127.0.0.1 ttl=30s name=ww2060-itx4.smartadserver.com
 add address=127.0.0.1 ttl=30s name=ww2060-sgp.smartadserver.com
 add address=127.0.0.1 ttl=30s name=wwclickads.club
+add address=127.0.0.1 ttl=30s name=wwclicktm.club
 add address=127.0.0.1 ttl=30s name=www.adskeeper.co.uk
 add address=127.0.0.1 ttl=30s name=www.adsv123.com
 add address=127.0.0.1 ttl=30s name=www.adtival.network
 add address=127.0.0.1 ttl=30s name=www.freeadso.com
 add address=127.0.0.1 ttl=30s name=www.googleadservices.com
 add address=127.0.0.1 ttl=30s name=www.maxonclick.com
+add address=127.0.0.1 ttl=30s name=www.monyb.info
 add address=127.0.0.1 ttl=30s name=www.salmonads.com
 add address=127.0.0.1 ttl=30s name=www.uzone.id
 add address=127.0.0.1 ttl=30s name=xapads.go2affise.com
 add address=127.0.0.1 ttl=30s name=xapads.rtb.ak-is2.net
 add address=127.0.0.1 ttl=30s name=xapads.rtb-useast.ak-is2.net
 add address=127.0.0.1 ttl=30s name=xapi.juicyads.com
+add address=127.0.0.1 ttl=30s name=xml.ad-maven.com
 add address=127.0.0.1 ttl=30s name=xyads.fuse-cloud.com
 add address=127.0.0.1 ttl=30s name=y.one.impact-ad.jp
 add address=127.0.0.1 ttl=30s name=yandex.com
