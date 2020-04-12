@@ -1,13 +1,20 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 12/04/2020 11:09:46 GMT+7
+# Last Update: 12/04/2020 15:42:46 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
 
 # ======================================================================================================
 
+
+abroad.api.comm.intl.miui.com
+dis.as.criteo.com
+ginf.adfurikun.jp
+pix.as.criteo.net
+widget.as.criteo.com
+widget.criteo.com
 ad-delivery.net
 adbsdk.flyermobi.com
 ads-sdk.upltv.com
