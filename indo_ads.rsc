@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Mikrotik)
 # 
-# Last Update: 12/04/2020 15:40:35 GMT+7
+# Last Update: 12/04/2020 15:55:05 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -275,7 +275,6 @@ add address=127.0.0.1 name=cdn.push.house ttl=30s
 add address=127.0.0.1 name=cdn.special-offers.online ttl=30s
 add address=127.0.0.1 name=cdn2.teads.tv ttl=30s
 add address=127.0.0.1 name=cdn4-buysellads-net.bsa.netdna-cdn.com ttl=30s
-add address=127.0.0.1 name=cdn77-pic.xnxx-cdn.com ttl=30s
 add address=127.0.0.1 name=cdn-adspot.tfgco.com ttl=30s
 add address=127.0.0.1 name=cdn-creatives-akamai-prd.unityads.unity3d.com ttl=30s
 add address=127.0.0.1 name=cf.iadsdk.apple.com ttl=30s
@@ -377,9 +376,6 @@ add address=127.0.0.1 name=ids.ad.gt ttl=30s
 add address=127.0.0.1 name=image.mybestclick.net ttl=30s
 add address=127.0.0.1 name=images.ibizads.com ttl=30s
 add address=127.0.0.1 name=img.beaverads.com ttl=30s
-add address=127.0.0.1 name=img-hw.xnxx-cdn.com ttl=30s
-add address=127.0.0.1 name=img-hw.xvideos-cdn.com ttl=30s
-add address=127.0.0.1 name=img-l3.xnxx-cdn.com ttl=30s
 add address=127.0.0.1 name=in-adreq.vivoglobal.com ttl=30s
 add address=127.0.0.1 name=ingameads.gameloft.com ttl=30s
 add address=127.0.0.1 name=init.supersonicads.com ttl=30s
@@ -737,5 +733,4 @@ add address=127.0.0.1 name=ws.ksmobile.net ttl=30s
 add address=127.0.0.1 name=wwclicktm.club ttl=30s
 add address=127.0.0.1 name=www.monyb.info ttl=30s
 add address=127.0.0.1 name=xml.ad-maven.com ttl=30s
-
 
