@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 12/04/2020 15:55:52 GMT+7
+# Last Update: 14/04/2020 20:08:11 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -9,6 +9,22 @@
 # ======================================================================================================
 
 
+ads.juicyads.com
+api.admix.in
+avatars.mds.yandex.net
+awaps.yandex.net
+i.yandex.st
+mobile.yandex.net
+pubserver8.bizport.cn
+px.powerlinks.com
+px.ucweb.com
+pxl.connexity.net
+server.exposebox.com
+startup.mobile.yandex.net
+tracking.india.miui.com
+yabs.yandex.ru
+yandex.net
+yandex.ru
 0-eu-west-1-awesomeads-166321764.eu-west-1.elb.amazonaws.com
 1.n.adsco.re
 1.s.adsco.re
