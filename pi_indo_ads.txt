@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 14/04/2020 20:08:11 GMT+7
+# Last Update: 16/04/2020 10:36:21 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -9,6 +9,15 @@
 # ======================================================================================================
 
 
+apx.moatads.com
+colormyshatsapp.com
+geo.moatads.com
+pool3.moatads.com
+pubserver10.bizport.cn
+pubserver9.bizport.cn
+r.remarketingpixel.com
+static.criteo.net
+www2.criteo.com
 ads.juicyads.com
 api.admix.in
 avatars.mds.yandex.net
