@@ -1,14 +1,14 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 17/04/2020 07:48:34 GMT+7
+# Last Update: 17/04/2020 07:49:16 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
 
 # ======================================================================================================
 
-
+ads.yahoo.com
 c.one.impact-ad.jp
 pixel.s3xified.com
 apx.moatads.com
