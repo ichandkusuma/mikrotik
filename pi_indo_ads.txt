@@ -1,13 +1,29 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 17/04/2020 07:49:16 GMT+7
+# Last Update: 22/04/2020 01:32:51 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
 
 # ======================================================================================================
 
+127xb4b.ltsnnqhtx.com
+15elon9.ltsnnqhtx.com
+abc3.unoadsrv.com
+ads.servenobid.com
+adservice.google.sc
+cdn.popcash.net
+data.51cash.xyz
+dcba.popcash.net
+lockerdome.com
+m.adnxs.com
+newds02.myoppo.com
+rdp.rhombusads.com
+sp.popcash.net
+sync.1rx.io
+t53pu.10hbg.pjafe.xyz
+trackers.voodoo-analytics.io
 ads.yahoo.com
 c.one.impact-ad.jp
 pixel.s3xified.com
