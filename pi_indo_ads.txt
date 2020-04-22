@@ -8,6 +8,20 @@
 
 # ======================================================================================================
 
+1.cpm.ak-is2.net
+a1944.d.akamai.net
+ad.adsrvr.org
+ads.pro-market.net.akamaized.net
+ads.scorecardresearch.com
+adsolut.cpm.ak-is2.net
+adstartmedia.affise.com
+adstartmedia.go2affise.com
+insight.adsrvr.org
+mail-ads.google.com
+track.adxmel.com
+um2.eqads.com
+um3.eqads.com
+www.statsforads.com
 127xb4b.ltsnnqhtx.com
 15elon9.ltsnnqhtx.com
 abc3.unoadsrv.com
