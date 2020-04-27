@@ -1,7 +1,7 @@
 # 
 # Script Load Balance Fail Over 2 ISP (Sama Bandwidth)
 # 
-# Last Update: 28/04/2020 03:43:36 GMT+7
+# Last Update: 28/04/2020 03:43:56 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -14,7 +14,7 @@
 # Gateway = 192.168.100.1
 # 
 # Port ISP 2 = ether2>ISP2
-# Gateway = 192.168.100.1
+# Gateway = 192.168.200.1
 # 
 # Lokal/Client = ether3>LOKAL
 # 
