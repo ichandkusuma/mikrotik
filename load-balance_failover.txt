@@ -1,7 +1,7 @@
 # 
 # Script Load Balance Fail Over 2 ISP (Sama Bandwidth)
 # 
-# Last Update: 28/04/2020 04:26:25 GMT+7
+# Last Update: 28/04/2020 04:30:35 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -47,6 +47,24 @@ add check-gateway=ping comment="Koneksi Utama ke ISP1" distance=1 gateway=8.8.8.
 add check-gateway=ping comment="Koneksi Fail Over ke ISP2" distance=2 gateway=8.8.4.4 target-scope=30
 add check-gateway=ping distance=1 gateway=8.8.8.8 routing-mark=ISP1 target-scope=30
 add check-gateway=ping distance=1 gateway=8.8.4.4 routing-mark=ISP2 target-scope=30
+
+/system note
+set note="      _  _  _     _      _\
+    \n    _[+][+][+]_  [+]    [+]\
+    \n   [+]       [+] [+]   [+]\
+    \n   [+]           [+]  [+]\
+    \n   [+]           [+][+]\
+    \n   [+]        _  [+]  [+]\
+    \n   [+]_  _  _[+] [+]   [+]\
+    \n     [+][+][+]   [+]    [+]\
+    \n   ________________________\
+    \n   ++++ Mas iChand KW  ++++\
+    \n   ++++ 0821 2076 6622 ++++\
+    \n   ++ fb.com/ichandkusuma +\
+    \n \r\
+    \n    \
+    \n "
+############################
 
 /ip firewall address-list
 add address=127.0.0.0/8 list=network_IPv4
