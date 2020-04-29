@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 24/04/2020 04:45:25 GMT+7
+# Last Update: 30/04/2020 01:55:38 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -9,6 +9,7 @@
 # ======================================================================================================
 
 
+ads.youtube.com
 2cnjuh34jbhub.com
 browser.searcher.mobi
 jsc.mgid.com
