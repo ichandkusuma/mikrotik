@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 01/05/2020 15:46:38 GMT+7
+# Last Update: 10/05/2020 02:56:38 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -318,9 +318,7 @@ asia-adlog.vivoglobal.com
 asia-static-p.vivoglobal.com
 attributiontrackingga.googlecode.com
 auction.unityads.unity3d.com
-avatars.mds.yandex.net
 aw.dw.impact-ad.jp
-awaps.yandex.net
 b.admedia.com
 badskies.com
 banner-gateway.supersonicads.com
@@ -483,7 +481,6 @@ h-adashx4sg.ut.taobao.com
 hbopenbid.pubmatic.com
 helpgrid1.ksmobile.com
 httpkafka.unityads.unity3d.com
-i.yandex.st
 iadsdk.apple.com.edgekey.net
 ib.adnxs.com
 ib.anycast.adnxs.com
@@ -530,13 +527,10 @@ mail-ads.google.com
 match.adsby.bidtheatre.com
 match.adsrvr.org
 mc.admetrica.ru
-mc.yandex.com
-mc.yandex.ru
 mcdp-sadc1.outbrain.com
 media.adstatic.com.i.belugacdn.com
 mercusuar.uzone.id
 mob.adwhirl.com
-mobile.yandex.net
 mobilecontent.smartlinkads.com
 n.ads1-adnow.com
 n.ads3-adnow.com
@@ -632,9 +626,7 @@ r.teads.tv
 rdp.rhombusads.com
 redirect.appleads-trk.com
 redirectpopads.com
-report.appmetrica.yandex.net
 reports.crashlytics.com
-rosenberg.appmetrica.yandex.net
 rq.requestads.com
 rs.pushservice.xyz
 rtb.mfadsrvr.com
@@ -686,7 +678,6 @@ ssdk.adkmob.com
 ssp.adskom.com
 st.adxxx.info
 st.beaverads.com
-startup.mobile.yandex.net
 stat.tracker.svsw.xyz
 static.ads.apusapps.com
 static.adsafeprotected.com
@@ -790,11 +781,6 @@ xapi.juicyads.com
 xml.ad-maven.com
 xyads.fuse-cloud.com
 y.one.impact-ad.jp
-yabs.yandex.ru
-yandex.com
-yandex.net
-yandex.ru
-yandex.st
 z.moatads.com
 zeus.ad.intl.xiaomi.com
 
