@@ -1,3 +1,5 @@
+#:if ([:len [/file find name=list-game.rsc]] > 0) do={/file remove list-game.rsc }; /tool fetch url="https://raw.githubusercontent.com/ichandkusuma/mikrotik/master/list-game.rsc";/import list-game.rsc;
+
 /system note
 set note="      _  _  _     _      _\
     \n    _[+][+][+]_  [+]    [+]\
