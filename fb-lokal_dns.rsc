@@ -21,6 +21,10 @@ add address=157.240.208.63 comment="FB Lokal" name=instagram.c10r.facebook.com t
 add address=69.171.250.63 comment="FB Lokal" name=instagram.c10r.facebook.com ttl=30s
 add address=157.240.208.35 comment="FB Lokal" name=m.facebook.com ttl=30s
 add address=69.171.250.35 comment="FB Lokal" name=m.facebook.com ttl=30s
+add address=157.240.208.60 comment="FB Lokal" name=mmg.whatsapp.net ttl=30s
+add address=69.171.250.60 comment="FB Lokal" name=mmg.whatsapp.net ttl=30s
+add address=157.240.208.60 comment="FB Lokal" name=mmg-fna.whatsapp.net ttl=30s
+add address=69.171.250.60 comment="FB Lokal" name=mmg-fna.whatsapp.net ttl=30s
 add address=157.240.208.60 comment="FB Lokal" name=mmx-ds.cdn.whatsapp.net ttl=30s
 add address=69.171.250.60 comment="FB Lokal" name=mmx-ds.cdn.whatsapp.net ttl=30s
 add address=157.240.208.23 comment="FB Lokal" name=mqtt.c10r.facebook.com ttl=30s
