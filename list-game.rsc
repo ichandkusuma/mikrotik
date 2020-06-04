@@ -21,8 +21,8 @@ set note="      _  _  _     _      _\
 /ip firewall address-list
 add list=game address="1.2.3.4"
 rem [find list="game"]
-add address=akmcdn.ml.youngjoygame.com.akamaized.net comment="Update ML" list=game
-add address=akmcdn.ml.youngjoygame.com comment="Update ML" list=game
+add address=112.124.0.0/16 comment="Aliyun Computing Co., LTD" list=game
+add address=39.104.0.0/14 comment="Aliyun Computing Co., LTD" list=game
 add address=210.22.192.0/18 comment="China Unicom IP network" list=game
 add address=161.202.0.0/19 comment=SoftLayer list=game
 add address=119.28.0.0/16 comment="Tencent cloud computing." list=game
@@ -293,7 +293,7 @@ add address=103.52.218.0/23 comment="Tencent Cloud Computing" list=game
 add address=103.238.16.0/23 comment="Tencent Cloud Computing" list=game
 add address=119.29.0.0/16 comment="Tencent Cloud Computing" list=game
 add address=129.226.0.0/16 comment="Tencent Cloud Computing" list=game
-add address=150.109.0.0/16 comment="16 COLLYER QUAY / PUBG" list=game
+add address=150.109.0.0/16 comment="16 COLLYER QUAY / PUBG / FF" list=game
 add address=162.14.0.0/16 comment="Tencent Cloud Computing / PUBG" list=game
 add address=170.106.0.0/16 comment="Tencent Cloud Computing" list=game
 add address=182.254.116.0/24 comment="Tencent Cloud Computing" list=game
@@ -642,13 +642,13 @@ add address=208.64.203.0/24 comment="Valve Corporation" list=game
 add address=208.78.164.0/23 comment="Valve Corporation" list=game
 add address=208.78.166.0/24 comment="Valve Corporation" list=game
 add address=208.78.167.0/24 comment="Valve Corporation" list=game
-add address=119.28.96.0/19 comment="Tencent Cloud Computing / PUBG" list=game
-add address=164.52.0.0/17 comment="Connaught Road Central" list=game
+add address=119.28.96.0/19 comment="Tencent Cloud Computing / PUBG / FF" list=game
+add address=164.52.0.0/17 comment="Connaught Road Central / FF" list=game
 add address=8.37.239.0/24 comment="Level 3 Parent, LLC" list=game
 add address=14.116.128.0/19 comment="CHINANET Guangdong province network" list=game
 add address=103.211.230.0/24 comment="26A Ayer Rajah Crescent Private Lot FX1-4a Singapore NA 139963 SG" list=game
 add address=119.28.164.0/23 comment="Tencent cloud computing." list=game
-add address=143.92.120.0/22 comment="Garena Online Pte Ltd" list=game
+add address=143.92.120.0/24 comment="SHOPEE SINGAPORE PRIVATE LIMITED / FF" list=game
 add address=174.132.0.0/15 comment="SoftLayer Technologies Inc. / ML" list=game
 add address=156.236.0.0/16 comment="Cloud Innovation Ltd\r\n" list=game
 add address=159.253.128.0/19 comment="SoftLayer Dutch Holdings BV / ML" list=game
@@ -671,8 +671,6 @@ add address=143.92.127.0/24 comment="Garena Online Pte Ltd" list=game
 add address=157.255.0.0/16 comment="China Unicom Guangdong province network" list=game
 add address=113.96.0.0/12 comment="CHINANET Guangdong province network" list=game
 add address=202.181.136.0/24 comment=HKCIX list=game
-add address=23.32.0.0/11 comment="Akamai / Content ML" list=game
-add address=96.16.0.0/15 comment="Akamai / FF" list=game
 add address=124.156.0.0/16 comment="16 COLLYER QUAY" list=game
 add address=103.69.177.0/24 comment="PT Komunika Jaya Nusantara" list=game
 add address=103.104.168.0/24 comment=CYIT-HK list=game
@@ -695,11 +693,13 @@ add address=150.109.90.0/23 comment="16 COLLYER QUAY / Updater PUBG" list=game
 add address=199.91.72.0/22 comment="Zenlayer Inc" list=game
 add address=47.88.128.0/17 comment=ALICLOUD-SG list=game
 add address=149.129.192.0/18 comment=HAGO list=game
+add address=124.158.134.0/23 comment="PT Garena Indonesia" list=game
+add address=124.158.133.0/24 comment="PT Garena Indonesia" list=game
+add address=124.158.128.0/23 comment="PT Garena Indonesia" list=game
+add address=43.249.208.0/24 comment="PT. INTERLINK TECHNOLOGY / PB" list=game
+add address=129.227.32.0/20 comment="Update ML / Zenlayer" list=game
 add address=14.128.0.0/24 comment="CDNetworks Japan (ML)" list=game
 add address=162.62.0.0/16 comment="16 COLLYER QUAY" list=game
 add address=119.28.228.0/23 comment="Tencent Cloud Computing / PUBG" list=game
 add address=49.51.64.0/21 comment="Tencent Cloud Computing" list=game
-add address=124.158.128.0/23 comment="PT Garena Indonesia" list=game
-add address=124.158.133.0/24 comment="PT Garena Indonesia" list=game
-add address=124.158.134.0/23 comment="PT Garena Indonesia" list=game
-add address=43.249.208.0/24 comment="PT. INTERLINK TECHNOLOGY / PB" list=game
+add address=128.1.0.0/16 comment="Zenlayer Inc" list=game
