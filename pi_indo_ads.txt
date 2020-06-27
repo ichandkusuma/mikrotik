@@ -1,7 +1,7 @@
 # 
 # ADS umum di Indonesia  (Pi-Hole)
 # 
-# Last Update: 10/05/2020 02:56:38 GMT+7
+# Last Update: 28/06/2020 04:45:30 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -9,22 +9,10 @@
 # ======================================================================================================
 
 
-cdn.runative-syndicate.com
-t.bawafx.com
-ads.youtube.com
-2cnjuh34jbhub.com
-browser.searcher.mobi
-jsc.mgid.com
-mobilesystemservice.com
-nta1vb6cdlrl.com
-special-offers.online
 0-eu-west-1-awesomeads-166321764.eu-west-1.elb.amazonaws.com
-1.cpm.ak-is2.net
 1.n.adsco.re
 1.s.adsco.re
-127xb4b.ltsnnqhtx.com
 12dc71b7cb820f2a.com
-15elon9.ltsnnqhtx.com
 1plusads.affise.com
 242.17-67-87.adsl-dyn.isp.belgacom.be
 3.kxc-news2.club
@@ -43,7 +31,6 @@ a.adtng.com
 a.sportradarserving.com
 a.teads.tv
 a.tracker.svsw.xyz
-a1944.d.akamai.net
 aax-eu.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -54,7 +41,6 @@ abc1.adtelligent.com
 abc13.adtelligent.com
 abc22.adtelligent.com
 abc23.adtelligent.com
-abc3.unoadsrv.com
 abc5.adtelligent.com
 abc51.adtelligent.com
 abc9.adtelligent.com
@@ -69,7 +55,6 @@ acs.maribacaberita.com
 acs.telkom.net
 ad.360yield.com
 ad.adapter.kaffnet.com
-ad.adsrvr.org
 ad.as.amanad.adtdp.com
 ad.castad.co.kr
 ad.click.kaffnet.com
@@ -87,6 +72,7 @@ ad.rfp.fout.jp
 ad.sen-sdk.com
 ad.turn.com
 ad.turn.com.akadns.net
+ad.wappalyzer.com
 ad.weplayer.cc
 ad.yf9889.com
 ad-1263261047.us-east-1.elb.amazonaws.com
@@ -146,7 +132,6 @@ ads.google.com
 ads.gridtechno.com
 ads.heyzap.com
 ads.inmobi.com
-ads.juicyads.com
 ads.krmobi.com
 ads.lfstmedia.com
 ads.loop.games
@@ -155,12 +140,9 @@ ads.mopub.com
 ads.mp.mydas.mobi
 ads.nexage.com
 ads.playground.xyz
-ads.pro-market.net.akamaized.net
 ads.pubmatic.com
 ads.rekmob.com
 ads.roblox.com
-ads.scorecardresearch.com
-ads.servenobid.com
 ads.snipermob.com
 ads.stickyadstv.com
 ads.superawesome.tv
@@ -171,7 +153,6 @@ ads.trafficjunky.net
 ads.twitter.com
 ads.vidoomy.com
 ads.viralize.tv
-ads.yahoo.com
 ads1.api.topcontentss.com
 ads2.adtelligent.com
 ads2.uptobox.com
@@ -211,7 +192,6 @@ adserver-vpc-alb-3-1256976712.ap-northeast-1.elb.amazonaws.com
 adservice.google.co.id
 adservice.google.co.in
 adservice.google.com
-adservice.google.sc
 adserving.herokuapp.com
 adserving.live
 ads-game-configuration.unityads.unity3d.com
@@ -232,15 +212,12 @@ adslot.ufotosoft.com
 adsmediation.king.com
 adsmetadata.startappservice.com
 adsmobis.affise.com
-adsolut.cpm.ak-is2.net
 adspade.g2afse.com
 adsperfection.affise.com
 ads-prod.wikomobile.com
 ads-sdk.upltv.com
 adsserver.download
 adstacks.gotrackier.com
-adstartmedia.affise.com
-adstartmedia.go2affise.com
 adsterra.com
 adsunflower.com
 adtrack.appcpi.net
@@ -287,7 +264,6 @@ api.ad.smaato.net
 api.ad.snappea.com
 api.ad.xiaomi.com
 api.adjust.com
-api.admix.in
 api.admobi360.com
 api.ads.go2reach.com
 api.adsnative123.com
@@ -310,7 +286,6 @@ appclick.rqmob.com
 appinstall.click
 apps.ad.snappea.com
 appswitch.adups.cn
-apx.moatads.com
 ase.adserver.snapads.com
 asia.adform.net
 asia.stat.moxiu.net
@@ -342,7 +317,7 @@ c.aaxads.com
 c.adobviewe.club
 c.adsco.re
 c.adskeeper.co.uk
-c.one.impact-ad.jp
+c.amazon-adsystem.com
 c1.adform.net
 c1.popads.net
 c2.popads.net
@@ -352,13 +327,13 @@ carbonads.bsa.netdna-cdn.com
 cdn.adx1.com
 cdn.appnext.com
 cdn.carbonads.com
-cdn.popcash.net
 cdn.publish0x.com
 cdn.push.house
 cdn.pushmart.net
 cdn.special-offers.online
 cdn2.teads.tv
 cdn4-buysellads-net.bsa.netdna-cdn.com
+cdn77-pic.xnxx-cdn.com
 cdn-adspot.tfgco.com
 cdn-creatives-akamai-prd.unityads.unity3d.com
 cf.iadsdk.apple.com
@@ -389,7 +364,6 @@ cm.adgrx.com
 cm.adkmob.com
 cm.g.doubleclick.net
 code.beaverads.com
-colormyshatsapp.com
 conf.lsosad.com
 config.ad.snappea.com
 config.unityads.unity3d.com
@@ -397,7 +371,6 @@ control-ads-bbm-com.control.kochava.com
 core.royalads.net
 counter.yadro.ru
 cpm-ad.com
-crashlogs.whatsapp.net
 crash-reporting.yy.com
 cr-p16.ladsp.jp
 cr-p3.ladsp.jp
@@ -410,7 +383,6 @@ csi.gstatic.com
 d.adroll.com
 daldt.adsafeprotected.com
 dart.l.doubleclick.net
-data.51cash.xyz
 data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
 data-cl-f.ads.oppomobile.com
@@ -422,7 +394,6 @@ data-id-ads.realmemobile.com
 data-id-ads-633674268.ap-southeast-1.elb.amazonaws.com
 data-id-ads-realme-2101466531.ap-southeast-1.elb.amazonaws.com
 data-in.ads.oppomobile.com
-dcba.popcash.net
 deloplen.com
 dgafgadsgkjg.top
 diagnosis.ad.intl.xiaomi.com
@@ -458,7 +429,6 @@ front-logs.voodoo-ads.io
 gads55000.pubmatic.com
 gadspms.com
 ganon.yahoo.com
-geo.moatads.com
 geo.yahoo.com
 geocdn.unityads.unity3d.com
 geoworker.ayads.co
@@ -473,7 +443,6 @@ gofriendsadsnetwork.xyz
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 graph.instagram.com
-gstaticadssl.l.google.com
 guc-api.sonic-us.supersonicads.com
 gwrtdp-tn690bfadt-drop.aotclouds.net
 h-adashx.ut.taobao.com
@@ -481,7 +450,6 @@ h-adashx4sg.ut.taobao.com
 hbopenbid.pubmatic.com
 helpgrid1.ksmobile.com
 httpkafka.unityads.unity3d.com
-iadsdk.apple.com.edgekey.net
 ib.adnxs.com
 ib.anycast.adnxs.com
 id.push.heytapmobi.com
@@ -491,12 +459,14 @@ image6.pubmatic.com
 images.ibizads.com
 img.adtiming.com
 img.beaverads.com
+img-hw.xnxx-cdn.com
+img-hw.xvideos-cdn.com
+img-l3.xnxx-cdn.com
 imgstat.baidu.com
 in-adreq.vivoglobal.com
 infoflow.searcher.mobi
 ingameads.gameloft.com
 init.supersonicads.com
-insight.adsrvr.org
 inter1ads.com
 inv-nets-lbsg.admixer.net
 iotapi.adups.com
@@ -517,16 +487,15 @@ l3.aaxads.com
 ladsdown.com
 leaddaway.g2afse.com
 lepodownload.mediatek.com
-lockerdome.com
 log.clickby.net
-m.adnxs.com
 mads.amazon.com
 mads.amazon-adsystem.com
 madsats.com
-mail-ads.google.com
 match.adsby.bidtheatre.com
 match.adsrvr.org
 mc.admetrica.ru
+mc.yandex.com
+mc.yandex.ru
 mcdp-sadc1.outbrain.com
 media.adstatic.com.i.belugacdn.com
 mercusuar.uzone.id
@@ -544,7 +513,6 @@ na61-na62-st3.wagbridge.advertisement.tanx.com.gds.alibabadns.com
 native.propellerclick.com
 nep.advangelists.com
 net.salmonads.com
-newds02.myoppo.com
 newoctads.com
 news-abroad.vivo.com
 newsupdatefind.info
@@ -574,7 +542,6 @@ pingback.giphy.com
 pix.as.criteo.net
 pixel.advertising.com
 pixel.facebook.com
-pixel.s3xified.com
 pixel.tapad.com
 pixel.wp.com
 pixel.yola.com
@@ -582,7 +549,6 @@ pixels.ad.gt
 pixel-tracking.sonic-us.supersonicads.com
 plugin.ucads.ucweb.com
 pm-gateway.supersonicads.com
-pool3.moatads.com
 pool5.moatads.com
 popcash.libertymediaadss.netdna-cdn.com
 popcash.net
@@ -598,10 +564,7 @@ publisher-event.ads.prd.ie.internal.unity3d.com
 publisher-r-useast-node-5.motionspots.com
 publpush.com
 pubpress.net
-pubserver10.bizport.cn
 pubserver2.bizport.cn
-pubserver8.bizport.cn
-pubserver9.bizport.cn
 push.adsconverts.com
 push.maribacaberita.com
 push2.notify-service.com
@@ -614,19 +577,16 @@ pushpush.net
 pushservice.info
 px.adhigh.net
 px.ads.linkedin.com
-px.powerlinks.com
-px.ucweb.com
-pxl.connexity.net
 q.adrta.com
 qt.slb.adflash.cn
 quadrupleclick.com
 r.adport.io
-r.remarketingpixel.com
 r.teads.tv
-rdp.rhombusads.com
 redirect.appleads-trk.com
 redirectpopads.com
+report.appmetrica.yandex.net
 reports.crashlytics.com
+rosenberg.appmetrica.yandex.net
 rq.requestads.com
 rs.pushservice.xyz
 rtb.mfadsrvr.com
@@ -657,7 +617,6 @@ securepubads.g.doubleclick.net
 serconmp.com
 serve.mondiad.net
 serve.popads.net
-server.exposebox.com
 service.adxoo.com
 services.insurads.com
 servyourads.com
@@ -673,7 +632,6 @@ s-img.mgid.com
 sjedt.adsafeprotected.com
 slimepuls-d40ad.firebaseio.com
 sp.adpushonline.com
-sp.popcash.net
 ssdk.adkmob.com
 ssp.adskom.com
 st.adxxx.info
@@ -683,7 +641,6 @@ static.ads.apusapps.com
 static.adsafeprotected.com
 static.ads-twitter.com
 static.adxadserv.com
-static.criteo.net
 static.doubleclick.net
 static.updatess.info
 static-doubleclick-net.l.google.com
@@ -693,14 +650,12 @@ stats.l.doubleclick.net
 stg-data-id.ads.heytapmobi.com
 st-n.ads3-adnow.com
 supply.decenterads.com
-sync.1rx.io
 sync3.adsniper.ru
 sync-dsp.ad-m.asia
 t.appsflyer.com
 t.freelancer.com
 t.rebornads.com
 t.teads.tv
-t53pu.10hbg.pjafe.xyz
 tagan.adlightning.com
 the-sexy-tube.com
 timelyads.hotrk0.com
@@ -710,15 +665,12 @@ tpc.googlesyndication.com
 tr9ck.bruceleadx2.com
 track.adsplay.in
 track.adstack.co
-track.adxmel.com
 track.brucelead.com
 track.gowithads.com
 track.novabeyond.net
 track-apac.adformnet.akadns.net
 tracker.rqmob.com
-trackers.voodoo-analytics.io
 tracking.bayofads.com
-tracking.india.miui.com
 tracking.intl.miui.com
 tracking.xapads.com
 tracking.yohoads.com
@@ -729,8 +681,6 @@ u-ad.com
 u-ad.info
 ucads-cdn.ucweb.com
 ulc3fq6eqm4b.l.adsco.re
-um2.eqads.com
-um3.eqads.com
 um3.eqads.com
 unconf.adkmob.com
 ups.ksmobile.net
@@ -747,6 +697,7 @@ v3-mercusuar.info
 vast.adxoo.com
 video-ad-stats.googlesyndication.com
 video-stats.video.google.com
+vid-rtb-sg.xapads.com
 wd.adcolony.com
 wd.adcolony.xyz
 webview.unityads.unity3d.com
@@ -771,9 +722,7 @@ www.googleadservices.com
 www.maxonclick.com
 www.monyb.info
 www.salmonads.com
-www.statsforads.com
 www.uzone.id
-www2.criteo.com
 xapads.go2affise.com
 xapads.rtb.ak-is2.net
 xapads.rtb-useast.ak-is2.net
@@ -781,7 +730,7 @@ xapi.juicyads.com
 xml.ad-maven.com
 xyads.fuse-cloud.com
 y.one.impact-ad.jp
+yandex.com
+yandex.st
 z.moatads.com
 zeus.ad.intl.xiaomi.com
-
-
