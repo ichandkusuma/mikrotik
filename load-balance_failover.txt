@@ -1,7 +1,7 @@
 # 
 # Script Load Balance Fail Over 2 ISP (Sama Bandwidth)
 # 
-# Last Update: 10/07/2020 19:34:35 GMT+7
+# Last Update: 27/07/2020 19:19:35 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
