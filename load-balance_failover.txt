@@ -25,8 +25,8 @@
 /ip firewall mangle
 add action=mark-connection chain=prerouting comment="Pulang Pergi Lewat WAN yang Sama" connection-mark=no-mark in-interface=ether1>ISP1 new-connection-mark=conn_in_isp1 passthrough=yes
 add action=mark-connection chain=prerouting connection-mark=no-mark in-interface=ether2>ISP2 new-connection-mark=conn_in_isp2 passthrough=yes
-add action=mark-routing chain=output connection-mark=conn_in_isp1 dst-address-type=!local new-routing-mark=ISP1 passthrough=yes
-add action=mark-routing chain=output connection-mark=conn_in_isp2 dst-address-type=!local new-routing-mark=ISP2 passthrough=yes
+add action=mark-routing chain=output connection-mark=conn_in_isp1 new-routing-mark=ISP1 passthrough=yes
+add action=mark-routing chain=output connection-mark=conn_in_isp2 new-routing-mark=ISP2 passthrough=yes
 add action=jump chain=prerouting comment="+++++++++++ PCC Jumper For TCP 80,8080 & UDP 443 +++++++++++" dst-address-list=!network_IPv4 dst-port=80,8080 in-interface=ether3>LOKAL jump-target=pcc-balancer_80 protocol=tcp
 add action=jump chain=prerouting dst-address-list=!network_IPv4 dst-port=443 in-interface=ether3>LOKAL jump-target=pcc-balancer_80 protocol=udp
 add action=mark-connection chain=pcc-balancer_80 in-interface=ether3>LOKAL new-connection-mark=conn_pcc_80-1 passthrough=yes per-connection-classifier=src-address-and-port:2/0
