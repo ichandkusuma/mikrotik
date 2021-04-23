@@ -313,7 +313,6 @@ add address=111.30.131.0/24 comment="China Mobile Communications Corporation" li
 add address=125.36.0.0/14 comment="China Unicom Tianjin province network" list=game
 add address=27.184.0.0/13 comment="CHINANET hebei province network" list=game
 add address=107.176.0.0/15 comment=FDCservers.net list=game
-add address=107.155.0.0/18 comment="Zenlayer Inc\r\n" list=game
 add address=158.177.192.0/18 comment=SoftLayer list=game
 add address=106.75.16.0/20 comment="Shanghai UCloud Information Technology Company Limited" list=game
 add address=161.202.128.0/19 comment=SoftLayer list=game
