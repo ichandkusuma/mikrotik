@@ -835,7 +835,6 @@ add address=208.78.166.0/24 comment="Valve Corporation" list=game
 add address=208.78.167.0/24 comment="Valve Corporation" list=game
 add address=8.37.239.0/24 comment="Level 3 Parent, LLC" list=game
 add address=14.116.128.0/19 comment="CHINANET Guangdong province network" list=game
-add address=103.211.230.0/24 comment="26A Ayer Rajah Crescent Private Lot FX1-4a Singapore NA 139963 SG" list=game
 add address=174.132.0.0/15 comment="SoftLayer Technologies Inc. / ML" list=game
 add address=182.239.114.0/24 comment="China Mobile Peoples Telephone Company Limited" list=game
 add address=164.52.120.0/21 comment="137-139, Connaught Road Central, Hongkong" list=game
