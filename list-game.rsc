@@ -870,7 +870,6 @@ add address=141.193.3.0/24 comment=Roblox list=game
 add address=205.201.62.0/24 comment=Roblox list=game
 add address=209.206.40.0/21 comment=Roblox list=game
 add address=103.140.28.0/23 comment=Roblox list=game
-add address=103.16.137.0/24 comment="PT DEWATA TELEMATIKA" list=game
 add address=148.153.0.0/16 comment="Capitalonline Data Service / FF" list=game
 add address=163.181.26.0/24 comment=Alibaba list=game
 add address=163.181.18.0/24 comment=Alibaba list=game
