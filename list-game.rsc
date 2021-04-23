@@ -56,7 +56,6 @@ add address=129.227.64.0/19 comment="Zenlayer Singapore network" list=game
 add address=103.16.136.0/24 comment="PT DEWATA TELEMATIKA / PUBG" list=game
 add address=149.129.192.0/18 comment="Ciputra World 1 / Hago" list=game
 add address=124.158.134.0/23 comment="PT Garena Indonesia" list=game
-add address=129.227.32.0/20 comment="Tiktok CDN / Update ML / Zenlayer" list=game
 add address=47.246.14.0/24 comment="AL-3 / Hago" list=game
 add address=128.1.97.0/24 comment="Zenlayer Inc / Hago" list=game
 add address=143.92.120.0/24 comment="SHOPEE SINGAPORE" list=game
@@ -876,3 +875,6 @@ add address=103.16.137.0/24 comment="PT DEWATA TELEMATIKA" list=game
 add address=148.153.0.0/16 comment="Capitalonline Data Service / FF" list=game
 add address=163.181.26.0/24 comment=Alibaba list=game
 add address=163.181.18.0/24 comment=Alibaba list=game
+add address=192.169.112.0/22 list=game comment="Zenlayer"
+add address=101.33.104.0/21 list=game comment="ACEVILLE"
+
