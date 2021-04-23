@@ -356,7 +356,6 @@ add address=23.249.28.0/24 comment="Zenlayer Inc" list=game
 add address=23.249.29.0/24 comment="Zenlayer Inc" list=game
 add address=23.249.30.0/24 comment="Zenlayer Inc" list=game
 add address=23.249.31.0/24 comment="Zenlayer Inc" list=game
-add address=23.251.96.0/19 comment="Zenlayer Inc" list=game
 add address=27.50.2.0/24 comment="Zenlayer Inc" list=game
 add address=37.230.168.0/24 comment="Zenlayer Inc" list=game
 add address=37.230.172.0/24 comment="Zenlayer Inc" list=game
