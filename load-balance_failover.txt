@@ -1,7 +1,7 @@
 # 
 # Script Load Balance Fail Over 2 ISP (Sama Bandwidth)
 # 
-# Last Update: 27/07/2020 19:21:35 GMT+7
+# Last Update: 25/04/2021 00:28:35 GMT+7
 # 
 # Project website: https://kakiteng.com 
 # 
@@ -42,12 +42,12 @@ add action=mark-routing chain=prerouting comment="Route For Global Traffic" conn
 add action=mark-routing chain=prerouting connection-mark=conn_pcc_any-2 in-interface=ether3>LOKAL new-routing-mark=ISP2 passthrough=no
 
 /ip route
-add comment="Gateway ISP1" distance=1 dst-address=8.8.8.8 gateway=192.168.100.1
-add comment="Gateway ISP2" distance=1 dst-address=8.8.4.4 gateway=192.168.200.1
-add check-gateway=ping comment="Koneksi Utama ke ISP1" distance=1 gateway=8.8.8.8 target-scope=30
-add check-gateway=ping comment="Koneksi Fail Over ke ISP2" distance=2 gateway=8.8.4.4 target-scope=30
-add check-gateway=ping distance=1 gateway=8.8.8.8 routing-mark=ISP1 target-scope=30
-add check-gateway=ping distance=1 gateway=8.8.4.4 routing-mark=ISP2 target-scope=30
+add comment="Gateway ISP1" distance=1 dst-address=9.9.9.9 gateway=192.168.100.1
+add comment="Gateway ISP2" distance=1 dst-address=9.9.9.10 gateway=192.168.200.1
+add check-gateway=ping comment="Koneksi Utama ke ISP1" distance=1 gateway=9.9.9.9 target-scope=30
+add check-gateway=ping comment="Koneksi Fail Over ke ISP2" distance=2 gateway=9.9.9.10 target-scope=30
+add check-gateway=ping distance=1 gateway=9.9.9.9 routing-mark=ISP1 target-scope=30
+add check-gateway=ping distance=1 gateway=9.9.9.10 routing-mark=ISP2 target-scope=30
 
 /system note
 set note="      _  _  _     _      _\
@@ -73,7 +73,6 @@ add address=224.0.0.0/4 list=network_IPv4
 add address=10.0.0.0/8 list=network_IPv4
 add address=172.16.0.0/12 list=network_IPv4
 add address=192.168.0.0/16 list=network_IPv4
-add address=8.8.8.8 list=network_IPv4
-add address=8.8.4.4 list=network_IPv4
+
 
 
