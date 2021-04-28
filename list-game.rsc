@@ -871,6 +871,7 @@ add address=103.140.28.0/23 comment=Roblox list=game
 add address=148.153.0.0/16 comment="Capitalonline Data Service / FF" list=game
 add address=163.181.26.0/24 comment=Alibaba list=game
 add address=163.181.18.0/24 comment=Alibaba list=game
-add address=192.169.112.0/22 list=game comment="Zenlayer"
-add address=101.33.104.0/21 list=game comment="ACEVILLE"
+add address=192.169.112.0/22 comment="Zenlayer" list=game
+add address=101.33.104.0/21 comment="ACEVILLE" list=game
+add address=202.81.100.0/22 comment="18 Murray Street" list=game
 
