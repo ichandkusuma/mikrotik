@@ -1,3 +1,5 @@
+#:if ([:len [/file find name=speedtets-list.rsc]] > 0) do={/file remove speedtets-list.rsc }; /tool fetch url="https://raw.githubusercontent.com/ichandkusuma/mikrotik/master/speedtets-list.rsc";/import speedtets-list.rsc;
+
 /ip firewall address-list
 add address=www.google.com list=speedtest
 add address=www.google.co.id list=speedtest
