@@ -53,6 +53,7 @@ add address=203.205.219.0/24 comment="Shenzhen Tencent / PUBG" list=game
 add address=161.202.192.0/19 comment="SoftLayer Technologies" list=game
 add address=119.81.64.0/18 comment="SoftLayer Dutch" list=game
 add address=129.227.64.0/19 comment="Zenlayer Singapore network" list=game
+add address=129.227.32.0/20 comment="Zenlayer Singapore network" list=game
 add address=103.16.136.0/24 comment="PT DEWATA TELEMATIKA / PUBG" list=game
 add address=149.129.192.0/18 comment="Ciputra World 1 / Hago" list=game
 add address=124.158.134.0/23 comment="PT Garena Indonesia" list=game
