@@ -878,4 +878,5 @@ add address=202.81.100.0/22 comment="18 Murray Street" list=game
 add address=150.158.0.0/16 comment="Tencent" list=game
 add address=170.33.8.0/24 comment="Aliyun" list=game
 add address=103.235.44.0/22 comment="Rooms 2201-03" list=game
+add address=115.159.0.0/16 comment="Tencent cloud computing" list=game
 
