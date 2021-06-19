@@ -877,4 +877,5 @@ add address=101.33.104.0/21 comment="ACEVILLE" list=game
 add address=202.81.100.0/22 comment="18 Murray Street" list=game
 add address=150.158.0.0/16 comment="Tencent" list=game
 add address=170.33.8.0/24 comment="Aliyun" list=game
+add address=103.235.44.0/22 comment="Aliyun" list=game
 
