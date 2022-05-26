@@ -1,21 +1,21 @@
 #:if ([:len [/file find name=list-game.rsc]] > 0) do={/file remove list-game.rsc }; /tool fetch url="https://raw.githubusercontent.com/ichandkusuma/mikrotik/master/list-game.rsc";/import list-game.rsc;
 
-/system note
-set note="      _  _  _     _      _\
-    \n    _[+][+][+]_  [+]    [+]\
-    \n   [+]       [+] [+]   [+]\
-    \n   [+]           [+]  [+]\
-    \n   [+]           [+][+]\
-    \n   [+]        _  [+]  [+]\
-    \n   [+]_  _  _[+] [+]   [+]\
-    \n     [+][+][+]   [+]    [+]\
-    \n   ________________________\
-    \n   ++++ Mas iChand KW  ++++\
-    \n   ++++ 0821 2076 6622 ++++\
-    \n   ++ fb.com/ichandkusuma +\
-    \n \r\
-    \n    \
-    \n "
+#/system note
+#set note="      _  _  _     _      _\
+#    \n    _[+][+][+]_  [+]    [+]\
+#    \n   [+]       [+] [+]   [+]\
+#    \n   [+]           [+]  [+]\
+#    \n   [+]           [+][+]\
+#    \n   [+]        _  [+]  [+]\
+#    \n   [+]_  _  _[+] [+]   [+]\
+#    \n     [+][+][+]   [+]    [+]\
+#    \n   ________________________\
+#    \n   ++++ Mas iChand KW  ++++\
+#    \n   ++++ 0821 2076 6622 ++++\
+#    \n   ++ fb.com/ichandkusuma +\
+#    \n \r\
+#    \n    \
+#    \n "
 ############################
 
 /ip firewall address-list
@@ -879,4 +879,7 @@ add address=150.158.0.0/16 comment="Tencent" list=game
 add address=170.33.8.0/24 comment="Aliyun" list=game
 add address=103.235.44.0/22 comment="Rooms 2201-03" list=game
 add address=115.159.0.0/16 comment="Tencent cloud computing" list=game
+add address=47.241.0.0/16 comment="ALICLOUD-SG" list=game
+add address=202.81.118.0/24 comment="18 Murray Street" list=game
+add address=202.181.80.0/21 comment="PT Garena Indonesia" list=game
 
