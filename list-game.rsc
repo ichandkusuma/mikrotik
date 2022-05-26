@@ -883,6 +883,5 @@ add address=47.241.0.0/16 comment="ALICLOUD-SG" list=game
 add address=202.81.118.0/24 comment="18 Murray Street" list=game
 add address=202.81.116.0/23 comment="18 Murray Street" list=game
 add address=202.181.80.0/21 comment="PT Garena Indonesia" list=game
-add address=124.158.134.0/23 comment="PT Garena Indonesia" list=game
 add address=43.129.32.0/19 comment="Tencent" list=game
 
