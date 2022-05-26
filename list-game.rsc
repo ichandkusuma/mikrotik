@@ -885,7 +885,4 @@ add address=202.81.116.0/23 comment="18 Murray Street" list=game
 add address=202.181.80.0/21 comment="PT Garena Indonesia" list=game
 add address=124.158.134.0/23 comment="PT Garena Indonesia" list=game
 add address=43.129.32.0/19 comment="Tencent" list=game
-add address=129.227.64.0/19 comment="Zenlayer Singapore" list=game
-
-
 
