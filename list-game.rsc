@@ -886,4 +886,5 @@ add address=202.181.80.0/21 comment="PT Garena Indonesia" list=game
 add address=43.129.32.0/19 comment="Tencent" list=game
 add address=103.16.137.0/24 comment="Makassar" list=game
 add address=156.59.160.0/22 comment="Zenlayer" list=game
+add address=148.153.100.0/23 comment="CDS Global Cloud" list=game
 
