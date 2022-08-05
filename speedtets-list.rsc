@@ -306,3 +306,4 @@ add address=v4.ipv6-test.com list=speedtest
 add address=v4v6.ipv6-test.com list=speedtest
 add address=ipv6-test.com list=speedtest
 add address=ipv6.he.net list=speedtest
+add address=api.whatismyip.com list=speedtest
