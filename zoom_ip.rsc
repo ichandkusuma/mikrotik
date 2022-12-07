@@ -16,6 +16,10 @@
 #    \n \r\
 #    \n    \
 #    \n "
+
+# tcp port : 390,5091,8801-8802
+# udp port : 3478,3479,8801-8810,20000-64000
+
 ############################
 /ip firewall address-list
 add list=meet_zoom address="1.2.3.4"
