@@ -1,3 +1,25 @@
+#:if ([:len [/file find name=zoom_ip.rsc]] > 0) do={/file remove zoom_ip.rsc }; /tool fetch url="https://raw.githubusercontent.com/ichandkusuma/mikrotik/master/zoom_ip.rsc";/import zoom_ip.rsc;
+
+#/system note
+#set note="      _  _  _     _      _\
+#    \n    _[+][+][+]_  [+]    [+]\
+#    \n   [+]       [+] [+]   [+]\
+#    \n   [+]           [+]  [+]\
+#    \n   [+]           [+][+]\
+#    \n   [+]        _  [+]  [+]\
+#    \n   [+]_  _  _[+] [+]   [+]\
+#    \n     [+][+][+]   [+]    [+]\
+#    \n   ________________________\
+#    \n   ++++ Mas iChand KW  ++++\
+#    \n   ++++ 0821 2076 6622 ++++\
+#    \n   ++ fb.com/ichandkusuma +\
+#    \n \r\
+#    \n    \
+#    \n "
+############################
+/ip firewall address-list
+add list=meet_zoom address="1.2.3.4"
+rem [find list="meet_zoom"]
 /ip firewall address-list
 add address=3.7.35.0/25 comment="Zoom Video Communications" list=meet_zoom
 add address=3.21.137.128/25 comment="Zoom Video Communications" list=meet_zoom
