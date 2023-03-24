@@ -864,7 +864,7 @@ add address=14.128.0.0/24 comment="CDNetworks Japan (ML)" list=game
 add address=128.1.0.0/16 comment="Zenlayer Inc / ML" list=game
 add address=143.92.120.0/22 comment="SHOPEE SINGAPORE PRIVATE LIMITED" list=game
 add address=119.81.0.0/16 comment=ML list=game
-add address=128.116.0.0/17 comment=Roblox list=game
+#add address=128.116.0.0/17 comment=Roblox list=game
 add address=141.193.3.0/24 comment=Roblox list=game
 add address=205.201.62.0/24 comment=Roblox list=game
 add address=209.206.40.0/21 comment=Roblox list=game
