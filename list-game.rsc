@@ -44,7 +44,6 @@ add address=47.91.128.0/17 comment=ALICLOUD-HK list=game
 add address=45.43.50.0/24 comment="Zenlayer Inc" list=game
 add address=45.43.51.0/24 comment="Zenlayer Inc" list=game
 add address=128.14.0.0/16 comment="Zenlayer Inc" list=game
-add address=164.52.0.0/17 comment="Connaught Road Central / FF" list=game
 add address=156.236.0.0/16 comment="Cloud Innovation Ltd\r\n" list=game
 add address=45.43.32.0/22 comment="Zenlayer Inc" list=game
 add address=47.88.128.0/17 comment=ALICLOUD-SG list=game
@@ -76,7 +75,6 @@ add address=169.57.128.0/17 comment="SoftLayer Technologie" list=game
 add address=119.81.192.0/19 comment="SoftLayer Dutch" list=game
 add address=47.94.0.0/15 comment="Aliyun Computing" list=game
 add address=129.227.120.0/21 comment=Zenlayer list=game
-add address=164.52.108.0/23 comment="Connaught Road Central HK / FF" list=game
 add address=43.252.184.0/24 comment="PT Garena Indonesia" list=game
 add address=43.252.185.0/24 comment="PT Garena Indonesia" list=game
 add address=43.252.186.0/24 comment="PT Garena Indonesia" list=game
@@ -262,7 +260,6 @@ add address=129.226.0.0/16 comment="16 COLLYER QUAY" list=game
 add address=150.109.0.0/16 comment="16 COLLYER QUAY" list=game
 add address=162.62.0.0/16 comment="16 COLLYER QUAY" list=game
 add address=170.106.0.0/16 comment="16 COLLYER QUAY" list=game
-add address=164.52.90.0/23 comment="Connaught Road Central / FF" list=game
 add address=161.202.0.0/19 comment=SoftLayer list=game
 add address=161.117.0.0/16 comment=Alibaba list=game
 add address=103.245.121.0/24 comment="Solaris Dutama" list=game
@@ -837,7 +834,6 @@ add address=8.37.239.0/24 comment="Level 3 Parent, LLC" list=game
 add address=14.116.128.0/19 comment="CHINANET Guangdong province network" list=game
 add address=174.132.0.0/15 comment="SoftLayer Technologies Inc. / ML" list=game
 add address=182.239.114.0/24 comment="China Mobile Peoples Telephone Company Limited" list=game
-add address=164.52.120.0/21 comment="137-139, Connaught Road Central, Hongkong" list=game
 add address=52.200.0.0/13 comment="Amazon Technologies Inc." list=game
 add address=54.183.128.0/17 comment="Amazon Technologies Inc." list=game
 add address=96.17.72.0/23 comment="Akamai / PUBG" list=game
