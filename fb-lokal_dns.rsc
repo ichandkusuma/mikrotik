@@ -1,4 +1,6 @@
 /ip dns static
+add address=157.240.208.15 comment="FB Lokal" name=www.fbsbx.com ttl=30s
+add address=157.240.208.19 comment="FB Lokal" name=gateway.facebook.com ttl=30s
 add address=157.240.208.15 name=api.facebook.com comment="FB Lokal" ttl=30s
 add address=157.240.208.16 name=api.facebook.com comment="FB Lokal" ttl=30s
 add address=157.240.208.61 name=chat.cdn.whatsapp.net comment="FB Lokal" ttl=30s
@@ -37,6 +39,8 @@ add address=157.240.208.174 name=www.instagram.com comment="FB Lokal" ttl=30s
 add address=157.240.208.60 name=www.whatsapp.com comment="FB Lokal" ttl=30s
 add address=157.240.208.36 name=z-m.facebook.com comment="FB Lokal" ttl=30s
 add address=157.240.208.36 name=z-m-scontent.xx.fbcdn.net comment="FB Lokal" ttl=30s
+add address=31.13.95.15 comment="FB Lokal" name=www.fbsbx.com ttl=30s
+add address=31.13.95.19 comment="FB Lokal" name=gateway.facebook.com ttl=30s
 add address=31.13.95.15 name=api.facebook.com comment="FB Lokal" ttl=30s
 add address=31.13.95.16 name=api.facebook.com comment="FB Lokal" ttl=30s
 add address=31.13.95.61 name=chat.cdn.whatsapp.net comment="FB Lokal" ttl=30s
