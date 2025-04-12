@@ -107,4 +107,5 @@ add comment="Public DNS" network=199.85.126.10/32 synchronize=no
 add comment="Public DNS" network=199.85.127.10/32 synchronize=no
 
 /file rem bgp-public-dns.rsc
+
 ####
