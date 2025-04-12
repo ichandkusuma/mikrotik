@@ -1,4 +1,4 @@
-#:if ([:len [/file find name=bgp-network-dns.rsc]] > 0) do={/file remove bgp-network-dns.rsc }; /tool fetch url="https://raw.githubusercontent.com/ichandkusuma/mikrotik/master/bgp-network-dns.rsc";/import bgp-network-dns.rsc;
+#:if ([:len [/file fi name=bgp-public-dns.rsc]] > 0) do={/file rem bgp-public-dns.rsc }; /tool fetch url="https://raw.githubusercontent.com/ichandkusuma/mikrotik/master/bgp-public-dns.rsc";/import bgp-public-dns.rsc;
 
 /routing bgp network
 rem [find comment="Public DNS"]
@@ -105,3 +105,6 @@ add comment="Public DNS" network=205.171.3.65/32 synchronize=no
 add comment="Public DNS" network=205.171.2.65/32 synchronize=no
 add comment="Public DNS" network=199.85.126.10/32 synchronize=no
 add comment="Public DNS" network=199.85.127.10/32 synchronize=no
+
+/file rem bgp-public-dns.rsc
+
