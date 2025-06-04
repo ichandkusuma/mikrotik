@@ -45,7 +45,6 @@ add address=www.cactusvpn.com list=speedtest
 add address=m.wolframalpha.com list=speedtest
 add address=ipcow.com list=speedtest
 add address=whatismycountry.com list=speedtest
-add address=passwordsgenerator.net list=speedtest
 add address=att-services.net list=speedtest
 add address=wtfismyip.com list=speedtest
 add address=whatismyip.network list=speedtest
@@ -63,8 +62,6 @@ add address=whatismyipaddress.com list=speedtest
 add address=whatismyip.host list=speedtest
 add address=bearsmyip.com list=speedtest
 add address=check-host.net list=speedtest
-add address=hide.me list=speedtest
-add address=ipv6test.hide.me list=speedtest
 add address=ipleak.com list=speedtest
 add address=www.perfect-privacy.com list=speedtest
 add address=perfect-privacy.com list=speedtest
@@ -85,7 +82,6 @@ add address=ipvanish.com list=speedtest
 add address=ipvoid.com list=speedtest
 add address=intip.net list=speedtest
 add address=ceebydith.com list=speedtest
-add address=cekipsaya.com list=speedtest
 add address=locallhost.com list=speedtest
 add address=ipchecking.com list=speedtest
 add address=iptrackeronline.com list=speedtest
@@ -106,11 +102,6 @@ add address=checkip.perfect-privacy.com list=speedtest
 add address=www.my-private-network.co.uk list=speedtest
 add address=ipinfo.io list=speedtest
 add address=ip-check.info list=speedtest
-add address=ipcheck.info list=speedtest
-add address=52.84.146.245 comment=www.expressvpn.com list=speedtest
-add address=52.84.146.220 comment=www.expressvpn.com list=speedtest
-add address=52.84.146.163 comment=www.expressvpn.com list=speedtest
-add address=52.84.146.32 comment=www.expressvpn.com list=speedtest
 add address=54.192.156.0/22 list=speedtest
 add address=emailipleak.com list=speedtest
 add address=dnsleaktest.com list=speedtest
@@ -154,7 +145,6 @@ add address=www.mobiletracker.org list=speedtest
 add address=www.geoip.co.uk list=speedtest
 add address=ipstack.com list=speedtest
 add address=whatismyip.live list=speedtest
-add address=myip.icu list=speedtest
 add address=piliapp.com list=speedtest
 add address=seribudata.com list=speedtest
 add address=cloud.mikrotik.com list=speedtest
@@ -171,13 +161,11 @@ add address=aruljohn.com list=speedtest
 add address=atomurl.net list=speedtest
 add address=www.bendtel.com list=speedtest
 add address=www.name.com list=speedtest
-add address=mrktng.mate.zone list=speedtest
 add address=www.auditmypc.com list=speedtest
 add address=www.ipify.org list=speedtest
 add address=api6.ipify.org list=speedtest
 add address=dnschecker.org list=speedtest
 add address=www.whatismyproxy.com list=speedtest
-add address=showmyproxy.com list=speedtest
 add address=amibehindaproxy.com list=speedtest
 add address=icanhazip.com list=speedtest
 add address=ip-lookup.net list=speedtest
@@ -190,7 +178,6 @@ add address=www.myiponline.com list=speedtest
 add address=www.findmyip.org list=speedtest
 add address=www.hostip.info list=speedtest
 add address=www.showmyipaddress.eu list=speedtest
-add address=www.spyoff.com list=speedtest
 add address=ba.net list=speedtest
 add address=privacytest.info list=speedtest
 add address=103.28.74.0/23 comment="Indonesia Internet eXchange" list=speedtest
@@ -231,10 +218,8 @@ add address=cloud2.mikrotik.com list=speedtest
 add address=wifi.id list=speedtest
 add address=api.fast.com list=speedtest
 add address=wifiman.com list=speedtest
-add address=speedtest.sia.co.th list=speedtest
 add address=speed.psu.ac.th list=speedtest
 add address=sp-dir.uwn.com list=speedtest
-add address=ds4.whatismyipaddress.com list=speedtest
 add address=ipv4.whatismyip.com list=speedtest
 add address=www.melissa.com list=speedtest
 add address=centralops.net list=speedtest
@@ -242,16 +227,13 @@ add address=test-ipv6.com list=speedtest
 add address=ipv4.lookup.test-ipv6.com list=speedtest
 add address=ipv4.master.test-ipv6.com list=speedtest
 add address=ipv4.test-ipv6.arauc.br list=speedtest
-add address=ipv4.test-ipv6.nl list=speedtest
 add address=ipv4.test-ipv6.roedu.net list=speedtest
 add address=ipv4.v6test.snozzages.com list=speedtest
 add address=ipv4.tunnelbroker.net list=speedtest
 add address=ipv4.excathedra.co list=speedtest
 add address=ipv4.ipv6-test.ch list=speedtest
-add address=ipv4.ipv6-test.pl list=speedtest
 add address=ipv4.ipv6ready.me list=speedtest
 add address=ipv4.jamieweb.net list=speedtest
-add address=ipv4.limeconsultants.com list=speedtest
 add address=ipv4.mudgee.host list=speedtest
 add address=ipv4.nop.hu list=speedtest
 add address=ipv4.nsx.de list=speedtest
@@ -260,32 +242,23 @@ add address=ipv4.sixte.st list=speedtest
 add address=ipv4.stdio.be list=speedtest
 add address=ipv4.test-ipv6-vm3.comcast.net list=speedtest
 add address=ipv4.test-ipv6.alpinedc.ch list=speedtest
-add address=ipv4.test-ipv6.belwue.net list=speedtest
 add address=ipv4.test-ipv6.bvconline.com.ar list=speedtest
 add address=ipv4.test-ipv6.carnet.hr list=speedtest
 add address=ipv4.test-ipv6.cgates.lt list=speedtest
 add address=ipv4.test-ipv6.ch list=speedtest
 add address=ipv4.test-ipv6.cl list=speedtest
 add address=ipv4.test-ipv6.com list=speedtest
-add address=ipv4.test-ipv6.com.au list=speedtest
 add address=ipv4.test-ipv6.cz list=speedtest
 add address=ipv4.test-ipv6.epic.network list=speedtest
 add address=ipv4.test-ipv6.fratec.net list=speedtest
 add address=ipv4.test-ipv6.freerangecloud.com list=speedtest
 add address=ipv4.test-ipv6.go6.si list=speedtest
-add address=ipv4.test-ipv6.hkg.vr.org list=speedtest
 add address=ipv4.test-ipv6.in list=speedtest
 add address=ipv4.test-ipv6.iu13.net list=speedtest
-add address=ipv4.test-ipv6.ke.liquidtelecom.net list=speedtest
 add address=ipv4.test-ipv6.micso.network list=speedtest
-add address=ipv4.test-ipv6.noroutetohost.net list=speedtest
 add address=ipv4.test-ipv6.se list=speedtest
 add address=ipv4.test-ipv6.showmyip.ca list=speedtest
-add address=ipv4.test-ipv6.sin.vr.org list=speedtest
-add address=ipv4.test-ipv6.tld.sk list=speedtest
 add address=ipv4.test-ipv6.ttk.ru list=speedtest
-add address=ipv4.test-ipv6.usetelecom.com.br list=speedtest
-add address=ipv4.test-ipv6.zw.liquidtelecom.net list=speedtest
 add address=ipv4.testipv6.cn list=speedtest
 add address=ipv4.testipv6.de list=speedtest
 add address=ipv4.vulndetect.org list=speedtest
@@ -296,9 +269,7 @@ add address=v4.test-ipv6.do.ayepv6.com list=speedtest
 add address=v4.test-ipv6.vu.ayepv6.com list=speedtest
 add address=ip4.8n1.org list=speedtest
 add address=ipv4-test-ipv6.eurobilltracker.com list=speedtest
-add address=ipv4.ams2.test-ipv6.com list=speedtest
 add address=ipv4.antradar.com list=speedtest
-add address=ipv4.fra.test-ipv6.com list=speedtest
 add address=ipv4.joram.it list=speedtest
 add address=ipv6test.google.com list=speedtest
 add address=v4-zone6.ipv6-test.com list=speedtest
