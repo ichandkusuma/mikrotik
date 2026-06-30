@@ -1,6 +1,7 @@
 #:if ([:len [/file find name=speedtets-list.rsc]] > 0) do={/file remove speedtets-list.rsc }; /tool fetch url="https://raw.githubusercontent.com/ichandkusuma/mikrotik/master/speedtets-list.rsc";/import speedtets-list.rsc;
 
 /ip firewall address-list
+add address=ipinfo.io list=speedtest
 add address=www.google.com list=speedtest
 add address=www.google.co.id list=speedtest
 add address=google.co.id list=speedtest
@@ -66,8 +67,6 @@ add address=check-host.net list=speedtest
 add address=hide.me list=speedtest
 add address=ipv6test.hide.me list=speedtest
 add address=ipleak.com list=speedtest
-add address=www.perfect-privacy.com list=speedtest
-add address=perfect-privacy.com list=speedtest
 add address=www.whatsmyip.org list=speedtest
 add address=whatsmyip.org list=speedtest
 add address=ping.eu list=speedtest
@@ -104,7 +103,6 @@ add address=ipx.ac list=speedtest
 add address=www.doileak.com list=speedtest
 add address=checkip.perfect-privacy.com list=speedtest
 add address=www.my-private-network.co.uk list=speedtest
-add address=ipinfo.io list=speedtest
 add address=ip-check.info list=speedtest
 add address=ipcheck.info list=speedtest
 add address=52.84.146.245 comment=www.expressvpn.com list=speedtest
@@ -231,7 +229,6 @@ add address=cloud2.mikrotik.com list=speedtest
 add address=wifi.id list=speedtest
 add address=api.fast.com list=speedtest
 add address=wifiman.com list=speedtest
-add address=speedtest.sia.co.th list=speedtest
 add address=speed.psu.ac.th list=speedtest
 add address=sp-dir.uwn.com list=speedtest
 add address=ds4.whatismyipaddress.com list=speedtest
@@ -242,7 +239,6 @@ add address=test-ipv6.com list=speedtest
 add address=ipv4.lookup.test-ipv6.com list=speedtest
 add address=ipv4.master.test-ipv6.com list=speedtest
 add address=ipv4.test-ipv6.arauc.br list=speedtest
-add address=ipv4.test-ipv6.nl list=speedtest
 add address=ipv4.test-ipv6.roedu.net list=speedtest
 add address=ipv4.v6test.snozzages.com list=speedtest
 add address=ipv4.tunnelbroker.net list=speedtest
@@ -260,51 +256,39 @@ add address=ipv4.sixte.st list=speedtest
 add address=ipv4.stdio.be list=speedtest
 add address=ipv4.test-ipv6-vm3.comcast.net list=speedtest
 add address=ipv4.test-ipv6.alpinedc.ch list=speedtest
-add address=ipv4.test-ipv6.belwue.net list=speedtest
 add address=ipv4.test-ipv6.bvconline.com.ar list=speedtest
-add address=ipv4.test-ipv6.carnet.hr list=speedtest
 add address=ipv4.test-ipv6.cgates.lt list=speedtest
 add address=ipv4.test-ipv6.ch list=speedtest
 add address=ipv4.test-ipv6.cl list=speedtest
 add address=ipv4.test-ipv6.com list=speedtest
-add address=ipv4.test-ipv6.com.au list=speedtest
 add address=ipv4.test-ipv6.cz list=speedtest
 add address=ipv4.test-ipv6.epic.network list=speedtest
 add address=ipv4.test-ipv6.fratec.net list=speedtest
 add address=ipv4.test-ipv6.freerangecloud.com list=speedtest
 add address=ipv4.test-ipv6.go6.si list=speedtest
-add address=ipv4.test-ipv6.hkg.vr.org list=speedtest
 add address=ipv4.test-ipv6.in list=speedtest
 add address=ipv4.test-ipv6.iu13.net list=speedtest
-add address=ipv4.test-ipv6.ke.liquidtelecom.net list=speedtest
 add address=ipv4.test-ipv6.micso.network list=speedtest
 add address=ipv4.test-ipv6.noroutetohost.net list=speedtest
-add address=ipv4.test-ipv6.se list=speedtest
 add address=ipv4.test-ipv6.showmyip.ca list=speedtest
-add address=ipv4.test-ipv6.sin.vr.org list=speedtest
-add address=ipv4.test-ipv6.tld.sk list=speedtest
 add address=ipv4.test-ipv6.ttk.ru list=speedtest
 add address=ipv4.test-ipv6.usetelecom.com.br list=speedtest
-add address=ipv4.test-ipv6.zw.liquidtelecom.net list=speedtest
 add address=ipv4.testipv6.cn list=speedtest
 add address=ipv4.testipv6.de list=speedtest
 add address=ipv4.vulndetect.org list=speedtest
-add address=test4.vyncke.org list=speedtest
 add address=v4-only.steffann.nl list=speedtest
 add address=v4.ipv6.br list=speedtest
 add address=v4.test-ipv6.do.ayepv6.com list=speedtest
 add address=v4.test-ipv6.vu.ayepv6.com list=speedtest
 add address=ip4.8n1.org list=speedtest
 add address=ipv4-test-ipv6.eurobilltracker.com list=speedtest
-add address=ipv4.ams2.test-ipv6.com list=speedtest
 add address=ipv4.antradar.com list=speedtest
-add address=ipv4.fra.test-ipv6.com list=speedtest
 add address=ipv4.joram.it list=speedtest
 add address=ipv6test.google.com list=speedtest
-add address=v4-zone6.ipv6-test.com list=speedtest
 add address=v4.ipv6-test.com list=speedtest
 add address=v4v6.ipv6-test.com list=speedtest
 add address=ipv6-test.com list=speedtest
 add address=ipv6.he.net list=speedtest
 add address=api.whatismyip.com list=speedtest
 add address=bgp.tools list=speedtest
+add address=v4-zone6.ipv6-test.com list=speedtest
